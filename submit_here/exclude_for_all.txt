@@ -1,2 +1,0 @@
-# https://github.com/luckmagnet/1Hosts/issues/3
-www.canirun.ai
