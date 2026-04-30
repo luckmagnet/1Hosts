@@ -31,7 +31,6 @@ jobs:
           EXCLUDE_NAMES="${EXCLUDE_NAMES:-exclude_for_all.txt,exclude_for_mini_Lite_only.txt}"
           INCLUDE_NAMES="${INCLUDE_NAMES:-include_for_Pro_Xtra_only.txt,include_for_all.txt}"
 
-
           listFiles() { find "$1" -type f -print; }
 
           base="https://cdn.jsdelivr.net/gh/${{ github.repository }}"
@@ -78,7 +77,6 @@ jobs:
           urls=""
           while read -r file; do
             basefile="$(basename "$file")"
-            # skip configured include/exclude files if present in tmp
             for n in $(echo "$EXCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
             for n in $(echo "$INCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
 
@@ -86,11 +84,9 @@ jobs:
             newname="1hosts-$clean_file"
             clean_path=$(echo "$file" | sed 's:\./::g')
 
-            # normalize original file into tmp (preserve original ordering)
             orig_norm="$(mktemp)"
             normalize_stream < "$file" > "$orig_norm" || true
 
-            # remove any normalized exclude lines
             if [ -s "$excludes_tmp" ]; then
               grep -Fvxf "$excludes_tmp" "$orig_norm" > "../release/$newname" || true
             else
@@ -98,7 +94,6 @@ jobs:
             fi
             rm -f "$orig_norm"
 
-            # append normalized includes (dedupe preserving order)
             if [ -s "$includes_tmp" ] && [ -f "../release/$newname" ]; then
               merged="$(mktemp)"
               cat "../release/$newname" "$includes_tmp" > "$merged" || true
@@ -106,11 +101,6 @@ jobs:
               rm -f "$merged"
             fi
 
-            # restore output to original-ish form: (no protocol/www/trailing slash, lowercased)
-            # if you prefer to re-add "https://" prefix, uncomment the sed line below
-            # sed -E 's~^(.*)$~https://\1~' "../release/$newname" > "${newname}.tmp" && mv "${newname}.tmp" "../release/$newname" || true
-
-            # drop files empty after processing
             if ! grep -q '[^[:space:]#]' "../release/$newname"; then
               rm -f "../release/$newname"
               continue
@@ -127,6 +117,13 @@ jobs:
         env:
           EXCLUDE_NAMES: "exclude_for_all.txt,exclude_for_mini_Lite_only.txt"
           INCLUDE_NAMES: "include_for_Pro_Xtra_only.txt,include_for_all.txt"
+
+      - name: Upload Artifacts for Deploy
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-dist
+          path: release/
+          retention-days: 1
 
       - name: Purge jsDelivr Cache
         if: steps.purge_urls.outputs.urls != ''
