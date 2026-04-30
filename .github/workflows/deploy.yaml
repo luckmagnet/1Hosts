@@ -33,31 +33,32 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           run-id: ${{ github.event.workflow_run.id }}
-          # Ensure 'name' matches the one used in your Release workflow upload step
-          # If you didn't name it, 'artifact' is the default.
-          path: dist 
+          # This prevents creating subfolders named after each asset
+          merge-multiple: true
+          path: dist
 
       - name: Verify built artifact exists
         run: |
-          # Debug: list files to see where they landed
+          echo "Current directory structure:"
           ls -R
           if [ ! -d dist ] && [ ! -d build ]; then
-            echo "No dist/build folder found. Checking for zip contents..."
-            # If the artifact was uploaded as files directly to root
-            if ls *.txt 1> /dev/null 2>&1; then
-              mkdir dist
-              mv *.txt dist/ 2>/dev/null || true
-            else
-              echo "Error: No artifacts found."
-              exit 1
-            fi
+            echo "Error: Neither dist nor build directory found."
+            exit 1
           fi
 
       - name: Prepare output folder
         run: |
           rm -rf out
-          mkdir out
-          if [ -d dist ]; then cp -r dist/* out/; else cp -r build/* out/; fi
+          mkdir -p out
+          # Check if dist has files, if not check build
+          if [ -d dist ] && [ "$(ls -A dist)" ]; then
+            cp -r dist/* out/
+          elif [ -d build ] && [ "$(ls -A build)" ]; then
+            cp -r build/* out/
+          else
+            echo "Error: Source directories are empty."
+            exit 1
+          fi
 
       - name: Publish to GitHub Pages (gh-pages)
         env:
@@ -99,7 +100,7 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             https://api.github.com/repos/${GH_TARGET_REPO}/git/refs \
             -d "$(jq -n --arg ref "refs/tags/filters-${GITHUB_RUN_ID}" --arg sha "${TAG_SHA}" '{ref:$ref, sha:$sha}')" \
-          || echo "Tag creation may have failed or already exists."
+          || echo "Tag creation failed (it might already exist)."
 
       - name: Success marker
         run: echo "Deploy finished"
