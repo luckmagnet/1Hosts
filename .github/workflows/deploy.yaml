@@ -20,6 +20,7 @@ jobs:
       CODEBERG_REPO: ${{ secrets.CODEBERG_REPO }}
       CODEBERG_PAT: ${{ secrets.CODEBERG_PAT }}
       JSDELIVERRIDE_TAG: ${{ github.event.workflow_run.head_sha || github.sha }}
+
     steps:
       - name: Checkout source at released commit
         uses: actions/checkout@v4
@@ -32,13 +33,24 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           run-id: ${{ github.event.workflow_run.id }}
-          path: .
+          # Ensure 'name' matches the one used in your Release workflow upload step
+          # If you didn't name it, 'artifact' is the default.
+          path: dist 
 
       - name: Verify built artifact exists
         run: |
+          # Debug: list files to see where they landed
+          ls -R
           if [ ! -d dist ] && [ ! -d build ]; then
-            echo "No dist/build folder found."
-            exit 1
+            echo "No dist/build folder found. Checking for zip contents..."
+            # If the artifact was uploaded as files directly to root
+            if ls *.txt 1> /dev/null 2>&1; then
+              mkdir dist
+              mv *.txt dist/ 2>/dev/null || true
+            else
+              echo "Error: No artifacts found."
+              exit 1
+            fi
           fi
 
       - name: Prepare output folder
@@ -81,7 +93,6 @@ jobs:
           GH_TARGET_REPO: ${{ secrets.GH_TARGET_REPO }}
           JSDELIVERRIDE_TAG: ${{ env.JSDELIVERRIDE_TAG }}
         run: |
-          # Use provided tag SHA when available; fall back to current run SHA
           TAG_SHA="${JSDELIVERRIDE_TAG:-${GITHUB_SHA}}"
           curl -s -X POST \
             -H "Authorization: token ${GH_TARGET_PAT}" \
