@@ -12,6 +12,7 @@ concurrency:
 
 jobs:
   deploy:
+    # Only run if manual OR the release workflow was successful
     if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }}
     runs-on: ubuntu-latest
     env:
@@ -19,32 +20,42 @@ jobs:
       GH_TARGET_PAT: ${{ secrets.GH_TARGET_PAT }}
       CODEBERG_REPO: ${{ secrets.CODEBERG_REPO }}
       CODEBERG_PAT: ${{ secrets.CODEBERG_PAT }}
-      JSDELIVERRIDE_TAG: ${{ github.event.workflow_run.head_sha || github.sha }}
+      # Use the SHA from the release run if available
+      DEPLOY_SHA: ${{ github.event.workflow_run.head_sha || github.sha }}
 
     steps:
-      - name: Checkout source at released commit
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+          ref: ${{ env.DEPLOY_SHA }}
           fetch-depth: 0
 
-      - name: Download artifacts from Release run
-        if: ${{ github.event_name == 'workflow_run' }}
+      - name: Download artifacts
         uses: actions/download-artifact@v4
         with:
+          # This ensures it grabs the artifact from the Release run that just finished
           run-id: ${{ github.event.workflow_run.id }}
-          # MUST match the name used in your Release workflow
-          name: release-dist 
+          name: release-dist
           path: dist
+        # Continue if manual trigger (where run-id is empty)
+        continue-on-error: true
 
       - name: Verify built artifact exists
         run: |
           echo "Current directory structure:"
           ls -R
-          if [ ! -d dist ] && [ ! -d build ]; then
-            echo "Error: Neither dist nor build directory found."
-            # Debug: check if files landed in root by mistake
-            ls -F
+          
+          # Check dist, then check build, then check if files landed in root
+          if [ -d dist ] && [ "$(ls -A dist)" ]; then
+            echo "Artifacts found in dist/."
+          elif [ -d build ] && [ "$(ls -A build)" ]; then
+            echo "Artifacts found in build/. Moving to dist/."
+            mkdir -p dist && cp -r build/* dist/
+          elif ls 1hosts-* 1> /dev/null 2>&1; then
+            echo "Artifacts found in root. Moving to dist/."
+            mkdir -p dist && mv 1hosts-* dist/
+          else
+            echo "Error: No built artifacts found (checked dist/, build/, and root)."
             exit 1
           fi
 
@@ -52,17 +63,9 @@ jobs:
         run: |
           rm -rf out
           mkdir -p out
-          # Check if dist has files, if not check build
-          if [ -d dist ] && [ "$(ls -A dist)" ]; then
-            cp -r dist/* out/
-          elif [ -d build ] && [ "$(ls -A build)" ]; then
-            cp -r build/* out/
-          else
-            echo "Error: Source directories are empty."
-            exit 1
-          fi
+          cp -r dist/* out/
 
-      - name: Publish to GitHub Pages (gh-pages)
+      - name: Publish to GitHub Pages
         env:
           GH_TARGET_PAT: ${{ secrets.GH_TARGET_PAT }}
           GH_TARGET_REPO: ${{ secrets.GH_TARGET_REPO }}
@@ -74,7 +77,7 @@ jobs:
           git checkout -b gh-pages
           git remote add target https://x-access-token:${GH_TARGET_PAT}@github.com/${GH_TARGET_REPO}.git
           git add --all
-          git commit -m "Publish filter list: ${GITHUB_SHA}" || echo "No changes to commit"
+          git commit -m "Publish filter list: ${DEPLOY_SHA}" || echo "No changes to commit"
           git push --force target gh-pages
 
       - name: Publish to Codeberg
@@ -87,22 +90,21 @@ jobs:
           git checkout -b main
           git remote add codeberg https://x-access-token:${CODEBERG_PAT}@codeberg.org/${CODEBERG_REPO}
           git add --all
-          git commit -m "Publish filter list: ${GITHUB_SHA}" || echo "No changes to commit"
+          git commit -m "Publish filter list: ${DEPLOY_SHA}" || echo "No changes to commit"
           git push --force codeberg HEAD:main
 
-      - name: Create tag on target repo for jsDelivr
+      - name: Create tag on target repo
         env:
           GH_TARGET_PAT: ${{ secrets.GH_TARGET_PAT }}
           GH_TARGET_REPO: ${{ secrets.GH_TARGET_REPO }}
-          JSDELIVERRIDE_TAG: ${{ env.JSDELIVERRIDE_TAG }}
         run: |
-          TAG_SHA="${JSDELIVERRIDE_TAG:-${GITHUB_SHA}}"
+          # Use run ID for a unique tag name
+          TAG_NAME="filters-${{ github.run_id }}"
           curl -s -X POST \
             -H "Authorization: token ${GH_TARGET_PAT}" \
             -H "Accept: application/vnd.github+json" \
             https://api.github.com/repos/${GH_TARGET_REPO}/git/refs \
-            -d "$(jq -n --arg ref "refs/tags/filters-${GITHUB_RUN_ID}" --arg sha "${TAG_SHA}" '{ref:$ref, sha:$sha}')" \
-          || echo "Tag creation failed (it might already exist)."
+            -d "$(jq -n --arg ref "refs/tags/$TAG_NAME" --arg sha "${DEPLOY_SHA}" '{ref:$ref, sha:$sha}')"
 
       - name: Success marker
         run: echo "Deploy finished"
