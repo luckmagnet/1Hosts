@@ -33,7 +33,8 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           run-id: ${{ github.event.workflow_run.id }}
-          merge-multiple: true
+          # MUST match the name used in your Release workflow
+          name: release-dist 
           path: dist
 
       - name: Verify built artifact exists
@@ -42,6 +43,8 @@ jobs:
           ls -R
           if [ ! -d dist ] && [ ! -d build ]; then
             echo "Error: Neither dist nor build directory found."
+            # Debug: check if files landed in root by mistake
+            ls -F
             exit 1
           fi
 
