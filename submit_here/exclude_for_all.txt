@@ -1,2 +1,5 @@
 # https://github.com/badmojr/1Hosts/issues/3803
 hackerspace.pl
+
+# https://github.com/badmojr/1Hosts/issues/3801
+justgeek.fr
