@@ -3,8 +3,8 @@
 ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
 
 <p align="center">
-    <a href="#"><img src="https://badgen.net/github/last-commit/badmojr/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
-    <a href="#"><img src="https://img.shields.io/github/repo-size/badmojr/1Hosts?logo=adblock&style=plastic" alt="Repo size"></a>
+    <a href="#"><img src="https://badgen.net/github/last-commit/luckmagnet/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
+    <a href="#"><img src="https://img.shields.io/github/repo-size/luckmagnet/1Hosts?logo=adblock&style=plastic" alt="Repo size"></a>
 </p>
 
 <br>
@@ -27,63 +27,63 @@
 <tbody>
 <tr>
 <td>AdAway</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/hosts.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/hosts.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_hosts.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_hosts.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/hosts.txt">view</a></td>
 </tr>
 <tr>
 <td>Pi-hole / OpenSnitch</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/domains.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/domains.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_domains.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_domains.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/domains.txt">view</a></td>
 </tr>
 <tr>
 <td>dnscrypt-proxy / personalDNSfilter / InviZible Pro</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/domains.wildcards">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/domains.wildcards">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_domains.wildcards">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_domains.wildcards">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/domains.wildcards">dl</a></td>
 </tr>
 <tr>
 <td>uBlock Origin / AdGuardHome</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/adblock.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/adblock.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_adblock.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_adblock.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/adblock.txt">view</a></td>
 </tr>
 <tr>
 <td>DNSCloak</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/wildcards.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/wildcards.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/wildcards.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_wildcards.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_wildcards.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/wildcards.txt">view</a></td>
 </tr>
 <tr>
 <td>dnsmasq</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/dnsmasq.conf">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/dnsmasq.conf">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/dnsmasq.conf">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_dnsmasq.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_dnsmasq.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/dnsmasq.conf">view</a></td>
 </tr>
 <tr>
 <td>Knot / Bind9 / PowerDNS</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/rpz.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/rpz.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/rpz.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_rpz.txt">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_rpz.txt">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/rpz.txt">view</a></td>
 </tr>
 <tr>
 <td>Unbound</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/unbound.conf">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/unbound.conf">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/unbound.conf">view</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_unbound.conf">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_unbound.conf">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/unbound.conf">view</a></td>
 </tr>
 <tr>
 <td>Windows</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/hosts.win">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.win">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/hosts.win">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_hosts.win">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_hosts.win">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/hosts.win">dl</a></td>
 </tr>
 <tr>
 <td>Little Snitch</td>
-<td><a href="https://badmojr.github.io/1Hosts/Lite/snitch.rules">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/snitch.rules">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Lite/snitch.rules">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_snitch.rules">dl</a></td>
+<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_snitch.rules">view</a></td>
+<td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/snitch.rules">dl</a></td>
 </tr>
 </tbody>
 </table>
@@ -94,7 +94,7 @@
     <i>Aggressive version - maximum blocking against emerging privacy threats. May (occasionally) disrupt legit sites or services.
 </i>
 <br><br>
-    Available in all formats at <a href="https://github.com/badmojr/1Hosts/releases">releases</a>.
+    Available in all formats at <a href="https://github.com/luckmagnet/1Hosts/releases">releases</a>.
 
 <br>
 <br>
@@ -205,7 +205,7 @@ Smaller in size compared to alternatives, yet blocks more for many users.
 
 _Help us create a better experience <3!_  
 - ⭐ Star the repo.
-- Report false positives or issues via [GitHub Issues](https://github.com/badmojr/1Hosts/issues).
+- Report false positives or issues via [GitHub Issues](https://github.com/luckmagnet/1Hosts/issues).
 - Share with friends for a safer web.
 
 <a href="https://youtube.com/@MarvelousQuran"><img src="./-data/static/img/mq.jpg" title="Watch MarvelousQuran's amazing videos">
