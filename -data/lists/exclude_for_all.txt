@@ -1,3 +1,8 @@
+# https://github.com/badmojr/1Hosts/issues/3845
+fedidevs.com
+
+# https://github.com/badmojr/1Hosts/issues/3850
+notateslaapp.com
 # https://github.com/badmojr/1Hosts/issues/3833
 play-apps-features.googleusercontent.com
 # https://github.com/luckmagnet/1Hosts/issues/6
