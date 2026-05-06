@@ -1,2 +1,5 @@
+# https://github.com/badmojr/1Hosts/issues/3845
+fedidevs.com
+
 # https://github.com/badmojr/1Hosts/issues/3850
 notateslaapp.com
