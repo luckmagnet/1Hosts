@@ -1,2 +1,0 @@
-# https://github.com/badmojr/1Hosts/issues/3833
-play-apps-features.googleusercontent.com
