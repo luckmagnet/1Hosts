@@ -16,152 +16,156 @@ jobs:
   create_release:
     runs-on: ubuntu-latest
 
-  steps:
-  - name: Clone Repo
-    uses: actions/checkout@v4
-    with:
-      ref: \${{ github.ref }}
-      fetch-depth: 0
-      
-  - name: Prep release
-    id: purge\_urls
-    run: |
-      set -euo pipefail
-      EXCLUDE\_NAMES="\${EXCLUDE\_NAMES:-exclude\_for\_all.txt,exclude\_for\_mini\_Lite\_only.txt}"
-      INCLUDE\_NAMES="\${INCLUDE\_NAMES:-include\_for\_Pro\_Xtra\_only.txt,include\_for\_all.txt}"
-      listFiles() { find "\$1" -type f -print; }
-      base="https://cdn.jsdelivr.net/gh/\${{ github.repository }}"
-      versions="master latest"
-      rm -rf release tmp && mkdir -p release tmp
-      cp -rf Lite Xtra tmp && cd tmp
-      L\_DIR="\${GITHUB\_WORKSPACE}/-data/lists"
-      # normalize for hosts-only output (strips adblock tokens)
-      normalize\_hosts() {
-        sed -E 's/^[[:space:]]+|[[:space:]]+\$//g' \\
-        | sed '/^[[:space:]]\*\$/d' \\
-        | sed '/^[[:space:]]\*#/d' \\
-        | sed -E 's/^(\|\|?)+//; s/^\|+//' \\
-        | sed -E 's/(\\^|\\\\\*|\\/\\\*)\$//g' \\
-        | sed -E 's/\\\*//g' \\
-        | tr '[:upper:]' '[:lower:]' \\
-        | sed -E 's~^https?://~~; s~^www\\.~~; s:/\*\$::'
-      }
-      # normalize for adblock/filterlist output (preserve ||, ^, \$, * etc)
-      normalize\_adblock() {
-        sed -E 's/\r\$//' \\
-        | sed -E 's/^[[:space:]]+|[[:space:]]+\$//g' \\
-        | sed '/^[[:space:]]\*\$/d' \\
-        | tr '[:upper:]' '[:lower:]'
-        # keep comment lines starting with ! or [Adblock] or # as-is (we don't remove them here)
-      }
-      normalize\_stream() {
-        # wrapper: decide which normalizer to use based on file content (adblock tokens)
-        local infile="\$1"
-        if grep -q -E '\|\||\\^' "\$infile" 2>/dev/null; then
-          normalize\_adblock < "\$infile"
-        else
-          normalize\_hosts < "\$infile"
-        fi
-      }
-      gather() {
-        local names\_csv="\$1"; local out="\$2"
-        : > "\$out"
-        IFS=',' read -ra NAMES <<< "\$names\_csv"
-        for n in "\${NAMES[@]}"; do
-          n="\$(echo "\$n" | sed 's/^[[:space:]]\*//; s/[[:space:]]\*\$//')"
-          [ -z "\$n" ] && continue
-          find "\$L\_DIR" -type f $ -name "$n" -o -name "${n}.*" $ -print0 2>/dev/null \\
-            | while IFS= read -r -d '' f; do
-                # we append raw file content into gather output but normalized later where used
-                cat "$f" | sed -E 's/\r$//' >> "\$out"
-              done || true
-        done
-        sort -u "\$out" -o "\$out" || true
-      }
-      excludes\_tmp="\$(mktemp)"; includes\_tmp="\$(mktemp)"
-      : > "\$excludes\_tmp"; : > "\$includes\_tmp"
-      if [ -d "\$L\_DIR" ]; then
-        gather "\$EXCLUDE\_NAMES" "\$excludes\_tmp"
-        gather "\$INCLUDE\_NAMES" "\$includes\_tmp"
-      fi
-      urls=""
-      while read -r file; do
-        basefile="\$(basename "\$file")"
-        for n in \$(echo "\$EXCLUDE\_NAMES" | tr ',' ' '); do [ "\$basefile" = "\$n" ] && continue 2 || true; done
-        for n in \$(echo "\$INCLUDE\_NAMES" | tr ',' ' '); do [ "\$basefile" = "\$n" ] && continue 2 || true; done
-        clean\_file=\$(echo "\$file" | sed 's:\\./::g; s:/:\_:g')
-        newname="1hosts-\$clean\_file"
-        clean\_path=\$(echo "\$file" | sed 's:\\./::g')
-        orig\_norm="\$(mktemp)"
-        # choose normalization by inspecting file content
-        normalize\_stream "\$file" > "\$orig\_norm" || true
-        if [ -s "\$excludes\_tmp" ]; then
-          grep -Fvxf "\$excludes\_tmp" "\$orig\_norm" > "../release/\$newname" || true
-        else
-          cp "\$orig\_norm" "../release/\$newname"
-        fi
-        rm -f "\$orig\_norm"
-        # If includes exist and we produced a release file, merge and dedupe while preserving non-empty non-comment lines
-        if [ -s "\$includes\_tmp" ] && [ -f "../release/\$newname" ]; then
-          merged="\$(mktemp)"
-          # for adblock-like files (detected by presence of || or ^ in file), preserve comments starting with '!' too
-          if grep -q -E '\|\||\\^' "../release/\$newname" 2>/dev/null || grep -q -E '\|\||\\^' "\$includes\_tmp" 2>/dev/null; then
-            cat "../release/\$newname" "\$includes\_tmp" > "\$merged" || true
-            awk '{
-              if (\$0 ~ /^[[:space:]]\*\$/) next
-              if (\$0 ~ /^[[:space:]]\*#/) { if (!seen["#"\$0]++) print \$0; next }
-              if (\$0 ~ /^[[:space:]]\*!/) { if (!seen["!"\$0]++) print \$0; next }
-              if (!seen[\$0]++) print \$0
-            }' "\$merged" > "../release/\$newname" || true
-          else
-            cat "../release/\$newname" "\$includes\_tmp" > "\$merged" || true
-            awk '!/^[[:space:]]\*(\$|#)/ { if (!seen[\$0]++) print \$0 }' "\$merged" > "../release/\$newname" || true
+    steps:
+      - name: Clone Repo
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 0
+
+      - name: Prep release
+        id: purge_urls
+        run: |
+          set -euo pipefail
+          EXCLUDE_NAMES="${EXCLUDE_NAMES:-exclude_for_all.txt,exclude_for_mini_Lite_only.txt}"
+          INCLUDE_NAMES="${INCLUDE_NAMES:-include_for_Pro_Xtra_only.txt,include_for_all.txt}"
+          listFiles() { find "$1" -type f -print; }
+          base="https://cdn.jsdelivr.net/gh/${{ github.repository }}"
+          versions="master latest"
+          rm -rf release tmp && mkdir -p release tmp
+          cp -rf Lite Xtra tmp && cd tmp
+          L_DIR="${GITHUB_WORKSPACE}/-data/lists"
+
+          # normalize for hosts-only output (strips adblock tokens)
+          normalize_hosts() {
+            sed -E 's/^[[:space:]]+|[[:space:]]+$//g' \
+            | sed '/^[[:space:]]*$/d' \
+            | sed '/^[[:space:]]*#/d' \
+            | sed -E 's/^(\|\|?)+//; s/^\|+//' \
+            | sed -E 's/(\^|\\\*|\/\*)$//g' \
+            | sed -E 's/\*//g' \
+            | tr '[:upper:]' '[:lower:]' \
+            | sed -E 's~^https?://~~; s~^www\.~~; s:/*$::'
+          }
+
+          # normalize for adblock/filterlist output (preserve ||, ^, $, * etc)
+          normalize_adblock() {
+            sed -E 's/\r$//' \
+            | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' \
+            | sed '/^[[:space:]]*$/d' \
+            | tr '[:upper:]' '[:lower:]'
+            # keep comment lines starting with ! or [Adblock] or # as-is
+          }
+
+          normalize_stream() {
+            local infile="$1"
+            if grep -q -E '\|\||\^' "$infile" 2>/dev/null; then
+              normalize_adblock < "$infile"
+            else
+              normalize_hosts < "$infile"
+            fi
+          }
+
+          gather() {
+            local names_csv="$1"; local out="$2"
+            : > "$out"
+            IFS=',' read -ra NAMES <<< "$names_csv"
+            for n in "${NAMES[@]}"; do
+              n="$(echo "$n" | sed 's/^[[:space:]]*//; s/[[:space:]]*$//')"
+              [ -z "$n" ] && continue
+              find "$L_DIR" -type f \( -name "$n" -o -name "${n}.*" \) -print0 2>/dev/null \
+                | while IFS= read -r -d '' f; do
+                    cat "$f" | sed -E 's/\r$//' >> "$out"
+                  done || true
+            done
+            sort -u "$out" -o "$out" || true
+          }
+
+          excludes_tmp="$(mktemp)"; includes_tmp="$(mktemp)"
+          : > "$excludes_tmp"; : > "$includes_tmp"
+          if [ -d "$L_DIR" ]; then
+            gather "$EXCLUDE_NAMES" "$excludes_tmp"
+            gather "$INCLUDE_NAMES" "$includes_tmp"
           fi
-          rm -f "\$merged"
-        fi
-        # remove empty or comment-only files
-        if ! grep -q '[^[:space:]#\\!]' "../release/\$newname"; then
-          rm -f "../release/\$newname"
-          continue
-        fi
-        for v in \$versions; do
-          urls+="\${base}@\${v}/\${clean\_path},"
-        done
-      done < <(listFiles .)
-      cd .. && rm -rf tmp
-      echo "urls=\${urls%,\*}" >> \$GITHUB\_OUTPUT
-    shell: bash
-    env:
-      EXCLUDE\_NAMES: "exclude\_for\_all.txt,exclude\_for\_mini\_Lite\_only.txt"
-      INCLUDE\_NAMES: "include\_for\_Pro\_Xtra\_only.txt,include\_for\_all.txt"
 
-  - name: Upload Artifacts for Deploy
-    uses: actions/upload-artifact@v4
-    with:
-      name: release-dist
-      path: release/
-      retention-days: 1
+          urls=""
+          while read -r file; do
+            basefile="$(basename "$file")"
+            for n in $(echo "$EXCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
+            for n in $(echo "$INCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
+            clean_file=$(echo "$file" | sed 's:\./::g; s:/:_:g')
+            newname="1hosts-$clean_file"
+            clean_path=$(echo "$file" | sed 's:\./::g')
+            orig_norm="$(mktemp)"
+            normalize_stream "$file" > "$orig_norm" || true
 
-  - name: Purge jsDelivr Cache
-    if: steps.purge\_urls.outputs.urls != ''
-    uses: egad13/purge-jsdelivr-cache@v1.1.0
-    with:
-      url: \${{ steps.purge\_urls.outputs.urls }}
+            if [ -s "$excludes_tmp" ]; then
+              grep -Fvxf "$excludes_tmp" "$orig_norm" > "../release/$newname" || true
+            else
+              cp "$orig_norm" "../release/$newname"
+            fi
+            rm -f "$orig_norm"
 
-  - name: Publish Release
-    uses: marvinpinto/action-automatic-releases@v1.2.1
-    with:
-      repo\_token: "\${{ secrets.GITHUB\_TOKEN }}"
-      automatic\_release\_tag: "latest"
-      prerelease: false
-      title: "Lists"
-      files: release/*
+            if [ -s "$includes_tmp" ] && [ -f "../release/$newname" ]; then
+              merged="$(mktemp)"
+              if grep -q -E '\|\||\^' "../release/$newname" 2>/dev/null || grep -q -E '\|\||\^' "$includes_tmp" 2>/dev/null; then
+                cat "../release/$newname" "$includes_tmp" > "$merged" || true
+                awk '{
+                  if ($0 ~ /^[[:space:]]*$/) next
+                  if ($0 ~ /^[[:space:]]*#/) { if (!seen["#"$0]++) print $0; next }
+                  if ($0 ~ /^[[:space:]]*!/) { if (!seen["!"$0]++) print $0; next }
+                  if (!seen[$0]++) print $0
+                }' "$merged" > "../release/$newname" || true
+              else
+                cat "../release/$newname" "$includes_tmp" > "$merged" || true
+                awk '!/^[[:space:]]*($|#)/ { if (!seen[$0]++) print $0 }' "$merged" > "../release/$newname" || true
+              fi
+              rm -f "$merged"
+            fi
 
-  - name: Delete Older Releases
-    uses: dev-drprasad/delete-older-releases@v0.1.0
-    with:
-      keep\_latest: 1
-      delete\_tags: true
-    env:
-      GITHUB\_TOKEN: \${{ secrets.GITHUB\_TOKEN }}
-      
+            if ! grep -q '[^[:space:]#\!]' "../release/$newname"; then
+              rm -f "../release/$newname"
+              continue
+            fi
+
+            for v in $versions; do
+              urls+="${base}@${v}/${clean_path},"
+            done
+          done < <(listFiles .)
+
+          cd .. && rm -rf tmp
+          echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
+        shell: bash
+        env:
+          EXCLUDE_NAMES: "exclude_for_all.txt,exclude_for_mini_Lite_only.txt"
+          INCLUDE_NAMES: "include_for_Pro_Xtra_only.txt,include_for_all.txt"
+
+      - name: Upload Artifacts for Deploy
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-dist
+          path: release/
+          retention-days: 1
+
+      - name: Purge jsDelivr Cache
+        if: steps.purge_urls.outputs.urls != ''
+        uses: egad13/purge-jsdelivr-cache@v1.1.0
+        with:
+          url: ${{ steps.purge_urls.outputs.urls }}
+
+      - name: Publish Release
+        uses: marvinpinto/action-automatic-releases@v1.2.1
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: "Lists"
+          files: release/*
+
+      - name: Delete Older Releases
+        uses: dev-drprasad/delete-older-releases@v0.1.0
+        with:
+          keep_latest: 1
+          delete_tags: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
