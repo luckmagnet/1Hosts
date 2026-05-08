@@ -1,3 +1,5 @@
+# https://github.com/luckmagnet/1Hosts/issues/9
+stoat.chat
 # https://github.com/badmojr/1Hosts/issues/3845
 fedidevs.com
 
