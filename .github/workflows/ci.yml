@@ -1,19 +1,20 @@
 name: ci
-'on':
+on:
   workflow_dispatch:
   schedule:
-    - cron: 02 7 * * *
-          
+    - cron: '02 7 * * *'
 
 permissions:
   contents: write
-  
+  actions: write
+
 jobs:
   init:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+
       - name: Prep submit_here
         run: |
           (
@@ -56,3 +57,5 @@ jobs:
         with:
           retain_days: 1
           keep_minimum_runs: 0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
