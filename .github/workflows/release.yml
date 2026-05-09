@@ -75,10 +75,10 @@ jobs:
               [ -z "$n" ] && continue
               find "$L_DIR" -type f \( -name "$n" -o -name "${n}.*" \) -print0 2>/dev/null \
                 | while IFS= read -r -d '' f; do
-                    cat "$f" | sed -E 's/\r$//' >> "$out"
+                    normalize_stream "$f" >> "$out"
                   done || true
             done
-            sort -u "$out" -o "$out" || true
+            LC_ALL=C sort -u "$out" -o "$out" || true
           }
 
           excludes_tmp="$(mktemp)"; includes_tmp="$(mktemp)"
