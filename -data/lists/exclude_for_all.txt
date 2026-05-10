@@ -1,3 +1,5 @@
+# https://github.com/luckmagnet/1Hosts/issues/1
+examgoal.net
 # https://github.com/badmojr/1Hosts/issues/3938
 a.gslb.aaplimg.com
 b.gslb.aaplimg.com
