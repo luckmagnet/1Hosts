@@ -123,6 +123,13 @@ jobs:
               rm -f "$merged"
             fi
 
+            # Re-apply excludes after includes/merge to ensure excluded domains are removed
+            if [ -s "$excludes_tmp" ] && [ -f "../release/$newname" ]; then
+              tmpf="$(mktemp)"
+              grep -Fvxf "$excludes_tmp" "../release/$newname" > "$tmpf" || true
+              mv "$tmpf" "../release/$newname"
+            fi
+
             if ! grep -q '[^[:space:]#\!]' "../release/$newname"; then
               rm -f "../release/$newname"
               continue
