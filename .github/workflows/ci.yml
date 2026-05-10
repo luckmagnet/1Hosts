@@ -2,7 +2,7 @@ name: ci
 on:
   workflow_dispatch:
   schedule:
-    - cron: '02 8 * * *'
+   - cron: '02 */12 * * *'
 
 permissions:
   contents: write
