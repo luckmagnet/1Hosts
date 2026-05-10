@@ -123,11 +123,45 @@ jobs:
               rm -f "$merged"
             fi
 
-            # Re-apply excludes after includes/merge to ensure excluded domains are removed
+            # Re-apply excludes after includes/merge to ensure excluded domains are removed.
+            # Normalize both exclude patterns and release lines to a common hosts-style form
+            # before comparing so adblock/hosts format differences don't bypass the filter.
             if [ -s "$excludes_tmp" ] && [ -f "../release/$newname" ]; then
-              tmpf="$(mktemp)"
-              grep -Fvxf "$excludes_tmp" "../release/$newname" > "$tmpf" || true
-              mv "$tmpf" "../release/$newname"
+              norm_excl="$(mktemp)"; norm_rel="$(mktemp)"; out_tmp="$(mktemp)"
+              # normalize excludes to hosts form
+              sed -E 's/^[[:space:]]+|[[:space:]]+$//g' "$excludes_tmp" \
+                | sed '/^[[:space:]]*$/d' \
+                | sed -E 's/^[!#]//g' \
+                | sed -E 's/^(\|\|?)+//; s/^\|+//' \
+                | sed -E 's/(\^|\\\*|\/\*)$//g' \
+                | sed -E 's~^https?://~~; s~^www\.~~; s:/*$::' \
+                | tr '[:upper:]' '[:lower:]' \
+                | sed -E 's/\*//g' > "$norm_excl" || true
+
+              # normalize release file lines to hosts form for comparison, but keep original lines in parallel
+              awk '{
+                line=$0
+                gsub(/^[[:space:]]+|[[:space:]]+$/,"",line)
+                if (line=="" || line ~ /^[[:space:]]*#/ ) { print "::COMMENT::"$0; next }
+                l=line
+                sub(/^[!#]/,"",l)
+                gsub(/^\|\|?/,"",l)
+                gsub(/\^$|\\\*$|\/\*$/,"",l)
+                gsub(/^https?:\/\//,"",l)
+                gsub(/^www\./,"",l)
+                gsub(/\*+/,"",l)
+                print l "::::ORIG::::" $0
+              }' "../release/$newname" > "$norm_rel" || true
+
+              # filter: keep only original lines whose normalized form is NOT in norm_excl
+              awk -F"::::ORIG::::" 'NR==FNR{ex[$1]=1; next} {
+                split($0,parts,"::::ORIG::::"); norm=parts[1]; orig=parts[2];
+                if (substr(norm,1,9)=="::COMMENT") { print substr($0,index($0,"::::ORIG::::")+11) ; next }
+                if (!(norm in ex)) print orig
+              }' "$norm_excl" "$norm_rel" > "$out_tmp" || true
+
+              mv "$out_tmp" "../release/$newname" || true
+              rm -f "$norm_excl" "$norm_rel"
             fi
 
             if ! grep -q '[^[:space:]#\!]' "../release/$newname"; then
