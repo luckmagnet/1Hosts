@@ -1,3 +1,8 @@
+# https://github.com/badmojr/1Hosts/issues/3943
+jonaharagon.net
+garage.jonaharagon.net
+privacyguides.org
+www.privacyguides.org
 https://github.com/luckmagnet/1Hosts/issues/11
 studio.sandisk.com-v1.edgekey.net
 
