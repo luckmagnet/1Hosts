@@ -76,7 +76,7 @@
 <tr>
 <td>Windows</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_hosts.win">dl</a></td>
-<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite__hosts.win">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_hosts.win">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/hosts.win">dl</a></td>
 </tr>
 <tr>
