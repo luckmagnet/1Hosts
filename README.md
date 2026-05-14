@@ -28,61 +28,61 @@
 <tr>
 <td>AdAway</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_hosts.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_hosts.txt">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_hosts.txt">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/hosts.txt">view</a></td>
 </tr>
 <tr>
 <td>Pi-hole / OpenSnitch</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_domains.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_domains.txt">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_domains.txt">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/domains.txt">view</a></td>
 </tr>
 <tr>
 <td>dnscrypt-proxy / personalDNSfilter / InviZible Pro</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_domains.wildcards">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_domains.wildcards">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_domains.wildcards">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/domains.wildcards">dl</a></td>
 </tr>
 <tr>
 <td>uBlock Origin / AdGuardHome</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_adblock.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_adblock.txt">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_adblock.txt">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/adblock.txt">view</a></td>
 </tr>
 <tr>
 <td>DNSCloak</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_wildcards.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_wildcards.txt">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_wildcards.txt">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/wildcards.txt">view</a></td>
 </tr>
 <tr>
 <td>dnsmasq</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_dnsmasq.conf">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_dnsmasq.conf">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_dnsmasq.conf">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/dnsmasq.conf">view</a></td>
 </tr>
 <tr>
 <td>Knot / Bind9 / PowerDNS</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_rpz.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_rpz.txt">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_rpz.txt">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/rpz.txt">view</a></td>
 </tr>
 <tr>
 <td>Unbound</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_unbound.conf">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_unbound.conf">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_unbound.conf">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/unbound.conf">view</a></td>
 </tr>
 <tr>
 <td>Windows</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_hosts.win">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_hosts.win">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite__hosts.win">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/hosts.win">dl</a></td>
 </tr>
 <tr>
 <td>Little Snitch</td>
 <td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_snitch.rules">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/luckmagnet/luckmagnet.github.io/gh-pages/1hosts-Lite_snitch.rules">view</a></td>
+<td><a href="https://codeberg.org/luckmagnet/1Hosts/raw/branch/main/1hosts-Lite_snitch.rules">view</a></td>
 <td><a href="https://cdn.jsdelivr.net/gh/luckmagnet/1Hosts@master/Lite/snitch.rules">dl</a></td>
 </tr>
 </tbody>
