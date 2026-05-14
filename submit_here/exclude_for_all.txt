@@ -1,5 +1,0 @@
-# https://github.com/badmojr/1Hosts/issues/3891
-wup-content23.bmo.com
-
-# https://github.com/badmojr/1Hosts/issues/3948
-shed.s-0005.dual-s-dc-msedge.net
