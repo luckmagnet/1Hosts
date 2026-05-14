@@ -3,10 +3,10 @@ jonaharagon.net
 garage.jonaharagon.net
 privacyguides.org
 www.privacyguides.org
-https://github.com/luckmagnet/1Hosts/issues/11
+# https://github.com/luckmagnet/1Hosts/issues/11
 studio.sandisk.com-v1.edgekey.net
 
-https://github.com/luckmagnet/1Hosts/issues/10
+# https://github.com/luckmagnet/1Hosts/issues/10
 assets.adobedtm.com
 # https://github.com/luckmagnet/1Hosts/issues/1
 examgoal.net
