@@ -1,3 +1,3 @@
-https://github.com/badmojr/1Hosts/issues/4002
+# https://github.com/badmojr/1Hosts/issues/4002
 accounts.zohocloud.net
 accounts.zoho.com
