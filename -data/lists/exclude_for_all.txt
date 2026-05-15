@@ -1,3 +1,6 @@
+# https://github.com/badmojr/1Hosts/issues/4002
+accounts.zohocloud.net
+accounts.zoho.com
 # https://github.com/badmojr/1Hosts/issues/3891
 wup-content23.bmo.com
 
