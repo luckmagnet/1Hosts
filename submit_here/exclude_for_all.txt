@@ -1,2 +1,0 @@
-# https://github.com/badmojr/1Hosts/issues/4052
-dynamic.x.com.cdn.cloudflare.net
