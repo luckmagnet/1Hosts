@@ -3,7 +3,7 @@
 ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
 
 <p align="center">
-    <a href="#"><img src="https://badgen.net/github/last-commit/luckmagnet/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
+    <a href="#"><img src="https://img.shields.io/github/last-commit/luckmagnet/1Hosts?label=Updated&cache=0&color=purple&icon=github" alt="Last commit activity"></a>
     <a href="#"><img src="https://img.shields.io/github/repo-size/luckmagnet/1Hosts?logo=adblock&style=plastic" alt="Repo size"></a>
 </p>
 
