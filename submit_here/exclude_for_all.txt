@@ -4,6 +4,9 @@ mailbody-ui.de
 # https://github.com/badmojr/1Hosts/issues/4159
 flipper.net
 
+# https://github.com/badmojr/1Hosts/issues/4158
+archbee.com
+
 # https://github.com/badmojr/1Hosts/issues/4156
 sailfishos.org
 
