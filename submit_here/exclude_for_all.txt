@@ -6,3 +6,6 @@ flipper.net
 
 # https://github.com/badmojr/1Hosts/issues/4156
 sailfishos.org
+
+# https://github.com/badmojr/1Hosts/issues/4154
+z-m-gateway.facebook.com
