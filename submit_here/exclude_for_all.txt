@@ -1,2 +1,5 @@
+# https://github.com/badmojr/1Hosts/issues/4160
+mailbody-ui.de
+
 # https://github.com/badmojr/1Hosts/issues/4156
 sailfishos.org
