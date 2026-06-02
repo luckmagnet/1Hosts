@@ -1,4 +1,4 @@
-# [1Hosts Fork](https://github.com/badmojr/1Hosts), in beta
+# [1Hosts Fork](https://github.com/badmojr/1Hosts) <sup>Beta</sup></strong></h3>
 
 ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
 
