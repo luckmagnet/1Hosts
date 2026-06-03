@@ -1,0 +1,2 @@
+# https://github.com/badmojr/1Hosts/issues/4243
+akisnet.ch
