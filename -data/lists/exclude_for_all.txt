@@ -1,3 +1,8 @@
+# https://github.com/badmojr/1Hosts/issues/4242
+tb-cdn.st
+
+# https://github.com/badmojr/1Hosts/issues/4240
+kyber.gg
 # https://github.com/luckmagnet/1Hosts/issues/12
 iglonline.net
 # https://github.com/badmojr/1Hosts/issues/4160
