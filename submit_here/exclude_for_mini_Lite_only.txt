@@ -1,2 +1,0 @@
-# https://github.com/badmojr/1Hosts/issues/4262
-smartdrive.net
