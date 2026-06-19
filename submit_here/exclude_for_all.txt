@@ -1,3 +1,6 @@
+# https://github.com/badmojr/1Hosts/issues/4258
+egosoft.com
+
 # https://github.com/badmojr/1Hosts/issues/4239
 meta-ohttp-relay-prod.fastly-edge.com
 ohttp-relay-safebrowsing-android.google.fastly-edge.com
