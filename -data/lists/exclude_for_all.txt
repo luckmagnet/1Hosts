@@ -1,3 +1,8 @@
+# https://github.com/badmojr/1Hosts/issues/4294
+music-assistant.io
+
+# https://github.com/badmojr/1Hosts/issues/4293
+openapis.org
 # https://github.com/badmojr/1Hosts/issues/4260
 ladybird.org
 
