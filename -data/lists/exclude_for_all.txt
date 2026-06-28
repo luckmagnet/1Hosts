@@ -1,3 +1,5 @@
+# https://github.com/badmojr/1Hosts/issues/4347
+vdm.ovh
 # https://github.com/badmojr/1Hosts/issues/4155
 p16-common-sign.tiktokcdn-eu.com
 p19-common-sign.tiktokcdn-eu.com
