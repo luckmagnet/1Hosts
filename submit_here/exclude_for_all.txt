@@ -1,2 +1,5 @@
+# https://github.com/badmojr/1Hosts/issues/4378
+purpurmc.org
+
 # https://github.com/badmojr/1Hosts/issues/4377
 soimt.com
