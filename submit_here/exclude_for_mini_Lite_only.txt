@@ -1,3 +1,0 @@
-# https://github.com/badmojr/1Hosts/issues/4385
-dwt.soundcloud.com
-prodregistryv2.org
