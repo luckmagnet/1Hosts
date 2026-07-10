@@ -1,3 +1,5 @@
+# https://github.com/badmojr/1Hosts/issues/4386
+smrtwheel.com
 # https://github.com/badmojr/1Hosts/issues/4378
 purpurmc.org
 
