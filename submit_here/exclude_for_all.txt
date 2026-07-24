@@ -1,6 +1,3 @@
-# https://github.com/badmojr/1Hosts/issues/4431
-slashdot.org
-
 # https://github.com/badmojr/1Hosts/issues/4414
 5ch.io
 
