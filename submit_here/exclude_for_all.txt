@@ -1,8 +1,0 @@
-# https://github.com/badmojr/1Hosts/issues/4414
-5ch.io
-
-# https://github.com/badmojr/1Hosts/issues/4413
-p.qrcdn.net
-
-# https://github.com/badmojr/1Hosts/issues/4408
-verifi.podscribe.com
