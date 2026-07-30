@@ -208,4 +208,4 @@ _Help us create a better experience <3!_
 - Report false positives or issues via [GitHub Issues](https://github.com/luckmagnet/1Hosts/issues).
 - Share with friends for a safer web.
 
-<a href="https://youtube.com/@MarvelousQuran"><img src="./-data/static/img/mq.jpg" title="Watch MarvelousQuran's amazing videos">
+<a href=""><img src="./-data/static/img/mq.jpg" title="Watch MarvelousQuran's amazing videos">
