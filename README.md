@@ -176,12 +176,6 @@ updates infrequently; supports subdomain/wildcard & CNAME blocking; unlimited qu
 </table>
 <br><br>
 
- **Compatible Software Suite**<br>
-- **Android**: [AdAway](https://adaway.org/), [Blokada](https://blokada.org/), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [RethinkDNS](https://rethinkfirewall.com/), [InviZible Pro](https://invizible.net/en/)
-- **iOS**: [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)
-- **PC**: [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuardHome](https://adguard.com/en/adguard-home-overview.html?aid=31921), [dnscrypt-proxy](https://www.dnscrypt.org/)
-- **Others**: [Pi-hole](https://pi-hole.net/), [OpenSnitch](https://github.com/evilsocket/opensnitch/wiki), [Knot](https://knot-resolver.cz/), [Bind9](https://www.isc.org/bind/), [PowerDNS](https://www.powerdns.com/recursor.html), [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html), [Unbound](https://nlnetlabs.nl/projects/unbound/about/), [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
-
 <br>
 
 **Why 1Hosts?**<br>
