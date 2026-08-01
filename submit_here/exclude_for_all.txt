@@ -1,0 +1,5 @@
+# https://github.com/badmojr/1Hosts/issues/4466
+us001-rapididentity.com
+us002-rapididentity.com
+us003-rapididentity.com
+us004-rapididentity.com
