@@ -3,3 +3,6 @@ date.nager.at
 
 # https://github.com/badmojr/1Hosts/issues/4468
 fr24.com
+
+# https://github.com/badmojr/1Hosts/issues/4467
+patientslikeme.com
