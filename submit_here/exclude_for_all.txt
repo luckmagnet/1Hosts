@@ -1,0 +1,5 @@
+#https://github.com/badmojr/1Hosts/issues/4477
+tangled.network
+
+# https://github.com/badmojr/1Hosts/issues/4476
+tangled.sh
