@@ -1,8 +1,9 @@
 name: ci
+
 on:
   workflow_dispatch:
   schedule:
-   - cron: '02 */12 * * *'
+    - cron: '15 */12 * * *'
 
 permissions:
   contents: write
@@ -20,19 +21,35 @@ jobs:
           (
           prints() { sed -e '$a\' "$@"; }
           baseDir="./-data/lists"
-          edit_files=(exclude_for_all.txt exclude_for_mini_Lite_only.txt include_for_Pro_Xtra_only.txt include_for_all.txt)
-          for file in "${edit_files[@]}"; do
-          baseFile="$baseDir/$file"
-          tempFile="./submit_here/$file"
-          if [[ ! -f "$tempFile" ]]; then
-          touch "$tempFile"
-          else
-          if [ -s "$tempFile" ]; then
-          newBase=$(prints "$tempFile" "$baseFile")
-          prints <<<"$newBase" > "$baseFile"
-          rm -f "$tempFile" && touch "$tempFile"
-          fi
-          fi
+          
+          # Explicitly process each file safely without cross-talk
+          declare -A file_map=(
+            ["exclude_for_all.txt"]="$baseDir/exclude_for_all.txt"
+            ["exclude_for_mini_Lite_only.txt"]="$baseDir/exclude_for_mini_Lite_only.txt"
+            ["include_for_Pro_Xtra_only.txt"]="$baseDir/include_for_Pro_Xtra_only.txt"
+            ["include_for_all.txt"]="$baseDir/include_for_all.txt"
+          )
+
+          for filename in "${!file_map[@]}"; do
+            baseFile="${file_map[$filename]}"
+            tempFile="./submit_here/$filename"
+            
+            # Ensure directories exist
+            mkdir -p "$(dirname "$baseFile")"
+            mkdir -p "$(dirname "$tempFile")"
+            
+            if [[ ! -f "$baseFile" ]]; then
+              touch "$baseFile"
+            fi
+
+            if [[ -f "$tempFile" && -s "$tempFile" ]]; then
+              # Append safely and clean up duplicates within the specific file only
+              newBase=$(prints "$tempFile" "$baseFile" | awk '!seen[$0]++')
+              prints <<<"$newBase" > "$baseFile"
+              rm -f "$tempFile" && touch "$tempFile"
+            elif [[ ! -f "$tempFile" ]]; then
+              touch "$tempFile"
+            fi
           done
           )
         shell: bash
@@ -41,7 +58,7 @@ jobs:
         uses: actions-js/push@master
         with:
           branch: master
-          message: merge! submit_here
+          message: "merge! submit_here"
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Initiate update
