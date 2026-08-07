@@ -30,8 +30,10 @@ jobs:
         run: |
           set -euo pipefail
           
-          EXCLUDE_NAMES="${EXCLUDE_NAMES:-exclude_for_all.txt,exclude_for_mini_Lite_only.txt}"
+          GENERAL_EXCLUDE="exclude_for_all.txt"
+          LITE_EXCLUDE="exclude_for_mini_Lite_only.txt"
           INCLUDE_NAMES="${INCLUDE_NAMES:-include_for_Pro_Xtra_only.txt,include_for_all.txt}"
+          
           L_DIR="${GITHUB_WORKSPACE}/-data/lists"
           CDN_BASE="https://cdn.jsdelivr.net/gh/${{ github.repository }}"
           VERSIONS="master latest"
@@ -39,7 +41,6 @@ jobs:
           rm -rf release tmp && mkdir -p release tmp
           cp -rf Lite Xtra tmp && cd tmp
 
-          # Clean normalization functions
           normalize_hosts() {
             sed -E 's/^[[:space:]]+|[[:space:]]+$//g' |
             sed '/^[[:space:]]*$/d' |
@@ -67,7 +68,17 @@ jobs:
             fi
           }
 
-          gather() {
+          gather_specific() {
+            local filename="$1" out="$2"
+            : > "$out"
+            find "$L_DIR" -type f \( -name "$filename" -o -name "${filename}.*" \) -print0 2>/dev/null |
+              while IFS= read -r -d '' f; do
+                normalize_stream "$f" >> "$out"
+              done || true
+            LC_ALL=C sort -u "$out" -o "$out" || true
+          }
+
+          gather_csv() {
             local names_csv="$1" out="$2"
             : > "$out"
             IFS=',' read -ra NAMES <<< "$names_csv"
@@ -82,22 +93,25 @@ jobs:
             LC_ALL=C sort -u "$out" -o "$out" || true
           }
 
-          excludes_tmp="$(mktemp)"
+          general_excl_tmp="$(mktemp)"
+          lite_excl_tmp="$(mktemp)"
           includes_tmp="$(mktemp)"
-          : > "$excludes_tmp"
+          : > "$general_excl_tmp"
+          : > "$lite_excl_tmp"
           : > "$includes_tmp"
           
           if [ -d "$L_DIR" ]; then
-            gather "$EXCLUDE_NAMES" "$excludes_tmp"
-            gather "$INCLUDE_NAMES" "$includes_tmp"
+            gather_specific "$GENERAL_EXCLUDE" "$general_excl_tmp"
+            gather_specific "$LITE_EXCLUDE" "$lite_excl_tmp"
+            gather_csv "$INCLUDE_NAMES" "$includes_tmp"
           fi
 
           urls=""
           while read -r file; do
             basefile="$(basename "$file")"
             
-            # Skip list files from being released directly
-            if echo "$EXCLUDE_NAMES" | grep -qw "$basefile" || echo "$INCLUDE_NAMES" | grep -qw "$basefile"; then
+            # Skip list configuration files from being released directly
+            if [ "$basefile" = "$GENERAL_EXCLUDE" ] || [ "$basefile" = "$LITE_EXCLUDE" ] || echo "$INCLUDE_NAMES" | grep -qw "$basefile"; then
               continue
             fi
 
@@ -106,11 +120,20 @@ jobs:
             clean_path=$(echo "$file" | sed 's:\./::g')
             
             orig_norm="$(mktemp)"
-            normalize_stream "$file" > "$orig_norm" || true
+            normalize_stream "$file" > "$orig_norm" ||true
 
-            # Apply excludes first
-            if [ -s "$excludes_tmp" ]; then
-              grep -Fvxf "$excludes_tmp" "$orig_norm" > "../release/$newname" || true
+            # STRICT SEPARATION: Xtra files ONLY get general excludes. Lite files get both.
+            active_excl_tmp="$(mktemp)"
+            if echo "$file" | grep -qE '(^|\/)[L|l]ite(\/|$)'; then
+              cat "$general_excl_tmp" "$lite_excl_tmp" > "$active_excl_tmp"
+            else
+              cat "$general_excl_tmp" > "$active_excl_tmp"
+            fi
+            LC_ALL=C sort -u "$active_excl_tmp" -o "$active_excl_tmp"
+
+            # Apply excludes
+            if [ -s "$active_excl_tmp" ]; then
+              grep -Fvxf "$active_excl_tmp" "$orig_norm" > "../release/$newname" || true
             else
               cp "$orig_norm" "../release/$newname"
             fi
@@ -134,13 +157,13 @@ jobs:
               rm -f "$merged"
             fi
 
-            # Double check excludes against generated output
-            if [ -s "$excludes_tmp" ] && [ -f "../release/$newname" ]; then
+            # Double check excludes against generated output using active exclusions
+            if [ -s "$active_excl_tmp" ] && [ -f "../release/$newname" ]; then
               norm_excl="$(mktemp)"
               norm_rel="$(mktemp)"
               out_tmp="$(mktemp)"
               
-              sed -E 's/^[[:space:]]+|[[:space:]]+$//g' "$excludes_tmp" |
+              sed -E 's/^[[:space:]]+|[[:space:]]+$//g' "$active_excl_tmp" |
                 sed '/^[[:space:]]*$/d' |
                 sed -E 's/^[!#]//g' |
                 sed -E 's/^(\|\|?)+//; s/^\|+//' |
@@ -172,6 +195,8 @@ jobs:
               mv "$out_tmp" "../release/$newname" || true
               rm -f "$norm_excl" "$norm_rel"
             fi
+            
+            rm -f "$active_excl_tmp"
 
             if ! grep -q '[^[:space:]#\!]' "../release/$newname"; then
               rm -f "../release/$newname"
@@ -187,7 +212,6 @@ jobs:
           echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
         shell: bash
         env:
-          EXCLUDE_NAMES: "exclude_for_all.txt,exclude_for_mini_Lite_only.txt"
           INCLUDE_NAMES: "include_for_Pro_Xtra_only.txt,include_for_all.txt"
 
       - name: Upload Artifacts for Deploy
