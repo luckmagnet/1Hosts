@@ -3,7 +3,7 @@ name: Release
 on:
   workflow_dispatch:
   schedule:
-   - cron: '30 */12 * * *'
+    - cron: '30 */12 * * *'
   push:
     branches:
       - master
@@ -29,34 +29,33 @@ jobs:
         id: purge_urls
         run: |
           set -euo pipefail
+          
           EXCLUDE_NAMES="${EXCLUDE_NAMES:-exclude_for_all.txt,exclude_for_mini_Lite_only.txt}"
           INCLUDE_NAMES="${INCLUDE_NAMES:-include_for_Pro_Xtra_only.txt,include_for_all.txt}"
-          listFiles() { find "$1" -type f -print; }
-          base="https://cdn.jsdelivr.net/gh/${{ github.repository }}"
-          versions="master latest"
+          L_DIR="${GITHUB_WORKSPACE}/-data/lists"
+          CDN_BASE="https://cdn.jsdelivr.net/gh/${{ github.repository }}"
+          VERSIONS="master latest"
+          
           rm -rf release tmp && mkdir -p release tmp
           cp -rf Lite Xtra tmp && cd tmp
-          L_DIR="${GITHUB_WORKSPACE}/-data/lists"
 
-          # normalize for hosts-only output (strips adblock tokens)
+          # Clean normalization functions
           normalize_hosts() {
-            sed -E 's/^[[:space:]]+|[[:space:]]+$//g' \
-            | sed '/^[[:space:]]*$/d' \
-            | sed '/^[[:space:]]*#/d' \
-            | sed -E 's/^(\|\|?)+//; s/^\|+//' \
-            | sed -E 's/(\^|\\\*|\/\*)$//g' \
-            | sed -E 's/\*//g' \
-            | tr '[:upper:]' '[:lower:]' \
-            | sed -E 's~^https?://~~; s~^www\.~~; s:/*$::'
+            sed -E 's/^[[:space:]]+|[[:space:]]+$//g' |
+            sed '/^[[:space:]]*$/d' |
+            sed '/^[[:space:]]*#/d' |
+            sed -E 's/^(\|\|?)+//; s/^\|+//' |
+            sed -E 's/(\^|\\\*|\/\*)$//g' |
+            sed -E 's/\*//g' |
+            tr '[:upper:]' '[:lower:]' |
+            sed -E 's~^https?://~~; s~^www\.~~; s:/*$::'
           }
 
-          # normalize for adblock/filterlist output (preserve ||, ^, $, * etc)
           normalize_adblock() {
-            sed -E 's/\r$//' \
-            | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' \
-            | sed '/^[[:space:]]*$/d' \
-            | tr '[:upper:]' '[:lower:]'
-            # keep comment lines starting with ! or [Adblock] or # as-is
+            sed -E 's/\r$//' |
+            sed -E 's/^[[:space:]]+|[[:space:]]+$//g' |
+            sed '/^[[:space:]]*$/d' |
+            tr '[:upper:]' '[:lower:]'
           }
 
           normalize_stream() {
@@ -69,22 +68,25 @@ jobs:
           }
 
           gather() {
-            local names_csv="$1"; local out="$2"
+            local names_csv="$1" out="$2"
             : > "$out"
             IFS=',' read -ra NAMES <<< "$names_csv"
             for n in "${NAMES[@]}"; do
-              n="$(echo "$n" | sed 's/^[[:space:]]*//; s/[[:space:]]*$//')"
+              n="$(echo "$n" | xargs)"
               [ -z "$n" ] && continue
-              find "$L_DIR" -type f \( -name "$n" -o -name "${n}.*" \) -print0 2>/dev/null \
-                | while IFS= read -r -d '' f; do
-                    normalize_stream "$f" >> "$out"
-                  done || true
+              find "$L_DIR" -type f \( -name "$n" -o -name "${n}.*" \) -print0 2>/dev/null |
+                while IFS= read -r -d '' f; do
+                  normalize_stream "$f" >> "$out"
+                done || true
             done
             LC_ALL=C sort -u "$out" -o "$out" || true
           }
 
-          excludes_tmp="$(mktemp)"; includes_tmp="$(mktemp)"
-          : > "$excludes_tmp"; : > "$includes_tmp"
+          excludes_tmp="$(mktemp)"
+          includes_tmp="$(mktemp)"
+          : > "$excludes_tmp"
+          : > "$includes_tmp"
+          
           if [ -d "$L_DIR" ]; then
             gather "$EXCLUDE_NAMES" "$excludes_tmp"
             gather "$INCLUDE_NAMES" "$includes_tmp"
@@ -93,14 +95,20 @@ jobs:
           urls=""
           while read -r file; do
             basefile="$(basename "$file")"
-            for n in $(echo "$EXCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
-            for n in $(echo "$INCLUDE_NAMES" | tr ',' ' '); do [ "$basefile" = "$n" ] && continue 2 || true; done
+            
+            # Skip list files from being released directly
+            if echo "$EXCLUDE_NAMES" | grep -qw "$basefile" || echo "$INCLUDE_NAMES" | grep -qw "$basefile"; then
+              continue
+            fi
+
             clean_file=$(echo "$file" | sed 's:\./::g; s:/:_:g')
             newname="1hosts-$clean_file"
             clean_path=$(echo "$file" | sed 's:\./::g')
+            
             orig_norm="$(mktemp)"
             normalize_stream "$file" > "$orig_norm" || true
 
+            # Apply excludes first
             if [ -s "$excludes_tmp" ]; then
               grep -Fvxf "$excludes_tmp" "$orig_norm" > "../release/$newname" || true
             else
@@ -108,10 +116,12 @@ jobs:
             fi
             rm -f "$orig_norm"
 
+            # Apply includes/merging
             if [ -s "$includes_tmp" ] && [ -f "../release/$newname" ]; then
               merged="$(mktemp)"
+              cat "../release/$newname" "$includes_tmp" > "$merged" || true
+              
               if grep -q -E '\|\||\^' "../release/$newname" 2>/dev/null || grep -q -E '\|\||\^' "$includes_tmp" 2>/dev/null; then
-                cat "../release/$newname" "$includes_tmp" > "$merged" || true
                 awk '{
                   if ($0 ~ /^[[:space:]]*$/) next
                   if ($0 ~ /^[[:space:]]*#/) { if (!seen["#"$0]++) print $0; next }
@@ -119,28 +129,26 @@ jobs:
                   if (!seen[$0]++) print $0
                 }' "$merged" > "../release/$newname" || true
               else
-                cat "../release/$newname" "$includes_tmp" > "$merged" || true
                 awk '!/^[[:space:]]*($|#)/ { if (!seen[$0]++) print $0 }' "$merged" > "../release/$newname" || true
               fi
               rm -f "$merged"
             fi
 
-            # Re-apply excludes after includes/merge to ensure excluded domains are removed.
-            # Normalize both exclude patterns and release lines to a common hosts-style form
-            # before comparing so adblock/hosts format differences don't bypass the filter.
+            # Double check excludes against generated output
             if [ -s "$excludes_tmp" ] && [ -f "../release/$newname" ]; then
-              norm_excl="$(mktemp)"; norm_rel="$(mktemp)"; out_tmp="$(mktemp)"
-              # normalize excludes to hosts form
-              sed -E 's/^[[:space:]]+|[[:space:]]+$//g' "$excludes_tmp" \
-                | sed '/^[[:space:]]*$/d' \
-                | sed -E 's/^[!#]//g' \
-                | sed -E 's/^(\|\|?)+//; s/^\|+//' \
-                | sed -E 's/(\^|\\\*|\/\*)$//g' \
-                | sed -E 's~^https?://~~; s~^www\.~~; s:/*$::' \
-                | tr '[:upper:]' '[:lower:]' \
-                | sed -E 's/\*//g' > "$norm_excl" || true
+              norm_excl="$(mktemp)"
+              norm_rel="$(mktemp)"
+              out_tmp="$(mktemp)"
+              
+              sed -E 's/^[[:space:]]+|[[:space:]]+$//g' "$excludes_tmp" |
+                sed '/^[[:space:]]*$/d' |
+                sed -E 's/^[!#]//g' |
+                sed -E 's/^(\|\|?)+//; s/^\|+//' |
+                sed -E 's/(\^|\\\*|\/\*)$//g' |
+                sed -E 's~^https?://~~; s~^www\.~~; s:/*$::' |
+                tr '[:upper:]' '[:lower:]' |
+                sed -E 's/\*//g' > "$norm_excl" || true
 
-              # normalize release file lines to hosts form for comparison, but keep original lines in parallel
               awk '{
                 line=$0
                 gsub(/^[[:space:]]+|[[:space:]]+$/,"",line)
@@ -155,10 +163,9 @@ jobs:
                 print l "::::ORIG::::" $0
               }' "../release/$newname" > "$norm_rel" || true
 
-              # filter: keep only original lines whose normalized form is NOT in norm_excl
               awk -F"::::ORIG::::" 'NR==FNR{ex[$1]=1; next} {
                 split($0,parts,"::::ORIG::::"); norm=parts[1]; orig=parts[2];
-                if (substr(norm,1,9)=="::COMMENT") { print substr($0,index($0,"::::ORIG::::")+11) ; next }
+                if (substr(norm,1,9)=="::COMMENT") { print substr($0,index($0,"::::ORIG::::")+11); next }
                 if (!(norm in ex)) print orig
               }' "$norm_excl" "$norm_rel" > "$out_tmp" || true
 
@@ -171,10 +178,10 @@ jobs:
               continue
             fi
 
-            for v in $versions; do
-              urls+="${base}@${v}/${clean_path},"
+            for v in $VERSIONS; do
+              urls+="${CDN_BASE}@${v}/${clean_path},"
             done
-          done < <(listFiles .)
+          done < <(find . -type f -print)
 
           cd .. && rm -rf tmp
           echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
@@ -209,6 +216,7 @@ jobs:
         uses: dev-drprasad/delete-older-releases@v0.1.0
         with:
           keep_latest: 1
+          delete_tag_pattern: "v"
           delete_tags: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
