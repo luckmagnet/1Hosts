@@ -1,3 +1,5 @@
+# https://github.com/badmojr/1Hosts/issues/4469
+nager.at
 # https://github.com/badmojr/1Hosts/issues/4479
 nekobt.to
 #https://github.com/badmojr/1Hosts/issues/4477
@@ -7,13 +9,9 @@ tangled.network
 tangled.sh
 # https://github.com/badmojr/1Hosts/issues/4472
 kurasushi.com
-
-# https://github.com/badmojr/1Hosts/issues/4469
 date.nager.at
-
 # https://github.com/badmojr/1Hosts/issues/4468
 fr24.com
-
 # https://github.com/badmojr/1Hosts/issues/4467
 patientslikeme.com
 # https://github.com/badmojr/1Hosts/issues/4466
@@ -30,37 +28,30 @@ media-hel3-1.cdn.whatsapp.net
 media-nrt1-1.cdn.whatsapp.net
 # https://github.com/badmojr/1Hosts/issues/4414
 5ch.io
-
 # https://github.com/badmojr/1Hosts/issues/4413
 p.qrcdn.net
-
 # https://github.com/badmojr/1Hosts/issues/4408
 verifi.podscribe.com
 # https://github.com/badmojr/1Hosts/issues/4412
 novapost.com
 # https://github.com/badmojr/1Hosts/issues/4392
 plc.directory
-
 # https://github.com/badmojr/1Hosts/issues/4389
 deuxfleurs.fr
-
 # https://github.com/badmojr/1Hosts/issues/4387
 cjib.nl
 # https://github.com/badmojr/1Hosts/issues/4386
 smrtwheel.com
 # https://github.com/badmojr/1Hosts/issues/4378
 purpurmc.org
-
 # https://github.com/badmojr/1Hosts/issues/4377
 soimt.com
 # https://github.com/badmojr/1Hosts/issues/4369
 d2ghehhx11czsj.cloudfront.net
 # https://github.com/badmojr/1Hosts/issues/4363
 thestepupapp.com
-
 # https://github.com/badmojr/1Hosts/issues/4362
 uaepass.ae
-
 # https://github.com/WireGuard/wireguard-go
 zx2c4.com
 # https://github.com/badmojr/1Hosts/issues/4360
@@ -78,29 +69,23 @@ v45.tiktokcdn-eu.com
 thesourcemediaassets.com
 # https://github.com/badmojr/1Hosts/issues/4294
 music-assistant.io
-
 # https://github.com/badmojr/1Hosts/issues/4293
 openapis.org
 # https://github.com/badmojr/1Hosts/issues/4260
 ladybird.org
-
 # https://github.com/badmojr/1Hosts/issues/4259
 arubacdn.cloud
-
 # https://github.com/badmojr/1Hosts/issues/4258
 egosoft.com
-
 # https://github.com/badmojr/1Hosts/issues/4239
 meta-ohttp-relay-prod.fastly-edge.com
 ohttp-relay-safebrowsing-android.google.fastly-edge.com
 ohttp-relay1.fastly-edge.com
 # https://github.com/badmojr/1Hosts/issues/4257
 zulip.com
-
 # https://github.com/badmojr/1Hosts/issues/4256
 zulipchat.com
 maxhealthcare.in
-
 sansad.in
 # https://github.com/luckmagnet/1Hosts/issues/13
 the-ken.com
@@ -112,23 +97,17 @@ jmail.world
 akisnet.ch
 # https://github.com/badmojr/1Hosts/issues/4242
 tb-cdn.st
-
 # https://github.com/badmojr/1Hosts/issues/4240
 kyber.gg
 # https://github.com/luckmagnet/1Hosts/issues/12
 iglonline.net
-# https://github.com/badmojr/1Hosts/issues/4160
 mailbody-ui.de
-
 # https://github.com/badmojr/1Hosts/issues/4159
 flipper.net
-
 # https://github.com/badmojr/1Hosts/issues/4158
 archbee.com
-
 # https://github.com/badmojr/1Hosts/issues/4156
 sailfishos.org
-
 # https://github.com/badmojr/1Hosts/issues/4154
 z-m-gateway.facebook.com
 # https://github.com/badmojr/1Hosts/issues/4052
@@ -138,7 +117,6 @@ accounts.zohocloud.net
 accounts.zoho.com
 # https://github.com/badmojr/1Hosts/issues/3891
 wup-content23.bmo.com
-
 # https://github.com/badmojr/1Hosts/issues/3948
 shed.s-0005.dual-s-dc-msedge.net
 # https://github.com/badmojr/1Hosts/issues/3943
@@ -148,7 +126,6 @@ privacyguides.org
 www.privacyguides.org
 # https://github.com/luckmagnet/1Hosts/issues/11
 studio.sandisk.com-v1.edgekey.net
-
 # https://github.com/luckmagnet/1Hosts/issues/10
 assets.adobedtm.com
 # https://github.com/luckmagnet/1Hosts/issues/1
@@ -160,45 +137,33 @@ b.gslb.aaplimg.com
 stoat.chat
 # https://github.com/badmojr/1Hosts/issues/3845
 fedidevs.com
-
 # https://github.com/badmojr/1Hosts/issues/3850
 notateslaapp.com
 # https://github.com/badmojr/1Hosts/issues/3833
 play-apps-features.googleusercontent.com
 # https://github.com/luckmagnet/1Hosts/issues/6
 infinitylearn.com
-
-# https://github.com/luckmagnet/1Hosts/issues/5
 allen.in
 # https://github.com/badmojr/1Hosts/issues/3803
 hackerspace.pl
-
 # https://github.com/badmojr/1Hosts/issues/3801
 justgeek.fr
-
 # https://github.com/badmojr/1Hosts/issues/3782
 scalar.com
 api.scalar.com
-
 # https://github.com/badmojr/1Hosts/issues/3751
 macrodroidforum.com
-
 # https://github.com/badmojr/1Hosts/issues/3749
 morphe.software
-
 # https://github.com/badmojr/1Hosts/issues/3718
 community.fandom.com
-# https://github.com/luckmagnet/1Hosts/issues/1
 cdn.examgoal.net
 # https://github.com/luckmagnet/1Hosts/issues/2
 ente.com
 # https://github.com/luckmagnet/1Hosts/issues/3
 www.canirun.ai
-# https://github.com/luckmagnet/1Hosts/issues/2
 api.ente.com
-# https://github.com/luckmagnet/1Hosts/issues/1
 questions.examside.com
-
 # https://github.com/badmojr/1Hosts/issues/3740
 ipv6check-udp.steamserver.net
 p2p-ams1.discovery.steamserver.net
@@ -206,100 +171,73 @@ p2p-fra1.discovery.steamserver.net
 p2p-fra2.discovery.steamserver.net
 p2p-iad1.discovery.steamserver.net
 p2p-sto1.discovery.steamserver.net
-
 # https://github.com/badmojr/1Hosts/issues/3732
 consent-notice.ft.com
-
 # https://github.com/badmojr/1Hosts/issues/3727
 deb.parrot.sh
 mordor.backbone.rfc2549.network
-
 # https://github.com/badmojr/1Hosts/issues/3716
 static.urbanclap.com
 www.urbanclap.com
-
 # https://github.com/badmojr/1Hosts/issues/3712
 www.zepto.com
 cdn.zeptonow.com
 bff-gateway.zepto.com
 chat-ui.zepto.com
-
 # https://github.com/badmojr/1Hosts/issues/3708
 a.app.qq.com
-
 # https://github.com/badmojr/1Hosts/issues/3707
 prolewiki.org
-
 # https://github.com/badmojr/1Hosts/issues/3704
 res.public.onecdn.static.microsoft
-
 # https://github.com/badmojr/1Hosts/issues/3703
 deepwiki.com
-
 # https://github.com/badmojr/1Hosts/issues/3702
 calibour.net
-
 # https://github.com/badmojr/1Hosts/issues/3692
 keepandroidopen.org
-
 # https://github.com/badmojr/1Hosts/issues/3662
 shizuku.rikka.app
-
 # https://github.com/badmojr/1Hosts/issues/3627
 archlinux32.org
-
 # https://github.com/badmojr/1Hosts/issues/3626
 waterfox.com
-
 # https://github.com/badmojr/1Hosts/issues/3597
 api.minecraftservices.com
 sessionserver.mojang.com
 minecraft.best
-
 # https://github.com/badmojr/1Hosts/issues/2947
 chrome-mask-remote-storage.0b101010.services
-
 # https://github.com/badmojr/1Hosts/issues/2945
 peremoga.club
 chudesa.site
-
 # https://github.com/badmojr/1Hosts/issues/2944
 ico3c.com
-
 # https://github.com/badmojr/1Hosts/issues/2943
 news-cdn.bindg.com
 news.bloomberglaw.com
-
 # https://github.com/badmojr/1Hosts/issues/2942
 dailysecurityreview.com
-
 # https://github.com/badmojr/1Hosts/issues/2941
 media.redgifs.com
-
 # https://github.com/badmojr/1Hosts/issues/2940
 console.neon.tech
 api.multiviewer.app
 slowly.dev
-
 # https://github.com/badmojr/1Hosts/issues/2939
 bazzite.gg
-
 # https://github.com/badmojr/1Hosts/issues/2938
 creativecommons.tankerkoenig.de
 tankerkoenig.de
-
 # https://github.com/badmojr/1Hosts/issues/2937
 exiftool.org
-
 # https://github.com/badmojr/1Hosts/issues/2936
 staatsgalerie.de
-
 # https://github.com/badmojr/1Hosts/issues/2935
 cdn.bauhaus
 media.cdn.bauhaus
 static.cdn.bauhaus
 bauhaus.info
-
 # https://github.com/badmojr/1Hosts/issues/2934
 gojysk.com
 jysk.at
@@ -324,16 +262,12 @@ jysk.rs
 jysk.sk
 mapp.jysk.dk
 mapp.jysk.nl
-
 # https://github.com/badmojr/1Hosts/issues/2929
 customs.gov.ph
-
 # https://github.com/badmojr/1Hosts/issues/2933
 neon.com
-
 # https://github.com/badmojr/1Hosts/issues/2932
 feddit.dk
-
 # https://github.com/badmojr/1Hosts/issues/2931
 decathlon.at
 decathlon.bg
@@ -353,43 +287,32 @@ decathlon.si
 decathlon.sk
 decathlon.tw
 decathlon.vn
-
 # https://github.com/badmojr/1Hosts/issues/2930
 dali.ph
-
 # https://github.com/badmojr/1Hosts/issues/2928
 gaisanomalls.com
-
 # https://github.com/badmojr/1Hosts/issues/2925
 gea.at
 gea.com
 geaag.com
-
 # https://github.com/badmojr/1Hosts/issues/2923
 online-python.com
 pythononline.io
 python-fiddle.com
-
 # https://github.com/badmojr/1Hosts/issues/2922
 traffictech.com
-
 # https://github.com/badmojr/1Hosts/issues/2921
 api.pulsar-edit.dev
 web.pulsar-edit.dev
 packages.pulsar-edit.dev
-
 # https://github.com/badmojr/1Hosts/issues/2919
 ess.com
-
 # https://github.com/badmojr/1Hosts/issues/2918
 neovim.io
-
 # https://github.com/badmojr/1Hosts/issues/2917
 vidsrc-embed.ru
-
 # https://github.com/badmojr/1Hosts/issues/2916
 internal-api.monzo.com
-
 # https://github.com/badmojr/1Hosts/issues/2915
 taboovideos.tv
 krx18.com
@@ -397,188 +320,134 @@ strmup.cc
 www.fsiblog5.com
 www.desitales2.com
 www.mydesi2.net
-
 # https://github.com/badmojr/1Hosts/issues/2914
 flixtor.li
-
 # https://github.com/badmojr/1Hosts/issues/2913
 whereismytrain.in
-
 # https://github.com/badmojr/1Hosts/issues/2911
 global.frcapi.com
-
 # https://github.com/badmojr/1Hosts/issues/2910
 www.nirandfar.com
-
 # https://github.com/badmojr/1Hosts/issues/2909
 www.aqi.in
-
 # https://github.com/badmojr/1Hosts/issues/2908
 vidsrcme.ru
-
 # https://github.com/badmojr/1Hosts/issues/2907
 begmedia.com
-
 # https://github.com/badmojr/1Hosts/issues/2906
 nucleovisual.com
 tecnobits.com
-
 # https://github.com/badmojr/1Hosts/issues/2905
 www.drawio.com
 www.processon.io
 www.edraw.ai
-
 # https://github.com/badmojr/1Hosts/issues/2904
 doo.lat
 z6bha.com
-
 # https://github.com/badmojr/1Hosts/issues/2903
 magixz.xtremestream.xyz
-
 # https://github.com/badmojr/1Hosts/issues/2902
 vpn.protondownload.com
-
 # https://github.com/badmojr/1Hosts/issues/2900
 gogdb.org
-
 # https://github.com/badmojr/1Hosts/issues/2899
 dc1-cert.ksn.kaspersky-labs.com
-
 # https://github.com/badmojr/1Hosts/issues/2895
 en.fmovies24-to.com
 www.leechinghell.pw
 animepahe.si
-
 # https://github.com/badmojr/1Hosts/issues/2894
 account.jagex.com
-
 # https://github.com/badmojr/1Hosts/issues/2893
 katana.merchsensei.shop
-
-
 # https://github.com/badmojr/1Hosts/issues/2891
 www.letec.be
-
 # https://github.com/badmojr/1Hosts/issues/2890
 unblurimage.ai
 frdl.my
 iporntv.net
 jollyvids.com
 asianpinay.com
-
 # https://github.com/badmojr/1Hosts/issues/2889
 edri.org
-
 # https://github.com/badmojr/1Hosts/issues/2888
 ocsp.pki.bancontact.net
-
 # https://github.com/badmojr/1Hosts/issues/2887
 mosup.payconiqbybancontact.com
-
 # https://github.com/badmojr/1Hosts/issues/2886
 worldline-solutions.com
-
 # https://github.com/badmojr/1Hosts/issues/2885
 mobile-riv.api.belgianrail.be
-
 # https://github.com/badmojr/1Hosts/issues/2884
 telegramtop.com
-
 # https://github.com/badmojr/1Hosts/issues/2883
 cdn.page-source.com
-
 # https://github.com/badmojr/1Hosts/issues/2882
 super.money
-
 # https://github.com/badmojr/1Hosts/issues/2881
 www.sbiepay.sbi
-
 # https://github.com/badmojr/1Hosts/issues/2880
 phoneblock.net
-
 # https://github.com/badmojr/1Hosts/issues/2879
 cms.medimops.eu
 images2.medimops.eu
-
 # https://github.com/badmojr/1Hosts/issues/2878
 syncler.net
-
 # https://github.com/badmojr/1Hosts/issues/2877
 vidnoz.com
-
 # https://github.com/badmojr/1Hosts/issues/2876
 redact.dev
-
 # https://github.com/badmojr/1Hosts/issues/2875
 api.brightsky.dev
 brightsky.dev
-
 # https://github.com/badmojr/1Hosts/issues/2874
 radioessen.de
 api-prod.nrwlokalradios.com
-
 # https://github.com/badmojr/1Hosts/issues/2872
 click.uber.com
-
 # https://github.com/badmojr/1Hosts/issues/2871
 tecnomat.it
-
 # https://github.com/badmojr/1Hosts/issues/2870
 email.mgt.uber.com
-
 # https://github.com/badmojr/1Hosts/issues/2869
 srv308.peekeepoternies.cyou
 srv309.peekeepoternies.cyou
 srv310.peekeepoternies.cyou
 srv313.peekeepoternies.cyou
 www.lookmovie2.to
-
 # https://github.com/badmojr/1Hosts/issues/2868
 buckaroo.io
 www.buckaroo.nl
-
 # https://github.com/badmojr/1Hosts/issues/2864
 together.ai
 fireworks.ai
-
 # https://github.com/badmojr/1Hosts/issues/2866
 rechtspraak.nl
-
 # https://github.com/badmojr/1Hosts/issues/2865
 collegedata.com
-
 # https://github.com/badmojr/1Hosts/issues/2863
 octopusenergy.de
 static.octopuscdn.com
-
 # https://github.com/badmojr/1Hosts/issues/2862
 chaospott.de
-
 # https://github.com/badmojr/1Hosts/issues/2861
 sso.m3medical.com
 grid.iamkate.com
-
 # https://github.com/badmojr/1Hosts/issues/2860
 www.mappls.com
 explore.mappls.com
-
 # https://github.com/badmojr/1Hosts/issues/2859
 fontgenerator.cool
 fastdl.app
-
 # https://github.com/badmojr/1Hosts/issues/2834
 gias.jd.com
-
 # https://github.com/badmojr/1Hosts/issues/2857
 airplanes.live
-
 # https://github.com/badmojr/1Hosts/issues/2851
 guide-acs.m.taobao.com
-
 # https://github.com/badmojr/1Hosts/issues/2846
 ves-io-2f19afae-ad92-4f14-886d-28d20a04bef8.ac.vh.ves.io
 www.sling.com
-
 # https://github.com/badmojr/1Hosts/issues/2837
 www.pw.live
 pw.live
@@ -592,33 +461,24 @@ pw-batches-mfe.pw.live
 api.penpencil.co
 unleash-edge-prod.penpencil.co
 maintenance.penpencil.co
-
 # https://github.com/badmojr/1Hosts/issues/2856
 sparxmaths.com
 cognitoedu.org
-
 # https://github.com/badmojr/1Hosts/issues/2854
 sanquin.nl
-
 # https://github.com/badmojr/1Hosts/issues/2853
 ben.nl
-
 # https://github.com/badmojr/1Hosts/issues/2852
 streetmix.net
-
 # https://github.com/badmojr/1Hosts/issues/2850
 review.nl
 reviewclub.com
-
 # https://github.com/badmojr/1Hosts/issues/2849
 sparefare.net
-
 # https://github.com/badmojr/1Hosts/issues/2848
 viaversion.com
-
 # https://github.com/badmojr/1Hosts/issues/2847
 voedingscentrum.nl
-
 # https://github.com/badmojr/1Hosts/issues/2845
 kela.fi
 hus.fi
@@ -632,42 +492,28 @@ kanta.fi
 inschool.fi
 oph.fi
 hoas.fi
-
 # https://github.com/badmojr/1Hosts/issues/2844
 chat.bilibili.com
 live.bilibili.com
-
 # https://github.com/badmojr/1Hosts/issues/2843
 www.minidsp.com
-
 # https://github.com/badmojr/1Hosts/issues/2842
 bank.in
-
 # https://github.com/badmojr/1Hosts/issues/2841
 arattai.in
-
 # https://github.com/badmojr/1Hosts/issues/2840
 roliascan.com
-
 # https://github.com/badmojr/1Hosts/issues/2839
 lpa.live.esimdiscovery.com
-
 # https://github.com/badmojr/1Hosts/issues/2838
 hyperswitch.io
-
 # https://github.com/badmojr/1Hosts/issues/2836
 www.giva.co
-
 # https://github.com/badmojr/1Hosts/issues/2835
 codeforces.org
-
-
-
-
 # https://github.com/badmojr/1Hosts/issues/2832
 api.backend-capital.com
 capital.com
-
 # https://github.com/badmojr/1Hosts/issues/2831
 masoutis.gr
 sklavenitis.gr
@@ -711,28 +557,21 @@ static.careerjet.org
 jobfind.gr
 snappibank.com
 okairos.gr
-
 # https://github.com/badmojr/1Hosts/issues/2828
 www.counter-print.co.uk
-
 # https://github.com/badmojr/1Hosts/issues/2827
 juniors.ro
-
 # https://github.com/badmojr/1Hosts/issues/2826
 mobile-api.fergus.com
-
 # https://github.com/badmojr/1Hosts/issues/2825
 beacon.tv
-
 # https://github.com/badmojr/1Hosts/issues/2824
 window-swap.com
 theuselessweb.com
-
 # https://github.com/badmojr/1Hosts/issues/2823
 toot.community
 defcon.social
 mstdn.ca
-
 # https://github.com/badmojr/1Hosts/issues/2822
 dazngroup.com
 cakewallet.com
@@ -748,31 +587,23 @@ p.ec-cloud.org
 prozis.com
 sicnoticias.pt
 deco.proteste.pt
-
 # https://github.com/badmojr/1Hosts/issues/2820
 app.storypark.com
-
 # https://github.com/badmojr/1Hosts/issues/2819
-deco.proteste.pt
-sicnoticias.pt
 gateway.filen-1.net
 gateway.filen-2.net
 gateway.filen-3.net
 gateway.filen-4.net
 gateway.filen-5.net
 sporttv.pt
-
 # https://github.com/badmojr/1Hosts/issues/2818
 opten.hu
 www.opten.hu
 webshop.opten.hu
-
 # https://github.com/badmojr/1Hosts/issues/2817
 powerfox.energy
-
 # https://github.com/badmojr/1Hosts/issues/2816
 hosted.weblate.org
-
 # https://github.com/badmojr/1Hosts/issues/2815
 rainflare53.pro
 sunmelt27.xyz
@@ -780,19 +611,14 @@ cloudspark91.live
 stormgleam42.xyz
 frostveil88.live
 dewshine74.xyz
-
 # https://github.com/badmojr/1Hosts/issues/2812
 animecix.tv
-
 # https://github.com/badmojr/1Hosts/issues/2811
 kenmei.co
-
 # https://github.com/badmojr/1Hosts/issues/2801
 omarchy.org
-
 # https://github.com/badmojr/1Hosts/issues/2798
 cloreautomotive.com
-
 # https://github.com/badmojr/1Hosts/issues/2797
 ionmedia.tv
 clearskyline88.online
@@ -805,26 +631,19 @@ animecrush.net
 detodopeliculas.nu
 poseidonhd2.co
 player.poseidonhd2.co
-
 # https://github.com/badmojr/1Hosts/issues/2795
 jr.ctrip.com
-
 # https://github.com/badmojr/1Hosts/issues/2794
 www.phpmyadmin.net
-
 # https://github.com/badmojr/1Hosts/issues/2791
 nether.wowhead.com
-
 # https://github.com/badmojr/1Hosts/issues/2787
 kamori.goats.dev
-
 # https://github.com/badmojr/1Hosts/issues/2786
 www.ids-portal.com
-
 # https://github.com/badmojr/1Hosts/issues/2785
 idbroker.tk.ehealth-id.de
 idp.app.ti-dienste.de
-
 # https://github.com/badmojr/1Hosts/issues/2784
 foggycrest91.online
 stormcurve61.site
@@ -840,145 +659,104 @@ dewpoint34.wiki
 breezeflash17.pro
 snowblink22.pro
 lightmist83.live
-
 # https://github.com/badmojr/1Hosts/issues/2782
 mgstatics.xyz
-
 # https://github.com/badmojr/1Hosts/issues/2781
 staropensource.de
 git.staropensource.de
-
 # https://github.com/badmojr/1Hosts/issues/2779
 twz.com
 www.twz.com
-
 # https://github.com/badmojr/1Hosts/issues/2778
 localsend.org
-
 # https://github.com/badmojr/1Hosts/issues/2776
 globh.com
-
 # https://github.com/badmojr/1Hosts/issues/2775
 version.ffmax.pencilorange.com
 version.ffmax.purplevioleto.com
-
 # https://github.com/badmojr/1Hosts/issues/2774
 www.tongyi.com
-
 # https://github.com/badmojr/1Hosts/issues/2773
 pes22-game.cs.konami.net
-
 # https://github.com/badmojr/1Hosts/issues/2772
 luluvid.com
 luluvdoo.com
 zjet7.com
 www.televisionacademy.com
-
 # https://github.com/badmojr/1Hosts/issues/2771
 defence-industry.eu
-
 # https://github.com/badmojr/1Hosts/issues/2770
 nationalsecurityjournal.org
-
 # https://github.com/badmojr/1Hosts/issues/2766
 nixware.cc
-
 # https://github.com/badmojr/1Hosts/issues/2769
 fastwork.id
-
 # https://github.com/badmojr/1Hosts/issues/2768
 letsgetrusty.krtra.com
-
 # https://github.com/badmojr/1Hosts/issues/2767
 vidhideplus.com
 dinisglows.com
-
 # https://github.com/badmojr/1Hosts/issues/2765
 asianpinay.to
-
 # https://github.com/badmojr/1Hosts/issues/2764
 mssboard.com
-
 # https://github.com/badmojr/1Hosts/issues/2762
 openalternative.co
-
 # https://github.com/badmojr/1Hosts/issues/2760
 edesur.docuprint.com
-
 # https://github.com/badmojr/1Hosts/issues/2759
 installatron.com
-
 # https://github.com/badmojr/1Hosts/issues/2758
 track.shipway.com
 www.shipway.com
-
 # https://github.com/badmojr/1Hosts/issues/2757
 tryzendm.com
-
 # https://github.com/badmojr/1Hosts/issues/2756
 koerperwelten.de
-
 # https://github.com/badmojr/1Hosts/issues/2755
 forest-walkthrough.seekrtech.com
 auth.seekrtech.com
-
 # https://github.com/badmojr/1Hosts/issues/2754
 nostr.build
 image.nostr.build
-
 # https://github.com/badmojr/1Hosts/issues/2753
 prod.meeshoapi.com
-
 # https://github.com/badmojr/1Hosts/issues/2751
 icanstudy.com
 resources.icanstudy.com
 quiz.icanstudy.com
-
 # https://github.com/badmojr/1Hosts/issues/2750
 linuxsimply.com
-
 # https://github.com/badmojr/1Hosts/issues/2749
 www.espn.nl
-
 # https://github.com/badmojr/1Hosts/issues/2748
 dl.gamedva.top
-
 # https://github.com/badmojr/1Hosts/issues/2747
 gamekillerapp.com.cloudscdn.net
-
 # https://github.com/badmojr/1Hosts/issues/2746
 rest.wolf.ragequitservices.com
 cdn.wolf-2.ragequitservices.com
 api.braincloudservers.com
-
 # https://github.com/badmojr/1Hosts/issues/2745
 i-bidder.com
 www.i-bidder.com
 cdn.i-bidder.com
 login.i-bidder.com
-
 # https://github.com/badmojr/1Hosts/issues/2741
 static.deepseek.com
 static.deepseek.com.436b7a4e.cdnhwcxcy07.com
-
 # https://github.com/badmojr/1Hosts/issues/2657
 antidot.net
-
 # https://github.com/badmojr/1Hosts/issues/2514
 www.firefoo.app
-
 # https://github.com/badmojr/1Hosts/issues/2513
 smp5.simplexonflux.com
-
 # https://github.com/badmojr/1Hosts/issues/2740
 steamcommunity.rip
-
 # https://github.com/badmojr/1Hosts/issues/2739
 csst.at
-
 # https://github.com/badmojr/1Hosts/issues/2735
 filedownload-csw-lenovo.com
-
 # https://github.com/badmojr/1Hosts/issues/2734
 p01-fmip.icloud.com
 p02-fmip.icloud.com
@@ -1098,556 +876,382 @@ p71-fmip.icloud.com
 p72-fmip.icloud.com
 p97-fmip.icloud.com
 p98-fmip.icloud.com
-
 # https://github.com/badmojr/1Hosts/issues/2726
 try.elevenlabs.io
-
 # https://github.com/badmojr/1Hosts/issues/2549
 l-nk.io
-
 # https://github.com/badmojr/1Hosts/issues/2546
 js.storylane.io
-
 # https://github.com/badmojr/1Hosts/issues/2708
 appsgenaiserver-pa.clients6.google.com
-
 # https://github.com/badmojr/1Hosts/issues/2706
 gsa-online.de
-
 # https://github.com/badmojr/1Hosts/issues/2703
 crmxm.com
 xiaoman.cn
-
 # https://github.com/badmojr/1Hosts/issues/2698
 vantage-csw-lenovo.com
-
 # https://github.com/badmojr/1Hosts/issues/2690
 airspace-ipblocks.cbsivideo.com
-
 # https://github.com/badmojr/1Hosts/issues/2667
 opendns.zendesk.com
-
 # https://github.com/badmojr/1Hosts/issues/2663
 tch.quora.com
-
 # https://github.com/badmojr/1Hosts/issues/2660
 security.snyk.io
-
 # https://github.com/badmojr/1Hosts/issues/2655
 global.ccs.amazonaws.com
-
 # https://github.com/badmojr/1Hosts/issues/2636
 cdn.amcharts.com
-
 # https://github.com/badmojr/1Hosts/issues/2634
 qnydns.com
-
 # https://github.com/badmojr/1Hosts/issues/2618
 api.ghostery.net
-
 # https://github.com/badmojr/1Hosts/issues/2613
 s3-w.eu-central-1.amazonaws.com
-
 # https://github.com/badmojr/1Hosts/issues/2606
 prod.pa.cdn.uis.awsstatic.com
-
 # https://github.com/badmojr/1Hosts/issues/2569
 cdn.coveo.com
-
 # https://github.com/badmojr/1Hosts/issues/2565
 services.qantasloyalty.com
-
 # https://github.com/badmojr/1Hosts/issues/2556
 developerprofiles-pa.clients6.google.com
-
 # https://github.com/badmojr/1Hosts/issues/2547
 k3.shared.global.fastly.net
 fvau-web-image-proxy-prod.switch.tv
 pkg.julialang.org
-
 # https://github.com/badmojr/1Hosts/issues/2539
 default.mo.cloudinary.net
-
 # https://github.com/badmojr/1Hosts/issues/2533
 cdn.document360.io
-
 # https://github.com/badmojr/1Hosts/issues/2532
 b2b-contenthub.com
-
 # https://github.com/badmojr/1Hosts/issues/2531
 atlassian-cookies--categories.us-east-1.prod.public.atl-paas.net
-
 # https://github.com/badmojr/1Hosts/issues/2530
 cdn.botframework.com
-
 # https://github.com/badmojr/1Hosts/issues/2525
 wac-web.prod-east.frontend.public.atl-paas.net
-
 # https://github.com/badmojr/1Hosts/issues/2522
 stream.thecube.net
-
 # https://github.com/badmojr/1Hosts/issues/2518
 crt.comodoca.com.cdn.cloudflare.net
-
 # https://github.com/badmojr/1Hosts/issues/2517
 cdn.sitesearch360.com
-
 # https://github.com/badmojr/1Hosts/issues/2516
 rimo3.com
-
 # https://github.com/badmojr/1Hosts/issues/2694
 gg.com
-
 # https://github.com/badmojr/1Hosts/issues/2691
 adsdcsp.com
 upgrades.tsprd.adsdcsp.com
-
 # https://github.com/badmojr/1Hosts/issues/2689
 directstoves.com
 assets.cdn.filesafe.space
-
 # https://github.com/badmojr/1Hosts/issues/2688
 five9.net
 documentation.five9.com
-
 # https://github.com/badmojr/1Hosts/issues/2687
 jetboost.io
-
 # https://github.com/badmojr/1Hosts/issues/2683
 nimbledeals.com
-
 # https://github.com/badmojr/1Hosts/issues/2681
 segura.do
-
 # https://github.com/badmojr/1Hosts/issues/2680
 countable.ca
 www.htmlcommentbox.com
-
 # https://github.com/badmojr/1Hosts/issues/2679
 tilc.in
 til0514f3ce-2090.mumbai-1.elb.tilc.in
-
 # https://github.com/badmojr/1Hosts/issues/2678
 worldofspectrum.org
-
 # https://github.com/badmojr/1Hosts/issues/2677
 msx.org
-
 # https://github.com/badmojr/1Hosts/issues/2676
 www.thecube.net
-
 # https://github.com/badmojr/1Hosts/issues/2675
 zoho.sa
 zoho.jp
 zoho.in
 zohocloud.ca
-
 # https://github.com/badmojr/1Hosts/issues/2674
 frigidpine.com
-
 # https://github.com/badmojr/1Hosts/issues/2582
 teamspeak-services.com
-
 # https://github.com/badmojr/1Hosts/issues/2581
 exorstudios.com
-
 # https://github.com/badmojr/1Hosts/issues/2580
 mypurecloud.com.au
 genesys.com
-
 # https://github.com/badmojr/1Hosts/issues/2579
 smallstep.com
-
 # https://github.com/badmojr/1Hosts/issues/2576
 mintcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/2575
 esimdiscovery.com
-
 # https://github.com/badmojr/1Hosts/issues/2574
 ondemandconnectivity.com
 www.virginplus.ca
-
 # https://github.com/badmojr/1Hosts/issues/2573
 intlscdn.com
-
 # https://github.com/badmojr/1Hosts/issues/2572
 microcms-assets.io
 microcms.io
-
 # https://github.com/badmojr/1Hosts/issues/2571
 thalescloud.io
-
 # https://github.com/badmojr/1Hosts/issues/2570
 mwbsys-prod.com
-
 # https://github.com/badmojr/1Hosts/issues/2568
 cdn-api-weglot.com
-
 # https://github.com/badmojr/1Hosts/issues/2567
 canny-assets.io
-
 # https://github.com/badmojr/1Hosts/issues/2566
 khorostech.com
-
 # https://github.com/badmojr/1Hosts/issues/2564
 hyas.com
-
 # https://github.com/badmojr/1Hosts/issues/2563
 paydock.com
-
 # https://github.com/badmojr/1Hosts/issues/2562
 usgovcloud.microsoft
-
 # https://github.com/badmojr/1Hosts/issues/2560
 fellow.ai
-
 # https://github.com/badmojr/1Hosts/issues/2559
 tildaapi.com
 tilda.cc
-
 # https://github.com/badmojr/1Hosts/issues/2558
 craft.cloud
-
 # https://github.com/badmojr/1Hosts/issues/2557
 dnshistory.org
-
 # https://github.com/badmojr/1Hosts/issues/2555
 edgecdn.world
-
 # https://github.com/badmojr/1Hosts/issues/2554
 phraseapp.com
-
 # https://github.com/badmojr/1Hosts/issues/2553
 seamlessaccess.org
-
 # https://github.com/badmojr/1Hosts/issues/2551
 linfordco.com
-
 # https://github.com/badmojr/1Hosts/issues/2550
 lib.rs
-
 # https://github.com/badmojr/1Hosts/issues/2544
 spacergif.org
 img.spacergif.org
-
 # https://github.com/badmojr/1Hosts/issues/2543
 img.gs
-
 # https://github.com/badmojr/1Hosts/issues/2542
 hexed.it
-
 # https://github.com/badmojr/1Hosts/issues/2541
 fightchatcontrol.eu
-
 # https://github.com/badmojr/1Hosts/issues/2540
 netscalergateway.net
 docs.citrix.com
-
 # https://github.com/badmojr/1Hosts/issues/2538
 iafcertsearch.org
 www.iafcertsearch.org
-
 # https://github.com/badmojr/1Hosts/issues/2537
 expertinsights.com
-
 # https://github.com/badmojr/1Hosts/issues/2529
 backuplabs.io
-
 # https://github.com/badmojr/1Hosts/issues/2528
 nodevice.com
-
 # https://github.com/badmojr/1Hosts/issues/2527
 electronicsurplus.com
-
 # https://github.com/badmojr/1Hosts/issues/2526
 allelcoelec.com
-
 # https://github.com/badmojr/1Hosts/issues/2524
 intercomhelpcenter.com
-
 # https://github.com/badmojr/1Hosts/issues/2523
 cadmore.media
-
 # https://github.com/badmojr/1Hosts/issues/2521
 exterro.net
 panwedd.exterro.net
-
 # https://github.com/badmojr/1Hosts/issues/2520
 findcomponents.net
-
 # https://github.com/badmojr/1Hosts/issues/2519
 madcapflare.com
 www.madcapsoftware.com
-
 # https://github.com/badmojr/1Hosts/issues/2673
 www.terabyteunlimited.com
-
 # https://github.com/badmojr/1Hosts/issues/2672
 talesoftheshire.com
-
 # https://github.com/badmojr/1Hosts/issues/2671
 sub.adtchrome.com
-
 # https://github.com/badmojr/1Hosts/issues/2670
 freshdev.io
 support.freshworks.com
-
 # https://github.com/badmojr/1Hosts/issues/2669
 onlineornot.com
-
 # https://github.com/badmojr/1Hosts/issues/2668
 bunnyinfra.net
-
 # https://github.com/badmojr/1Hosts/issues/2666
 whatismyipaddress.info
-
 # https://github.com/badmojr/1Hosts/issues/2665
 epanorama.net
-
 # https://github.com/badmojr/1Hosts/issues/2664
 utilapi.geeksforgeeks.org
-
 # https://github.com/badmojr/1Hosts/issues/2662
 wikitide.net
-
 # https://github.com/badmojr/1Hosts/issues/2661
 movabletype.net
-
 # https://github.com/badmojr/1Hosts/issues/2659
 fluidtopics.net
 paloaltonetworks.fluidtopics.net
-
 # https://github.com/badmojr/1Hosts/issues/2658
 manpages.org
-
 # https://github.com/badmojr/1Hosts/issues/2656
 security.ntt
-
 # https://github.com/badmojr/1Hosts/issues/2654
 workaround.org
 screenshots.debian.net
 debshots-prod.workaround.org
-
 # https://github.com/badmojr/1Hosts/issues/2653
 cyberhub.sa
-
 # https://github.com/badmojr/1Hosts/issues/2652
 micronbrands.com
-
 # https://github.com/badmojr/1Hosts/issues/2651
 webinspector.com
-
 # https://github.com/badmojr/1Hosts/issues/2650
 valnetinc.com
-
 # https://github.com/badmojr/1Hosts/issues/2649
 openadmintools.com
-
 # https://github.com/badmojr/1Hosts/issues/2648
 botpress.cloud
-
 # https://github.com/badmojr/1Hosts/issues/2647
 valnetcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/2646
 sli-systems.net
 computers.scorptec.com.au
-
 # https://github.com/badmojr/1Hosts/issues/2645
 incident.io
-
 # https://github.com/badmojr/1Hosts/issues/2644
 sublimetext.io
 packages.sublimetext.io
-
 # https://github.com/badmojr/1Hosts/issues/2643
 opencti.io
-
 # https://github.com/badmojr/1Hosts/issues/2642
 firmguard.com
-
 # https://github.com/badmojr/1Hosts/issues/2641
 bpcontent.cloud
-
 # https://github.com/badmojr/1Hosts/issues/2640
 esm.sh
-
 # https://github.com/badmojr/1Hosts/issues/2639
 rtcdn.dev
 www.robtex.com
-
 # https://github.com/badmojr/1Hosts/issues/2638
 cloudflarecp.com
-
 # https://github.com/badmojr/1Hosts/issues/2637
 bolster.ai
-
 # https://github.com/badmojr/1Hosts/issues/2635
 checkphish.ai
-
 # https://github.com/badmojr/1Hosts/issues/2633
 red-shield.net
-
 # https://github.com/badmojr/1Hosts/issues/2632
 pikapod.net
 confined-tableful.cyberhost.uk
-
 # https://github.com/badmojr/1Hosts/issues/2631
 narkive.net
-
 # https://github.com/badmojr/1Hosts/issues/2630
 hatching.io
-
 # https://github.com/badmojr/1Hosts/issues/2629
 mktocloud.com
-
 # https://github.com/badmojr/1Hosts/issues/2628
 invisionsetup.com
 forums.malwarebytes.com
-
 # https://github.com/badmojr/1Hosts/issues/2627
 cyberpanel.net
-
 # https://github.com/badmojr/1Hosts/issues/2626
 livecode.com
-
 # https://github.com/badmojr/1Hosts/issues/2625
 opswatgears.com
-
 # https://github.com/badmojr/1Hosts/issues/2624
 orama.run
-
 # https://github.com/badmojr/1Hosts/issues/2623
 censys.com
-
 # https://github.com/badmojr/1Hosts/issues/2622
 blueally.com
-
 # https://github.com/badmojr/1Hosts/issues/2620
 lemonsqueezy.com
-
 # https://github.com/badmojr/1Hosts/issues/2619
 preordernowapp.com
-
 # https://github.com/badmojr/1Hosts/issues/2617
 adaptiva.com
-
 # https://github.com/badmojr/1Hosts/issues/2616
 sstik.ai
-
 # https://github.com/badmojr/1Hosts/issues/2615
 redocly.app
 redocly.com
-
 # https://github.com/badmojr/1Hosts/issues/2614
 ss-domain.com
 secure-uploads.ui.com.ss-domain.com
-
 # https://github.com/badmojr/1Hosts/issues/2612
 p-dc-msedge.net
 portal.azure.com
-
 # https://github.com/badmojr/1Hosts/issues/2611
 p-msedge.net
-
 # https://github.com/badmojr/1Hosts/issues/2610
 t-s1-msedge.net
-
 # https://github.com/badmojr/1Hosts/issues/2609
 mediadelivery.net
-
 # https://github.com/badmojr/1Hosts/issues/2608
 spehosting.com
 redirect.spehosting.com
-
 # https://github.com/badmojr/1Hosts/issues/2604
 pistachioapp.com
-
 # https://github.com/badmojr/1Hosts/issues/2603
 marektoth.com
-
 # https://github.com/badmojr/1Hosts/issues/2602
 lumu.io
-
 # https://github.com/badmojr/1Hosts/issues/2601
 logseq.com
-
 # https://github.com/badmojr/1Hosts/issues/2600
 aichattings.com
-
 # https://github.com/badmojr/1Hosts/issues/2599
 techlockdown.com
-
 # https://github.com/badmojr/1Hosts/issues/2598
 hcl-software.com
-
 # https://github.com/badmojr/1Hosts/issues/2597
 freelists.org
-
 # https://github.com/badmojr/1Hosts/issues/2596
 fluidtopics.com
-
 # https://github.com/badmojr/1Hosts/issues/2595
 bestpractices.dev
-
 # https://github.com/badmojr/1Hosts/issues/2594
 accertify.com
-
 # https://github.com/badmojr/1Hosts/issues/2593
 www.xcitium.com
-
 # https://github.com/badmojr/1Hosts/issues/2592
 sauceplus.com
-
 # https://github.com/badmojr/1Hosts/issues/2591
 retrobrewcomputers.org
-
 # https://github.com/badmojr/1Hosts/issues/2590
 lumafield.com
-
 # https://github.com/badmojr/1Hosts/issues/2589
 botpress.com
-
 # https://github.com/badmojr/1Hosts/issues/2588
 truust.io
-
 # https://github.com/badmojr/1Hosts/issues/2587
 lionic.com
-
 # https://github.com/badmojr/1Hosts/issues/2586
 electro-tech-online.com
-
 # https://github.com/badmojr/1Hosts/issues/2585
 opensauce.com
-
 # https://github.com/badmojr/1Hosts/issues/2584
 la.teamspeak.com
-
 # https://github.com/badmojr/1Hosts/issues/2583
 modapi.io
-
-
-
-
 # https://github.com/badmojr/1Hosts/issues/2493
 nbim.no
-
 # https://github.com/badmojr/1Hosts/issues/2492
 linagora.com
 twake.app
-
 # https://github.com/badmojr/1Hosts/issues/2491
 fra-efz.ms-acdc.office.com
-
 # https://github.com/badmojr/1Hosts/issues/2490
 hhn-efz.ms-acdc.office.com
 outlook.office365.com
-
 # https://github.com/badmojr/1Hosts/issues/2489
 www.bpm.ch
 vpn.bpm.ch
-
 # https://github.com/badmojr/1Hosts/issues/2488
 tbco.app
 images.tbco.app
@@ -1661,31 +1265,24 @@ thepinknews.com
 www.thepinknews.com
 static.chimeroi.com
 chimeroi.com
-
 # https://github.com/badmojr/1Hosts/issues/2487
 e-mail.wtf
-
 # https://github.com/badmojr/1Hosts/issues/2486
 floridaresidentsdirectory.com
 www.floridaresidentsdirectory.com
-
 # https://github.com/badmojr/1Hosts/issues/2485
 scontent-atl3-2.cdninstagram.com
-
 # https://github.com/badmojr/1Hosts/issues/2484
 gue1-dealer.spotify.com
-
 # https://github.com/badmojr/1Hosts/issues/2483
 haymarketmedia.com
 webapi.haymarketmedia.com
 accounts.haymarketmedia.com
 subscriber.haymarketmedia.com
 dermatologyadvisor.com
-
 # https://github.com/badmojr/1Hosts/issues/2482
 thelumineers.com
 100xhospitality.com
-
 # https://github.com/badmojr/1Hosts/issues/2480
 mongodb.net
 query.mongodb.net
@@ -1697,131 +1294,92 @@ aws.data.mongodb-api.com
 data.mongodb-api.com
 eu-central-1.aws.data.mongodb-api.com
 assets.mongodb-cdn.com
-
 # https://github.com/badmojr/1Hosts/issues/2479
 configs.gitkraken.dev
 api.gitkraken.dev
 gitkraken.dev
-
 # https://github.com/badmojr/1Hosts/issues/2477
 codecatalyst.aws
 cognito-idp.us-west-2.amazonaws.com
-
 # https://github.com/badmojr/1Hosts/issues/2476
 mozillafoundation.org
 www.mozillafoundation.org
-
-
 # https://github.com/badmojr/1Hosts/issues/2473
 cdn.ckeditor.com
 iplocation.io
-
 # https://github.com/badmojr/1Hosts/issues/2472
 weawow.com
-
 # https://github.com/badmojr/1Hosts/issues/2471
 isrbx.me
 mkvcinemas.date
-
 # https://github.com/badmojr/1Hosts/issues/2470
 snowmtl.ru
-
 # https://github.com/badmojr/1Hosts/issues/2469
 www.jiocloud.com
-
 # https://github.com/badmojr/1Hosts/issues/2468
 www.actcorp.in
-
 # https://github.com/badmojr/1Hosts/issues/2466
 global.quickconnect.to
-
 # https://github.com/badmojr/1Hosts/issues/2465
 ghproxy.link
-
 # https://github.com/badmojr/1Hosts/issues/2463
 api.bonjourr.fr
 services.bonjourr.fr
 weather.bonjourr.fr
 chat.z.ai
 audiosex.pro
-
 # https://github.com/badmojr/1Hosts/issues/2462
 wp.wpewaf-east.com
-
 # https://github.com/badmojr/1Hosts/issues/2461
 www.naranjax.com
-
 # https://github.com/badmojr/1Hosts/issues/2460
 paradoxinteractive.com
-
 # https://github.com/badmojr/1Hosts/issues/2459
 us-request.foxitservice.com
-
 # https://github.com/badmojr/1Hosts/issues/2453
 stationx.net
-
 # https://github.com/badmojr/1Hosts/issues/2452
 inquest.net
-
 # https://github.com/badmojr/1Hosts/issues/2451
 rdap.org
-
 # https://github.com/badmojr/1Hosts/issues/2450
 data443.com
-
 # https://github.com/badmojr/1Hosts/issues/2449
 defenseorchestrator.com
-
 # https://github.com/badmojr/1Hosts/issues/2448
 netstar-inc.com
-
 # https://github.com/badmojr/1Hosts/issues/2447
 recordedfutureext.com
-
 # https://github.com/badmojr/1Hosts/issues/2446
 whoisfreaks.com
-
 # https://github.com/badmojr/1Hosts/issues/2445
 also.ch
-
 # https://github.com/badmojr/1Hosts/issues/2444
 blackfog.com
-
 # https://github.com/badmojr/1Hosts/issues/2443
 criminalip.io
-
 # https://github.com/badmojr/1Hosts/issues/2442
 iotforall.com
-
 # https://github.com/badmojr/1Hosts/issues/2441
 whoxy.com
-
 # https://github.com/badmojr/1Hosts/issues/2440
 whalebone.io
-
 # https://github.com/badmojr/1Hosts/issues/2439
 fossa.com
-
 # https://github.com/badmojr/1Hosts/issues/2438
 securityaffairs.com
-
 # https://github.com/badmojr/1Hosts/issues/2437
 c.rprs-cdn.com
 getreprise.com
 Used by Reprise demo platform- https://www.reprise.com/
-
 # https://github.com/badmojr/1Hosts/issues/2436
 infragard.org
-
 # https://github.com/badmojr/1Hosts/issues/2435
 ghostery.net
-
 # https://github.com/badmojr/1Hosts/issues/2434
 wiz.io
-
 # https://github.com/badmojr/1Hosts/issues/2433
 sync-1-us-west1-g.sync.services.mozilla.com
-
 # https://github.com/badmojr/1Hosts/issues/2429
 armory.turtle-wow.org
 cn.turtle-wow.org
@@ -1835,58 +1393,42 @@ launcher.turtle-wow.org
 logon.turtle-wow.org
 luntan.turtle-wow.org
 turtle-wow.org
-
 # https://github.com/badmojr/1Hosts/issues/2427
 gdv-dl.de
 gdv-portal.de
 gdv.org
-
 # https://github.com/badmojr/1Hosts/issues/2423
 secure.disc-soft.com
-
 # https://github.com/badmojr/1Hosts/issues/2422
 omnissa.com
-
 # https://github.com/badmojr/1Hosts/issues/2421
 cloudinfra.net
-
 # https://github.com/badmojr/1Hosts/issues/2420
 vod-fy.crunchyrollcdn.com
 www.crunchyroll.com
-
 # https://github.com/badmojr/1Hosts/issues/2419
 webcentral.au
-
 # https://github.com/badmojr/1Hosts/issues/2418
 forticloud.com
-
 # https://github.com/badmojr/1Hosts/issues/2417
 threatyeti.com
-
 # https://github.com/badmojr/1Hosts/issues/2416
 royalroadcdn.com
 www.royalroad.com
-
 # https://github.com/badmojr/1Hosts/issues/2415
 resource.atlaszz.com
-
 # https://github.com/badmojr/1Hosts/issues/2412
 forticlient.com
 www.fortinet.com
-
 # https://github.com/badmojr/1Hosts/issues/2411
 jqlang.org
 play.jqlang.org
-
 # https://github.com/badmojr/1Hosts/issues/2410
 thermal-grizzly.com
-
 # https://github.com/badmojr/1Hosts/issues/2409
 hdtoday.gg
-
 # https://github.com/badmojr/1Hosts/issues/2407
 ctftime.org
-
 # https://github.com/badmojr/1Hosts/issues/2406
 vod-gcs-cedexis.cbsaavideo.com
 vod62c350g.airspace-cdn.cbsivideo.com
@@ -1894,102 +1436,73 @@ od62c350g.airspace-cdn.cbsivideo.com
 dg-ak-vod.rspcdn.net
 airspace-vod.edgesuite.net
 a1893.dscw141.akamai.net
-
 # https://github.com/badmojr/1Hosts/issues/2405
 cispa.de
 cispa.saarland
-
 # https://github.com/badmojr/1Hosts/issues/2404
 psappdeploytoolkit.com
-
 # https://github.com/badmojr/1Hosts/issues/2403
 robopack.com
-
 # https://github.com/badmojr/1Hosts/issues/2402
 intunepckgr.com
-
 # https://github.com/badmojr/1Hosts/issues/2401
 andrewstaylor.com
-
 # https://github.com/badmojr/1Hosts/issues/2400
 scappman.com
-
 # https://github.com/badmojr/1Hosts/issues/2399
 qovery.com
-
 # https://github.com/badmojr/1Hosts/issues/2396
 ather.io
-
 # https://github.com/badmojr/1Hosts/issues/2395
 comparetwolists.com
-
 # https://github.com/badmojr/1Hosts/issues/2394
 www.omadanetworks.com
-
 # https://github.com/badmojr/1Hosts/issues/2393
 leapscholar.com
 yocket.com
 www.mim-essay.com
 www.nexford.edu
-
 # https://github.com/badmojr/1Hosts/issues/2391
 fly.storage.tigris.dev
-
 # https://github.com/badmojr/1Hosts/issues/2389
 emeditor.com
-
 # https://github.com/badmojr/1Hosts/issues/2388
 prismacloud.io
-
 # https://github.com/badmojr/1Hosts/issues/2387
 gdata.de
-
 # https://github.com/badmojr/1Hosts/issues/2384
 phishfort.com
-
 # https://github.com/badmojr/1Hosts/issues/2382
 zenarmor.com
 sunnyvalley.cloud
-
 # https://github.com/badmojr/1Hosts/issues/2381
 opnsense.com
 www.deciso.com
 opnsense.org
 shop.opnsense.com
-
 # https://github.com/badmojr/1Hosts/issues/2380
 httpstatus.io
-
 # https://github.com/badmojr/1Hosts/issues/2379
 levelblue.com
-
 # https://github.com/badmojr/1Hosts/issues/2377
 com.onion
 expressobutiolem.onion
 fc-.cdn.bcebos.com
 iot-.com
 notavalidendpoint-404---.com
-
 # https://github.com/badmojr/1Hosts/issues/2376
 assets.bbystatic.com
 assets.bbystatic.com.edgekey.net
-
-
 # https://github.com/badmojr/1Hosts/issues/2375
 s1.5playdisk.com
-
 # https://github.com/badmojr/1Hosts/issues/2374
 www.marticliment.com
-
 # https://github.com/badmojr/1Hosts/issues/2373
 cdn.oneget.org
-
 # https://github.com/badmojr/1Hosts/issues/2372
 crl.edge.digicert.com
-
 # https://github.com/badmojr/1Hosts/issues/2371
 gibberlings3.net
-
 # https://github.com/badmojr/1Hosts/issues/2370
 sitereview.zscaler.com
 skyhighsecurity.com
@@ -2009,84 +1522,62 @@ specterops.io
 t0.m.awsstatic.com
 neuraldsp.com
 bizinfograph.com
-
 # https://github.com/badmojr/1Hosts/issues/2366
 www.investorgain.com
-
 # https://github.com/badmojr/1Hosts/issues/2365
 vietnamtour.in
-
 # https://github.com/badmojr/1Hosts/issues/2363
 openapi.lenovo.com
 openapi.lenovo.com.edgekey.net
-
 # https://github.com/badmojr/1Hosts/issues/2362
 forum-uploads.privacyguidesusercontent.com
-
 # https://github.com/badmojr/1Hosts/issues/2361
 cookieyes.com
-
 # https://github.com/badmojr/1Hosts/issues/2360
 adimesaved.com
 curvert.com
-
 # https://github.com/badmojr/1Hosts/issues/2358
 geediting.com
 mindfulhealthsolutions.com
-
 # https://github.com/badmojr/1Hosts/issues/2356
 repo.netsyms.com
-
 # https://github.com/badmojr/1Hosts/issues/2355
 aka-dn.gw.samsungapps.com
-
 # https://github.com/badmojr/1Hosts/issues/2353
 chrome-stats.com
 crx4chrome.com
-
 # https://github.com/badmojr/1Hosts/issues/2346
 cdn.growthbook.io
-
 # https://github.com/badmojr/1Hosts/issues/2352
 subtitulamos.tv
-
 # https://github.com/badmojr/1Hosts/issues/2350
 www.thenewsminute.com
 cf.quintype.io.cdn.cloudflare.net
 timesofindia.indiatimes.com
 timesofindia.indiatimes.com-v1.edgekey.net
 oncodaily.com
-
 # https://github.com/badmojr/1Hosts/issues/2351
 telepass.com
-
 # https://github.com/badmojr/1Hosts/issues/2349
 www.youtube.com
 restrictmoderate.youtube.com
-
 # https://github.com/badmojr/1Hosts/issues/2348
 uzum.com
-
 # https://github.com/badmojr/1Hosts/issues/2347
 licious.in
-
 # https://github.com/badmojr/1Hosts/issues/2342
 blhxusstatic.yo-star.com
 cdn.cloudflare.yo-star.com
-
 # https://github.com/badmojr/1Hosts/issues/2341
 media.piefed.world
-
 # https://github.com/badmojr/1Hosts/issues/2340
 crushon.ai
 janitorai.com
 auth.janitorai.com
 spicychat.ai
 chat.qwen.ai
-
 # https://github.com/badmojr/1Hosts/issues/2338
 corridordigital.com
-
 # https://github.com/badmojr/1Hosts/issues/2337
 rukminim2.flixcart.com
 rukminim2.flixcart.com.edgekey.net
@@ -2094,14 +1585,10 @@ static-assets-web.flixcart.com
 static-assets-web.flixcart.com-new.edgekey.net
 images.meesho.com
 ext-lb-images-meesho-admin-prd.meeshogcp.in
-
 # https://github.com/badmojr/1Hosts/issues/2336
 fed.gold0029.gameloft.com
-
-
 # https://github.com/badmojr/1Hosts/issues/2335
 tehnomedia.rs
-
 # https://github.com/badmojr/1Hosts/issues/2331
 jlai.lu
 cdn.fek.xyz
@@ -2109,105 +1596,79 @@ files.catbox.moe
 digitalcourage.social
 poliverso.org
 lemmus.org
-
 # https://github.com/badmojr/1Hosts/issues/2329
 ocsp.digicert.com
 cac-ocsp.digicert.com.edgekey.net
-
 # https://github.com/badmojr/1Hosts/issues/2327
 jn3cx6xo36.net
 merchant-logos.jn3cx6xo36.net
 prod-mobile-api.jn3cx6xo36.net
-
 # https://github.com/badmojr/1Hosts/issues/2323
 fprint-ml-poc.dev.svc.ui.com
 geo.svc.ui.com
-
 # https://github.com/badmojr/1Hosts/issues/2321
 gamea.clashofclans.com
-
 # https://github.com/badmojr/1Hosts/issues/2320
 bfhub.com
 faphouse2.com
 abgay.com
-
 # https://github.com/badmojr/1Hosts/issues/2318
 zp15.xcdn.to
 zp14.xcdn.to
 zp9.xcdn.to
 zp6.xcdn.to
 img.xcdn.to
-
 # https://github.com/badmojr/1Hosts/issues/2317
 piefed.ca
 media.piefed.ca
-
 # https://github.com/badmojr/1Hosts/issues/2314
 xhpingcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/2315
 fhgte.com
-
 # CNAME: api.sync.t3.chat
 convex.domains
-
 # https://github.com/badmojr/1Hosts/issues/2316
 t3.chat
 api.sync.t3.chat
-
 # https://github.com/badmojr/1Hosts/issues/2313
 vault.bitwarden.com
 icons.bitwarden.net
 dualstack.n.sni.us-eu.fastly.net
 mbz100.bitwarden.map.fastly.net
-
 # https://github.com/badmojr/1Hosts/issues/2312
 pbs.twimg.com
 dualstack.twimg.twitter.map.fastly.net
-
 # https://github.com/badmojr/1Hosts/issues/2310
 mtgzone.com
-
 # https://github.com/badmojr/1Hosts/issues/2309
 autoriteitpersoonsgegevens.nl
-
 # https://github.com/badmojr/1Hosts/issues/2308
 onlinebetaalplatform.nl
-
 # https://github.com/badmojr/1Hosts/issues/2307
 directa.it
 directatrading.com
-
 # https://github.com/badmojr/1Hosts/issues/2305
 crdroid.net
-
 # https://github.com/badmojr/1Hosts/issues/2304
 st.adguardcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/2302
 feddit.nl
 media.piefed.social
-
 # https://github.com/badmojr/1Hosts/issues/2299
 basic-tutorials.de
-
 # https://github.com/badmojr/1Hosts/issues/2298
 mariushosting.com
-
 # https://github.com/badmojr/1Hosts/issues/2297
 freenet-mobilfunk.de
 id.freenet-mobilfunk.de
-
 # https://github.com/badmojr/1Hosts/issues/2294
 yuguaab.com
 habetar.com
 guxhag.com
 auvexiug.com
 xenolyzb.com
-
 # https://github.com/badmojr/1Hosts/issues/2292
 starship.rs
-
 # https://github.com/badmojr/1Hosts/issues/2290
 blip.net
 prod.blip.net
@@ -2216,81 +1677,58 @@ heidi.transport.blip.net
 heinz.transport.blip.net
 geoffrey.transport.blip.net
 transport.blip.net
-
 # https://github.com/badmojr/1Hosts/issues/2288
 naukri.com
 static.naukimg.com
-
 # https://github.com/badmojr/1Hosts/issues/2285
 bolt.dropbox.com
-
 # https://github.com/badmojr/1Hosts/issues/2284
 api.playfacapi.com
-
 # https://github.com/badmojr/1Hosts/issues/2283
 app.joinhomebase.com
-
 # https://github.com/badmojr/1Hosts/issues/2282
 ads-eu.aylanetworks.com
-
 # https://github.com/badmojr/1Hosts/issues/2281
 startco.ro
-
 # https://github.com/badmojr/1Hosts/issues/2280
 opencut.app
-
 # https://github.com/badmojr/1Hosts/issues/2279
 linuxnews.de
-
 # https://github.com/badmojr/1Hosts/issues/2277
 n8n.cloud
-
 # https://github.com/badmojr/1Hosts/issues/2275
 my.manychat.com
-
 # https://github.com/badmojr/1Hosts/issues/2274
 sibs.ro
-
 # https://github.com/badmojr/1Hosts/issues/2272
 urbanshade.org
-
 # https://github.com/badmojr/1Hosts/issues/2271
 hgplaycdn.com
 cdn.mitvstatic.com
-
 # https://github.com/badmojr/1Hosts/issues/2268
 vercel-dns-013.com
-
 # https://github.com/badmojr/1Hosts/issues/2266
 tiktoklinksafety.eu
 www.tiktoklinksafety.eu
-
 # https://github.com/badmojr/1Hosts/issues/2264
 discuss.privacyguides.net
 forum-cdn.privacyguides.net
-
 # https://github.com/badmojr/1Hosts/issues/2263
 fedia.io
-
 # https://github.com/badmojr/1Hosts/issues/2262
 balneomedica.ro
-
 # https://github.com/badmojr/1Hosts/issues/2261
 euplatesc.ro
 secure.euplatesc.ro
-
 # https://github.com/badmojr/1Hosts/issues/2260
 streameeeeee.site
-
 # https://github.com/badmojr/1Hosts/issues/2254
 aussie.zone
 monero.town
 mediacdn.aus.social
 feddit.de
-
 # https://github.com/badmojr/1Hosts/issues/2253
 stream.supermaven.com
-
 # https://github.com/badmojr/1Hosts/issues/2251
 videostr.net
 ultpreplayer.com
@@ -2300,41 +1738,30 @@ gatotv.com
 cuevana.is
 cuevana.mobi
 fravega.com
-
 # https://github.com/badmojr/1Hosts/issues/2249
 qlty.sh
-
 # https://github.com/badmojr/1Hosts/issues/2248
 data.wprdc.org
-
 # https://github.com/badmojr/1Hosts/issues/2247
 pingperfect.com
-
 # https://github.com/badmojr/1Hosts/issues/2246
 html-color.codes
 rgbcolorcode.com
-
 # https://github.com/badmojr/1Hosts/issues/2245
 slrpnk.net
-
 # https://github.com/badmojr/1Hosts/issues/2244
 feditown.com
 feddit.it
 lemmy.nz
 chapo.chat
-
 # https://github.com/badmojr/1Hosts/issues/2243
 join-lemmy.org
-
 # github.com/badmojr/1Hosts/issues/2242
 sdpondemand.manageengine.in
-
 # github.com/badmojr/1Hosts/issues/2241
 cockpit-project.org
-
 # github.com/badmojr/1Hosts/issues/2240
 big.bilibili.com
-
 # github.com/badmojr/1Hosts/issues/2239
 nycpride.org
 lgbthistoryuk.org
@@ -2374,36 +1801,26 @@ gopride.com
 harlempride.org
 indypride.org
 lapride.org
-
 # github.com/badmojr/1Hosts/issues/2238
 tlu.dl.delivery.mp.microsoft.com.cdn.dnse8.com
-
 # github.com/badmojr/1Hosts/issues/2236
 www.yoctoproject.org
-
 # https://github.com/badmojr/1Hosts/issues/2234
 fragdenstaat.de
-
 # https://github.com/badmojr/1Hosts/issues/2233
 superlogica.com
 superlogica.net
-
 # https://github.com/badmojr/1Hosts/issues/2231
 registry.ollama.ai
-
 # https://github.com/badmojr/1Hosts/issues/2230
 migaku.com
-
 # https://github.com/badmojr/1Hosts/issues/2229
 dontpad.com
-
 # https://github.com/badmojr/1Hosts/issues/2228
 core.morgenlevering.no
 morgenlevering-core.mlev-pro-1.eks.schibsted.io
-
 # https://github.com/badmojr/1Hosts/issues/2227
 detectportal.brave-http-only.com
-
 # https://github.com/badmojr/1Hosts/issues/2226
 dropoverapp.com
 a.dropoverapp.com
@@ -2411,79 +1828,59 @@ raycast.com
 www.raycast.com
 backend.raycast.com
 releases.raycast.com
-
 # https://github.com/badmojr/1Hosts/issues/2225
 edge.microsoft.com
 edge-microsoft-com.ax-0002.ax-msedge.net
-
 # https://github.com/badmojr/1Hosts/issues/2224
 api-glb-aaps1b.smoot.apple.com
-
 # https://github.com/badmojr/1Hosts/issues/2223
 infinitemac.org
-
 # https://github.com/badmojr/1Hosts/issues/2219
 sustainalytics.com
-
 # https://github.com/badmojr/1Hosts/issues/2218
 zed.dev
-
 # https://github.com/badmojr/1Hosts/issues/2211
 www.genesis.com.haecdn.com
 www.hyundai.com.haecdn.com
 www.hyundaiusa.com.haecdn.com
 www.kia.com.haecdn.com
-
 # https://github.com/badmojr/1Hosts/issues/2206
 file.an1.co
 files.an1.net
 # https://github.com/badmojr/1Hosts/issues/2205
 epiccardgame-android.fungames-forfree.com
-
 # https://github.com/badmojr/1Hosts/issues/2197
 upfion.com
 flash.getpczone.com
-
 # https://github.com/badmojr/1Hosts/issues/2179
 gallery-vsassets-io.bx-0007.bx-msedge.net
-
 # https://github.com/badmojr/1Hosts/issues/2178
 dnull.xyz
 royalegame.win
-
 # https://github.com/badmojr/1Hosts/issues/2177
 animalpetitions.org
-
 # https://github.com/badmojr/1Hosts/issues/2176
 workingfamilies.org
-
 # https://github.com/badmojr/1Hosts/issues/2175
 natanchiodi.fr
-
 # https://github.com/badmojr/1Hosts/issues/2174
 plexus.techlore.tech
 xhamster43.desi
 uotech.in
 www.uotech.in.cdn.hstgr.net
-
 # https://github.com/badmojr/1Hosts/issues/2173
 tryhackme.tech
 vinegarhq.org
 dsm.city
-
 # https://github.com/badmojr/1Hosts/issues/2165
 stun.sipgate.cloud
 stun.voip.aebc.com
-
 # https://github.com/badmojr/1Hosts/issues/2164
 requestcatcher.com
-
 # https://github.com/badmojr/1Hosts/issues/2162
 www.vornado.com
-
 # https://github.com/badmojr/1Hosts/issues/2161
 traininng.com
-
 # https://github.com/badmojr/1Hosts/issues/2159
 automodul.cz
 certi.cz
@@ -2496,137 +1893,100 @@ pizzamodena.cz
 predskolaci.cz
 www.mfdnes.cz
 xtra.co.nz
-
 # https://github.com/badmojr/1Hosts/issues/2158
 repo.unitrends.com
-
 # https://github.com/badmojr/1Hosts/issues/2157
 page.webpros.com
-
 # https://github.com/badmojr/1Hosts/issues/2156
 podman-desktop.io
 registry.podman-desktop.io
-
 # https://github.com/badmojr/1Hosts/issues/2155
 trainmore.nl
-
 # https://github.com/badmojr/1Hosts/issues/2154
 freedomflotilla.org
-
 # https://github.com/badmojr/1Hosts/issues/2152
 relay.primal.net
-
 # https://github.com/badmojr/1Hosts/issues/2151
 www.kiyoh.com
 kiyoh.com
-
 # https://github.com/badmojr/1Hosts/issues/2147
 pxscdn.com
 pixelfed.social
-
 # https://github.com/badmojr/1Hosts/issues/2146
 appsec-mobile.meituan.com
-
 # https://github.com/badmojr/1Hosts/issues/2145
 rim.or.jp
 www.kt.rim.or.jp
-
 # https://github.com/badmojr/1Hosts/issues/2144
 opentofu.org
-
 # https://github.com/badmojr/1Hosts/issues/2140
 www.adsbhub.org
 adsbhub.org
-
 # https://github.com/badmojr/1Hosts/issues/2139
 opensky-network.org
 www.opensky-network.org
-
 # https://github.com/badmojr/1Hosts/issues/2138
 talk.washingtonpost.com
-
 # https://github.com/badmojr/1Hosts/issues/2137
 weather-server.allawnos.com
-
 # https://github.com/badmojr/1Hosts/issues/2129
 global.sfg-mkg.de
 sfg-mkg.de
-
 # https://github.com/badmojr/1Hosts/issues/2113
 angular.dev
-
 # https://github.com/badmojr/1Hosts/issues/2110
 treg.hearstnp.com
-
 # https://github.com/badmojr/1Hosts/issues/2106
 warcraft.wiki.gg
-
 # https://github.com/badmojr/1Hosts/issues/2103
 laundrify.de
 api.laundrify.de
-
 # https://github.com/badmojr/1Hosts/issues/2102
 a.dove.isdumb.one
-
 # https://github.com/badmojr/1Hosts/issues/2099
 drmax.ro
-
 # https://github.com/badmojr/1Hosts/issues/2098
 stun.sipgate.net
 stun.xten.com
 stun.voipbuster.com
-
 # https://github.com/badmojr/1Hosts/issues/2097
 dhlecommerce.nl
 my.dhlecommerce.nl
 static.dhlecommerce.nl
 secure.dhlecommerce.nl
 www.dhlecommerce.nl
-
 # https://github.com/badmojr/1Hosts/issues/2070
 word.cloud.microsoft
 powerpoint.cloud.microsoft
 listafirme.ro
-
 # https://github.com/badmojr/1Hosts/issues/2050
 pacapi.webfdm.com
 api.webfdm.com
-
 # https://github.com/badmojr/1Hosts/issues/2047
 mironline.ru
 pay.mironline.ru
-
 # https://github.com/badmojr/1Hosts/issues/2046
 secondnature.ai
-
 # https://github.com/badmojr/1Hosts/issues/2045
 d-edge.com
 www.d-edge.com
-
 # https://github.com/badmojr/1Hosts/issues/2039
 meituan.net
-
 # https://github.com/badmojr/1Hosts/issues/2029
 zywave.com
-
 # https://github.com/badmojr/1Hosts/issues/2023
 tracker.p2p-world.net
-
 # https://github.com/badmojr/1Hosts/issues/1997
 secure.rocket-rez.com
-
 # https://github.com/badmojr/1Hosts/issues/1993
 locale.roblox.com
-
 # https://github.com/badmojr/1Hosts/issues/1995
 grass.io
 director.getgrass.io
 api.grass.io
 files.getgrass.io
-
 # https://github.com/badmojr/1Hosts/issues/1991
 packages.synocommunity.com
-
 # https://github.com/badmojr/1Hosts/issues/1990
 nabucasa.com
 account-link.nabucasa.com
@@ -2635,7 +1995,6 @@ turn.nabucasa.com
 cloud.nabucasa.com
 alexa-api.nabucasa.com
 remotestate.nabucasa.com
-
 # https://github.com/badmojr/1Hosts/issues/1987
 www1.signon2.gravityshavings.net
 www2.signon2.gravityshavings.net
@@ -2645,51 +2004,39 @@ www5.signon2.gravityshavings.net
 www6.signon2.gravityshavings.net
 www7.signon2.gravityshavings.net
 www8.signon2.gravityshavings.net
-
 # https://github.com/badmojr/1Hosts/issues/1986
 isgaccess.com
 v6fe.isgaccess.com
 v4fe.isgaccess.com
 ismartgate.com
-
 # https://github.com/badmojr/1Hosts/issues/1985
 i.cal.to
-
 # https://github.com/badmojr/1Hosts/issues/1981
 pluralistic.net
-
 # https://github.com/badmojr/1Hosts/issues/1980
 eset.systems
-
 # https://github.com/badmojr/1Hosts/issues/1978
 sparxmaths.uk
 webrtc.chatgpt.com
-
 # https://github.com/badmojr/1Hosts/issues/1975
 push2.eastmoney.com
 emcharts.dftzj.com
 emcharts.dftzj.com.queniukt.com
-
 # https://github.com/badmojr/1Hosts/issues/1974
 en.fritz.com
-
 # https://github.com/badmojr/1Hosts/issues/1972
 Matrix.beeper.com
 edgeserv-lb.beeper-tools.com
-
 # https://github.com/badmojr/1Hosts/issues/1971
 blog.kakaocdn.net
 tblog-8sodn459.kgslb.com
-
 # https://github.com/badmojr/1Hosts/issues/1964
 cyberinsider.com
 umatechnology.org
 safereddit.com
 ncsc.nl
-
 # https://github.com/badmojr/1Hosts/issues/1962
 neweuropeanoffshore.com
-
 # https://github.com/badmojr/1Hosts/issues/1961
 vpncdn.protonweb.com
 duck.ai
@@ -2699,193 +2046,140 @@ venice.ai
 www.honor.com
 bitbrowser.net
 mjtsai.com
-
 # https://github.com/badmojr/1Hosts/issues/1958
 d1f1eryiqyjs0r.cloudfront.net
-
 # https://github.com/badmojr/1Hosts/issues/1957
 galaxy.ai
-
 # https://github.com/badmojr/1Hosts/issues/1956
 xcancel.com
-
 # https://github.com/badmojr/1Hosts/issues/1955
 reamaze.lida.clearalias.com
 support.starlabs.systems 
-
 # https://github.com/badmojr/1Hosts/issues/1954
 www.dragonflybsd.org
-
 # https://github.com/badmojr/1Hosts/issues/1953
 www.hmd.com
-
 # https://github.com/badmojr/1Hosts/issues/1950
 speedcheck.org
 www.speedcheck.org
-
 # https://github.com/badmojr/1Hosts/issues/1949
 kumu.io
-
 # https://github.com/badmojr/1Hosts/issues/1948
 www.abb.com
 waf.abb
-
 # https://github.com/badmojr/1Hosts/issues/1947
 whonix.org
-
 # https://github.com/badmojr/1Hosts/issues/1946
 asuracomic.net
-
 # https://github.com/badmojr/1Hosts/issues/1945
 comick.io
-
 # https://github.com/badmojr/1Hosts/issues/1944
 manatoki468.net
 img2.newtoki20.org
 # https://github.com/badmojr/1Hosts/issues/1940
 user.live.boltsvc.net
-
 # https://github.com/badmojr/1Hosts/issues/1938
 aai.aero
-
 # https://github.com/badmojr/1Hosts/issues/1937
 global.flashscore.ninja
 flashscore.com
-
 # https://github.com/badmojr/1Hosts/issues/1936
 sim3.psim.us
 play.pokemonshowdown.com
-
 # https://github.com/badmojr/1Hosts/issues/1935
 varnish03-c04-fra1-dss-vod-dssc-shield.tr.eu.prod.dssedge.com
 dssedge.com
-
 # https://github.com/badmojr/1Hosts/issues/1934
 emqx.com
 emqxcloud.com
 emqxsl.com
 emqx.cloud
-
 # https://github.com/badmojr/1Hosts/issues/1930
 ln-msedge.net
-
 # https://github.com/badmojr/1Hosts/issues/1929
 hds.com
-
 # https://github.com/badmojr/1Hosts/issues/1928
 tangiatwitchext-frontend.cf.tangia.co
-
 # https://github.com/badmojr/1Hosts/issues/1927
 inf.re
-
 # https://github.com/badmojr/1Hosts/issues/1926
 deepseek.com
-
 # https://github.com/badmojr/1Hosts/issues/1925
 apod.com
 apod.nasa.gov
-
 # https://github.com/badmojr/1Hosts/issues/1922
 gpugrid.net
-
 # https://github.com/badmojr/1Hosts/issues/1921
 charityengine.com
 www.charityengine.com
 work.charityengine.com
 ht-server-list.charityengine.com
-
 # https://github.com/badmojr/1Hosts/issues/1920
 cpdn.org
 www.cpdn.org
-
 # https://github.com/badmojr/1Hosts/issues/1917
 trony.it
-
 # https://github.com/badmojr/1Hosts/issues/1916
 nononsenseapps.com
 news.nononsenseapps.com
-
 # https://github.com/badmojr/1Hosts/issues/1915
 img.chmedia.ch
 tagblatt.ch
-
 # https://github.com/badmojr/1Hosts/issues/1913
 physicsgalaxy.com
-
 # https://github.com/badmojr/1Hosts/issues/1911
 nlog.naver.com
-
 # https://github.com/badmojr/1Hosts/issues/1909
 opentext.com
 community.opentext.com
-
 # https://github.com/badmojr/1Hosts/issues/1908
 www.maya.ph
-
 # https://github.com/badmojr/1Hosts/issues/1907
 testingcf.jsdelivr.net
-
 # https://github.com/badmojr/1Hosts/issues/1904
 maya.ph
-
 # https://github.com/badmojr/1Hosts/issues/1404
 cdn.mews.com
 app.mews.com
 apps.mews.com
-
 # https://github.com/badmojr/1Hosts/issues/1403
 relatedwords.io
-
 # https://github.com/badmojr/1Hosts/issues/1402
 zpns.zoom.us
-
 # https://github.com/badmojr/1Hosts/issues/1401
 assets1.hobbii.com
 hobbii.com
 hobbii.de
-
 # https://github.com/badmojr/1Hosts/issues/1400
 www.platformer.news
-
 # https://github.com/badmojr/1Hosts/issues/1395
 linuxcontainers.org
-
 # https://github.com/badmojr/1Hosts/issues/1393
 compiles.overleafusercontent.com
 www.overleaf.com
-
 # https://github.com/badmojr/1Hosts/issues/1390
 indieweb.social
-
 # https://github.com/badmojr/1Hosts/issues/1389
 pub-sc-alpha-3182-8440578.test1.cloudimperiumgames.com
-
 # https://github.com/badmojr/1Hosts/issues/1385
 fandubdb.fandom.com
-
 # https://github.com/badmojr/1Hosts/issues/1384
 cms.services-bahn.de
 services-bahn.de
-
 # https://github.com/badmojr/1Hosts/issues/1383
 api.olioex.com
 cdn.olioex.com
 olioex.com
-
 # https://github.com/badmojr/1Hosts/issues/1747
 sm.pcmag.com
 gr.pcmag.com
-
 # https://github.com/badmojr/1Hosts/issues/1737
 static.gmlinteractive.com
 Stoiximan.gr
-
 # https://github.com/badmojr/1Hosts/issues/1711
 lbs.map.qq.com
-
 # https://github.com/badmojr/1Hosts/issues/1586
 clicks.meetup.com
-
 # https://github.com/badmojr/1Hosts/issues/1563
 ipify.org
 www.ipify.org
@@ -2893,231 +2187,162 @@ api.ipify.org
 api4.ipify.org
 api6.ipify.org
 api64.ipify.org
-
 # https://github.com/badmojr/1Hosts/issues/1524
 plarium.com
-
 # https://github.com/badmojr/1Hosts/issues/1456
 ryml.me
-
 # https://github.com/badmojr/1Hosts/issues/1446
 dominik-reichl.de
 www.dominik-reichl.de
-
 # https://github.com/badmojr/1Hosts/issues/1436
 upflix.pl
-
 # https://github.com/badmojr/1Hosts/issues/1428
 spreadsheetpage.com
 www.spreadsheetpage.com
-
 # https://github.com/badmojr/1Hosts/issues/1425
 www.nd-aktuell.de
-
 # https://github.com/badmojr/1Hosts/issues/1424
 socradar.io
-
 # https://github.com/badmojr/1Hosts/issues/1423
 sethforprivacy.com
-
 # https://github.com/badmojr/1Hosts/issues/1422
 assets.static-chmedia.ch
-
 # https://github.com/badmojr/1Hosts/issues/1421
 flipperzero.one
-
 # https://github.com/badmojr/1Hosts/issues/1419
 cdn.tickaroo.com
 www.tickaroo.com
-
 # https://github.com/badmojr/1Hosts/issues/1418
 www.bmuv.de
-
 # https://github.com/badmojr/1Hosts/issues/1417
 projectsegfau.lt
-
 # https://github.com/badmojr/1Hosts/issues/1416
 www.corellium.com
-
 # https://github.com/badmojr/1Hosts/issues/1413
 max.com
-
 # https://github.com/badmojr/1Hosts/issues/1411
 opsserver.ch
-
 # https://github.com/badmojr/1Hosts/issues/1386
 infoip.io
-
 # https://github.com/badmojr/1Hosts/issues/1300
 theconversation.cmail20.com
-
 # https://github.com/badmojr/1Hosts/issues/1827
 cdn1.ozonusercontent.com
-
 # https://github.com/badmojr/1Hosts/issues/1525
 travel.his.com
 travel.state.gov
-
 # https://github.com/badmojr/1Hosts/issues/1520
 i.wfcdn.de
 j.wfcdn.de
 scr.wfcdn.de
-
 # https://github.com/badmojr/1Hosts/issues/1485
 stacker.news
-
 # https://github.com/badmojr/1Hosts/issues/1561
 getutm.app
-
 # https://github.com/badmojr/1Hosts/issues/1558
 op3.dev
-
 # https://github.com/badmojr/1Hosts/issues/1556
 connect.intl.rom.miui.com
-
 # https://github.com/badmojr/1Hosts/issues/1554
 404media.co
 www.404media.co
-
 # https://github.com/badmojr/1Hosts/issues/1553
 bitwarden.eu
 vault.bitwarden.eu
-
 # https://github.com/badmojr/1Hosts/issues/1550
 rosenzweig.io
-
 # https://github.com/badmojr/1Hosts/issues/1544
 www.klimareporter.de
-
 # https://github.com/badmojr/1Hosts/issues/1543
 www.agora-energiewende.de
-
 # https://github.com/badmojr/1Hosts/issues/1542
 universeodon.com
-
 # https://github.com/badmojr/1Hosts/issues/1541
 playwright.dev
 react.dev
-
 # https://github.com/badmojr/1Hosts/issues/1539
 podcastpage.io
-
 # https://github.com/badmojr/1Hosts/issues/1538
 www.bloomreach.com
-
 # https://github.com/badmojr/1Hosts/issues/1537
 fmhy.net
-
 # https://github.com/badmojr/1Hosts/issues/1536
 accounts.snap.com
-
 # https://github.com/badmojr/1Hosts/issues/1535
 www.diabetes-online.de
 diabetes-online.de
-
 # https://github.com/badmojr/1Hosts/issues/1534
 bg3.wiki
-
 # https://github.com/badmojr/1Hosts/issues/1533
 troet.cafe
-
 # https://github.com/badmojr/1Hosts/issues/1532
 www.patrick-breyer.de
 patrick-breyer.de
-
 # https://github.com/badmojr/1Hosts/issues/1531
 noordoostpolder.nl
 raad.noordoostpolder.nl
-
 # https://github.com/badmojr/1Hosts/issues/1527
 sidn.nl
-
 # https://github.com/badmojr/1Hosts/issues/1514
 anytype.io
 community.anytype.io
-
 # https://github.com/badmojr/1Hosts/issues/1512
 api.umbrel.com
-
 # https://github.com/badmojr/1Hosts/issues/1508
 ip.me
-
 # https://github.com/badmojr/1Hosts/issues/1507
 mobilityticketing-backend.app.mvg.de
 k8s.aws-prod.uptrade.de
 icketshop.mvv-muenchen.de
 www.s-bahn-muenchen.de
 s-bahn-muenchen.de
-
 # https://github.com/badmojr/1Hosts/issues/1506
 apptoogoodtogo.com
 tgtg.ninja
 images.tgtg.ninja
-
 # https://github.com/badmojr/1Hosts/issues/1505
 neetcode.io
 www.leetcode.com
-
 # https://github.com/badmojr/1Hosts/issues/1504
 techhub.social
-
 # https://github.com/badmojr/1Hosts/issues/1503
-react.dev
-
 # https://github.com/badmojr/1Hosts/issues/1502
 mrcoles.com
-
 # https://github.com/badmojr/1Hosts/issues/1500
 cuty.io
-
 # https://github.com/badmojr/1Hosts/issues/1498
 tech.lgbt
 media.tech.lgbt
-
 # https://github.com/badmojr/1Hosts/issues/1496
 astro.build
-
 # https://github.com/badmojr/1Hosts/issues/1493
-projectsegfau.lt
 www.projectsegfau.lt
-
 # https://github.com/badmojr/1Hosts/issues/1492
 www.vern.cc
 vern.cc
-
 # https://github.com/badmojr/1Hosts/issues/1883
 faphouse.com
-
 # https://github.com/badmojr/1Hosts/issues/1799
 cobalt.tools
 imput.net
-
 # https://github.com/badmojr/1Hosts/issues/1795
 secure.dhgate.com
-
 # https://github.com/badmojr/1Hosts/issues/1777
 delivr.com
-
 # https://github.com/badmojr/1Hosts/issues/1768
 device.memfault.com
-
 # https://github.com/badmojr/1Hosts/issues/1752
 www.ladylike.gr
-
 # https://github.com/badmojr/1Hosts/issues/1717
 hexnode.com
 www.hexnode.com
-
 # https://github.com/badmojr/1Hosts/issues/1621
 audiovision.de
 www.audiovision.de
-
 # https://github.com/badmojr/1Hosts/issues/1620
 app.bountysource.com
-
 # https://github.com/badmojr/1Hosts/issues/1616
 web.stytch.com
-
 # https://github.com/badmojr/1Hosts/issues/1613
 account.xiaomi.com
 api.account.xiaomi.com
@@ -3131,24 +2356,18 @@ global.market.xiaomi.com
 update.intl.miui.com
 update.miui.com
 us.find.api.micloud.xiaomi.net
-
 # https://github.com/badmojr/1Hosts/issues/1601
 api-na.geetest.com
 api-na.geetest.com.eo.dnse2.com
-
 # https://github.com/badmojr/1Hosts/issues/1598
 rbc.ua
 www.rbc.ua
-
 # https://github.com/badmojr/1Hosts/issues/1591
 getmidas.com
-
 # https://github.com/badmojr/1Hosts/issues/1581
 m.icares.app
-
 # https://github.com/badmojr/1Hosts/issues/1575
 keqingmains.com
-
 # https://github.com/badmojr/1Hosts/issues/1574
 js.skyscnr.com.cdn.skyscannerplatform.net
 content.skyscnr.com.cdn.skyscannerplatform.net
@@ -3157,24 +2376,19 @@ images.skyscnr.com.cdn.skyscannerplatform.net
 cdn.skyscannerplatform.net
 skyscannerplatform.net
 www.skyscanner.de.cdn.skyscannerplatform.net
-
 # https://github.com/badmojr/1Hosts/issues/1571
 readfrom.net
 static.readfrom.net
 picture.readfrom.net
-
 # https://github.com/badmojr/1Hosts/issues/1570
 annas-archive.org
-
 # https://github.com/badmojr/1Hosts/issues/1569
 globaldp-prod-os01.starrails.com
 prod-official-asia-dp01.starrails.com
 autopatchos.starrails.com
-
 # https://github.com/badmojr/1Hosts/issues/1568
 malsync.moe
 api.malsync.moe
-
 # https://github.com/badmojr/1Hosts/issues/1567
 comick.app
 static.comick.app
@@ -3182,21 +2396,17 @@ api.comick.app
 meo.comick.pictures
 meo2.comick.pictures
 meo3.comick.pictures
-
 # https://github.com/badmojr/1Hosts/issues/1566
 roboguru-forum-cdn.ruangguru.com
 cdn-web-2.ruangguru.com
 imgix3.ruangguru.com
 roboguru.ruangguru.com
-
 # https://github.com/badmojr/1Hosts/issues/1565
 media2.colearn.id
 growthbook-assets.colearn.id
 colearn.id
-
 # https://github.com/badmojr/1Hosts/issues/1564
 prydwen.gg
-
 # https://github.com/badmojr/1Hosts/issues/1562
 feddit.uk
 kbin.social
@@ -3219,110 +2429,77 @@ mander.xyz
 pawb.social
 pictrs.blahaj.zone
 media.kbin.social
-
 # https://github.com/badmojr/1Hosts/issues/1559
 httptoolkit.com
-
 # https://github.com/badmojr/1Hosts/issues/1764
 univention.de
 www.univention.de
-
 # https://github.com/badmojr/1Hosts/issues/1760
 meister.co
 meisterlabs.com
-
 # https://github.com/badmojr/1Hosts/issues/1756
 energypress.gr
-
 # https://github.com/badmojr/1Hosts/issues/1755
 www.midjourney.com
 docs.midjourney.com
 amp.midjourney.com
-
 # https://github.com/badmojr/1Hosts/issues/1751
 www.star.gr
-
 # https://github.com/badmojr/1Hosts/issues/1750
 www.real.gr
-
 # https://github.com/badmojr/1Hosts/issues/1749
 www.vita.gr
-
 # https://github.com/badmojr/1Hosts/issues/1748
 www.ot.gr
-
 # https://github.com/badmojr/1Hosts/issues/1746
 www.apopsi.gr
-
 # https://github.com/badmojr/1Hosts/issues/1745
 www.tanea.gr
-
 # https://github.com/badmojr/1Hosts/issues/1744
 www.tovima.gr
-
 # https://github.com/badmojr/1Hosts/issues/1743
 www.ertnews.gr
-
 # https://github.com/badmojr/1Hosts/issues/1742
 www.skai.gr
-
 # https://github.com/badmojr/1Hosts/issues/1741
 www.dnews.gr
-
 # https://github.com/badmojr/1Hosts/issues/1740
 cdn.bbmd.gr
 newsbomb.gr
-
 # https://github.com/badmojr/1Hosts/issues/1739
 img.cnngreece.gr
 static.cnngreece.gr
 cnn.gr.
-
 # https://github.com/badmojr/1Hosts/issues/1738
 www.ieidiseis.gr
-
 # https://github.com/badmojr/1Hosts/issues/1735
 www.alphatv.gr
-
 # https://github.com/badmojr/1Hosts/issues/1732
 wankzvr.com
-
 # https://github.com/badmojr/1Hosts/issues/1731
 twinmotion.com
-
 # https://github.com/badmojr/1Hosts/issues/1726
-ip.me
-
 # https://github.com/badmojr/1Hosts/issues/1724
 hashnode.network
-
 # https://github.com/badmojr/1Hosts/issues/1720
 evehome.com
 www.evehome.com
 eve-updates.evehome.com
-
 # https://github.com/badmojr/1Hosts/issues/1718
 embrace-autism.com
-
 # https://github.com/badmojr/1Hosts/issues/1667
 wildb.api.np.km.playstation.net.edgekey.net.globalredir.akadns88.net
 commerce.api.np.km.playstation.net
-
 # https://github.com/badmojr/1Hosts/issues/1658
 sysdig.com
-
 # https://github.com/badmojr/1Hosts/issues/1648
 eazy.de
-
-
 # https://github.com/badmojr/1Hosts/issues/1901
 gamersupps.gg
-
 # https://github.com/badmojr/1Hosts/issues/1900
 eulatracking-public-service-prod.ol.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
 datarouter.ol.epicgames.com
-
 # https://github.com/badmojr/1Hosts/issues/1896
 nimiq.com
 cdn.nimiq.com
@@ -3339,10 +2516,8 @@ repo.nimiq.com
 safe.nimiq.com
 shop.nimiq.com
 www.nimiq.com
-
 # https://github.com/badmojr/1Hosts/issues/1882
 sqs.us-east-1.amazonaws.com
-
 # https://github.com/badmojr/1Hosts/issues/1875
 x5.seed.bitcoin.wiz.biz
 x5.dnsseed.emzy.de
@@ -3351,35 +2526,25 @@ x5.seed.btc.petertodd.org
 x5.seed.bitcoinstats.com
 x5.dnsseed.bluematt.me
 x5.seed.bitcoin.sipa.be
-
 # https://github.com/badmojr/1Hosts/issues/1870
 www.raylink.live
-
 # https://github.com/badmojr/1Hosts/issues/1869
 realmemobile.com
-
 # https://github.com/badmojr/1Hosts/issues/1862
 www.brightedge.com
-
 # https://github.com/badmojr/1Hosts/issues/1861
 relay.damus.io
-
 # https://github.com/badmojr/1Hosts/issues/1859
 iitc.app
 intel.ingress.com
-
 # https://github.com/badmojr/1Hosts/issues/1858
 assets.tokopedia.net
 assets.tokopedia.net.bplslb.com
 tokopedia.com
 www.tokopedia.com
-
 # https://github.com/badmojr/1Hosts/issues/1857
 files.freedownloadmanager.org
-
 # https://github.com/badmojr/1Hosts/issues/1856
-lemmy.world
-
 # https://github.com/badmojr/1Hosts/issues/1855
 t-bank-app.ru
 t-bank-app.su
@@ -3389,33 +2554,24 @@ certs.t-bank-app.su
 id.t-bank-app.ru
 as.t-bank-app.ru
 api.t-bank-app.ru
-
 # https://github.com/badmojr/1Hosts/issues/1854
 files2.freedownloadmanager.org
-
 # https://github.com/badmojr/1Hosts/issues/1852
 www.savemyexams.com
 cdn.savemyexams.com
-
 # https://github.com/badmojr/1Hosts/issues/1849
 app.bilibili.com
-
 # https://github.com/badmojr/1Hosts/issues/1848
 mbtace.com
 mbta.com
-
 # https://github.com/badmojr/1Hosts/issues/1846
 friendlycaptcha.com
-
 # https://github.com/badmojr/1Hosts/issues/1845
 Somtoday.nl
-
 # https://github.com/badmojr/1Hosts/issues/1843
 cdn.sa-tech.de
-
 # https://github.com/badmojr/1Hosts/issues/1841
 sr-mediathek.de
-
 # https://github.com/badmojr/1Hosts/issues/1840
 natfrp.cloud
 natfrp-api.globalslb.net
@@ -3424,14 +2580,11 @@ frp-bar.top
 frp-fun.top
 frp-act.top
 natfrp.com
-
 # https://github.com/badmojr/1Hosts/issues/1830
 son.cn]
 www.json.cn
-
 # https://github.com/badmojr/1Hosts/issues/1828
 elicit.com
-
 # https://github.com/badmojr/1Hosts/issues/1825
 slido.com
 www.slido.com
@@ -3441,150 +2594,102 @@ assets.slido.com
 pricing.slido.com
 community.slido.com
 blog.slido.com
-
-
 # https://github.com/badmojr/1Hosts/issues/1824
 gitflic.ru
-
 # https://github.com/badmojr/1Hosts/issues/1823
 www.proxad.net
 ftp.fr.debian.org
 debian.proxad.net
-
 # https://github.com/badmojr/1Hosts/issues/1821
 empiredrop.com
-
 # https://github.com/badmojr/1Hosts/issues/1820
 yummyani.me
 img.yani.tv
-
 # https://github.com/badmojr/1Hosts/issues/1818
 beget.tech
-
 # https://github.com/badmojr/1Hosts/issues/1817
-fmhy.net
-
 # https://github.com/badmojr/1Hosts/issues/1815
 addictpodcast.com
-
 # https://github.com/badmojr/1Hosts/issues/1814
 www.zavamed.com
-
 # https://github.com/badmojr/1Hosts/issues/1813
 mgpd.de
 images.mgpd.de
-
 # https://github.com/badmojr/1Hosts/issues/1810
 tokenizer.bolttokenization.com
 production.bolttk.com 
-
 # https://github.com/badmojr/1Hosts/issues/1808
 dappier.com
-
 # https://github.com/badmojr/1Hosts/issues/1807
 lawvu.com
-
 # https://github.com/badmojr/1Hosts/issues/1806
 daserste-live.ard-mcdn.de
 www.ardmediathek.de
-
 # https://github.com/badmojr/1Hosts/issues/1803
 registeridm.com
-
 # https://github.com/badmojr/1Hosts/issues/1802
-files2.freedownloadmanager.org
-
 # https://github.com/badmojr/1Hosts/issues/1801
 streams.8080s.de
-
 # https://github.com/badmojr/1Hosts/issues/1800
 lcdn.letscast.fm
-
 # https://github.com/badmojr/1Hosts/issues/1798
 mstdn.jp
-
 # https://github.com/badmojr/1Hosts/issues/1797
 worldcoin.org
-
 # https://github.com/badmojr/1Hosts/issues/1796
 gnulinux.ch
-
 # https://github.com/badmojr/1Hosts/issues/1794
 nsupdate.info
-
 # https://github.com/badmojr/1Hosts/issues/1792
 affiliate-public-service-prod.ol.epicgames.com
-
 # https://github.com/badmojr/1Hosts/issues/1791
-eulatracking-public-service-prod06.ol.epicgames.com
-
 # https://github.com/badmojr/1Hosts/issues/1788
 www.tuxedocomputers.com
-
 # https://github.com/badmojr/1Hosts/issues/1787
 www.stylewaretouch.net
-
 # https://github.com/badmojr/1Hosts/issues/1784
 kwantowo.pl
-
 # https://github.com/badmojr/1Hosts/issues/1781
 sik.search.blue.cdtapps.com
 ikea.com
-
 # https://github.com/badmojr/1Hosts/issues/1780
 api.getbring.com
-
 # https://github.com/badmojr/1Hosts/issues/1779
 speedtest.utopiafiber.com
 orem-speedtest.utopiafiber.com
 payson-speedtest.utopiafiber.com
-
 # https://github.com/badmojr/1Hosts/issues/1778
 notesnook.com
 api.notesnook.com
 www.ivpn.net
-
-
 # https://github.com/badmojr/1Hosts/issues/1894
 railway.com
-
 # https://github.com/badmojr/1Hosts/issues/1893
 nothingtohide.nl
-
 # https://github.com/badmojr/1Hosts/issues/1891
-pixelfed.social
-
 # https://github.com/badmojr/1Hosts/issues/1890
 g.lazcdn.com
 img.lazcdn.com.9d2b5122.cdnhwcchh18.com
 www.lazada.com.queniuak.com
-
 # https://github.com/badmojr/1Hosts/issues/1887
 www.spuerkeess.lu`
-
 # https://github.com/badmojr/1Hosts/issues/1884
 app.ticketmaster.com
 livenation.lb.apidn.net
-
 # https://github.com/badmojr/1Hosts/issues/1880
 c02.purpledshub.com
 17ab05f8.translate-cf.weglot.io
-
 # https://github.com/badmojr/1Hosts/issues/1879
 saarfahrplan.de
-
 # https://github.com/badmojr/1Hosts/issues/1878
 kvb.koeln
 auskunft.kvb.koeln
 www.kvb.koeln
-
 # https://github.com/badmojr/1Hosts/issues/1877
 givebuttercdn.com
 givebutter.com
-
 # https://github.com/badmojr/1Hosts/issues/1876
 nerdculture.de
-
 # https://github.com/badmojr/1Hosts/issues/1874
 haf.as
 gis-de-c.haf.as
@@ -3598,146 +2703,107 @@ gis-de-d.haf.as
 vbb-gis-de-a.haf.as
 vbb-gis-de-b.haf.as
 vbb-gis-de-c.haf.as
-
 # https://github.com/badmojr/1Hosts/issues/1873
 understandingwar.org
 www.understandingwar.org
-
 # https://github.com/badmojr/1Hosts/issues/1872
 www.blackbox.ai
-
 # https://github.com/badmojr/1Hosts/issues/1871
 tanstack.com
-
 # https://github.com/badmojr/1Hosts/issues/1867
 www.nibe.eu
 myuplink.com
-
 # https://github.com/badmojr/1Hosts/issues/1865
 serve.podhome.fm
-
 # https://github.com/badmojr/1Hosts/issues/1864
 openhomefoundation.org
 www.openhomefoundation.org
-
 # https://github.com/badmojr/1Hosts/issues/1863
 www.abacus.ai
-
 # https://github.com/badmojr/1Hosts/issues/1898
 telemetry.teslafi.com
-
 # https://github.com/badmojr/1Hosts/issues/1687
 medifind.com
 www.medifind.com
 cdn.medifind.com
-
 # https://github.com/badmojr/1Hosts/issues/1684
 sky-scene.prod.web.wetteronline-cloud.com
-
 # https://github.com/badmojr/1Hosts/issues/1683
 arctic.de
-
 # https://github.com/badmojr/1Hosts/issues/1681
 freeswitch.org
 stun.freeswitch.org
-
 # https://github.com/badmojr/1Hosts/issues/1679
 api.electricitymap.org
-
 # https://github.com/badmojr/1Hosts/issues/1677
 astralcodexten.com
-
 # https://github.com/badmojr/1Hosts/issues/1676
 txryan.com
-
 # https://github.com/badmojr/1Hosts/issues/1674
 purelymail.com
 mailserver.purelymail.com
-
 # https://github.com/badmojr/1Hosts/issues/1673
 thebrightforks.com
 cheq.ai
-
 # https://github.com/badmojr/1Hosts/issues/1670
 ems.host
-
 # https://github.com/badmojr/1Hosts/issues/1669
 basicappleguy.com
-
 # https://github.com/badmojr/1Hosts/issues/1666
 muenchen.social
-
 # https://github.com/badmojr/1Hosts/issues/1665
 cust-011-v4-prod-atl2.gdsb.net
-
 # https://github.com/badmojr/1Hosts/issues/1663
 simon42.com
 community.simon42.com
-
 # https://github.com/badmojr/1Hosts/issues/1657
 arcticfoxes.net
 element.arcticfoxes.net
 matrix.arcticfoxes.net
-
 # https://github.com/badmojr/1Hosts/issues/1656
 aoe-api.worldsedgelink.com
 forums.ageofempires.com
-
 # https://github.com/badmojr/1Hosts/issues/1653
 simplex.im
 simplex.chat
-
 # https://github.com/badmojr/1Hosts/issues/1647
 www.baden-wuerttemberg.datenschutz.de
-
 # https://github.com/badmojr/1Hosts/issues/1646
 oebbtickets.at
-
 # https://github.com/badmojr/1Hosts/issues/1645
 evn.at
-
 # https://github.com/badmojr/1Hosts/issues/1644
 streetwriters.co
 events.streetwriters.co
 www.dnb.com
-
 # https://github.com/badmojr/1Hosts/issues/1643
 vidhub.tv
-
 # https://github.com/badmojr/1Hosts/issues/1642
 trellix.com
-
 # https://github.com/badmojr/1Hosts/issues/1641
 bsky.social
 bsky.app
 cdn.bsky.app
-
 # https://github.com/badmojr/1Hosts/issues/1640
 nationalgeographic.de
 www.nationalgeographic.de
 static.nationalgeographic.de
-
 # https://github.com/badmojr/1Hosts/issues/1639
 seaimagesgaz428.cdn5th.com
 seastatic1bhugtk.cdn5th.com
 seaimagesdym6y.cdn5th.com
 tuya.com
-
 # https://github.com/badmojr/1Hosts/issues/1638
 c-3d.niceshops.com
 3djake.de
-
 # https://github.com/badmojr/1Hosts/issues/1637
 elv.com
 de.elv.com
-
 # https://github.com/badmojr/1Hosts/issues/1636
 bluebrixx.com
-
 # https://github.com/badmojr/1Hosts/issues/1635
 dimden.dev
 tweetdeck.dimden.dev
-
 # https://github.com/badmojr/1Hosts/issues/1634
 byndid.com
 device-gateway.byndid.com
@@ -3746,190 +2812,137 @@ api.byndid.com
 app.byndid.com
 app2.byndid.com
 www.beyondidentity.com
-
 # https://github.com/badmojr/1Hosts/issues/1632
 client.my.f-sos.net
 my.f-secure.com
 f-secure.com
-
 # https://github.com/badmojr/1Hosts/issues/1631
 www.printables.com
-
 # https://github.com/badmojr/1Hosts/issues/1630
 steamdeckhq.com
-
 # https://github.com/badmojr/1Hosts/issues/1628
 tollwood.de
 www.tollwood.de
 img2.tollwood.de
-
 # https://github.com/badmojr/1Hosts/issues/1627
 computop-paygate.com
 www.computop-paygate.com
-
 # https://github.com/badmojr/1Hosts/issues/1624
 cdn4.weka-fachmedien.de
 elektroniknet.de
-
 # https://github.com/badmojr/1Hosts/issues/1622
 tuta.com
 app.tuta.com
-
 # https://github.com/badmojr/1Hosts/issues/1619
 roughtime.int08h.com
-
 # https://github.com/badmojr/1Hosts/issues/1615
 cyon.net
 maketheweb.io
-
 # https://github.com/badmojr/1Hosts/issues/1614
 s-0005.dual-s-msedge.net
 teams-office-com.s-0005.dual-s-msedge.net
 teams.microsoft.com
-
 # https://github.com/badmojr/1Hosts/issues/1612
 www.quandoo.de
-
 # https://github.com/badmojr/1Hosts/issues/1611
 platformer.news
-www.platformer.news
-
 # https://github.com/badmojr/1Hosts/issues/1610
 www.white-pages.gr
-
 # https://github.com/badmojr/1Hosts/issues/1609
 www.protothema.gr
 prth.gr
-
 # https://github.com/badmojr/1Hosts/issues/1608
 eu-west-1.queue.amazonaws.com
 docs.aws.amazon.com
 sqs.eu-west-1.amazonaws.com
-
 # https://github.com/badmojr/1Hosts/issues/1607
 pokemmo.com
-
 # https://github.com/badmojr/1Hosts/issues/1604
 www.kuketz-forum.de
-
 # https://github.com/badmojr/1Hosts/issues/1603
 www.twitchcon.com
-
 # https://github.com/badmojr/1Hosts/issues/1600
 pronoundb.org
-
 # https://github.com/badmojr/1Hosts/issues/1599
 revistaoeste.com
 medias.revistaoeste.com
-
 # https://github.com/badmojr/1Hosts/issues/1595
 api.forecast.solar
-
 # https://github.com/badmojr/1Hosts/issues/1594
 api.co2signal.com
-
 # https://github.com/badmojr/1Hosts/issues/1593
 yango.com
 taxitax.org
-
 # https://github.com/badmojr/1Hosts/issues/1589
 electricitymaps.com
 app.electricitymaps.com
 api-access.electricitymaps.com
-
 # https://github.com/badmojr/1Hosts/issues/1588
 tile.com
 www.tile.com
 account.tile.com
-
 # https://github.com/badmojr/1Hosts/issues/1585
 your-storagebox.de
 your-storageshare.de
-
 # https://github.com/badmojr/1Hosts/issues/1582
 roadmap.sh
-
-
 # https://github.com/badmojr/1Hosts/issues/1715
 advisor.arloxcld.com
 registration.arloxcld.com
-
 # https://github.com/badmojr/1Hosts/issues/1713
 sp-dir.uwn.com
-
 # https://github.com/badmojr/1Hosts/issues/1706
 www.gbnews.com
-
 # https://github.com/badmojr/1Hosts/issues/1704
 csa-iot.org
-
 # https://github.com/badmojr/1Hosts/issues/1703
 queercom.de
 www.queercom.de
-
 # https://github.com/badmojr/1Hosts/issues/1702
 photonindustries.io
 www.photonengine.com
-
 # https://github.com/badmojr/1Hosts/issues/1700
 scdn1f003.wpc.ad629.nucdn.net
 www.catalog.update.microsoft.com
-
 # https://github.com/badmojr/1Hosts/issues/1699
 www.tgtube.com
-
 # https://github.com/badmojr/1Hosts/issues/1698
 vsfind.aps.contentstore.onmobile.com
-
 # https://github.com/badmojr/1Hosts/issues/1697
 mcr.microsoft.com
 global.fe.mscr.io
-
 # https://github.com/badmojr/1Hosts/issues/1696
 blablacar.de
 edge.blablacar.de
 auth.blablacar.de
-
 # https://github.com/badmojr/1Hosts/issues/1695
 wabetainfo.com
-
 # https://github.com/badmojr/1Hosts/issues/1693
 seasonic.com
-
 # https://github.com/badmojr/1Hosts/issues/1691
 puter.com
-
 # https://github.com/badmojr/1Hosts/issues/1689
 stat.psu.edu
 online.stat.psu.edu
-
 # https://github.com/badmojr/1Hosts/issues/1688
 freshports.org
 www.freshports.org
-
 umbrel.com
-api.umbrel.com
 jupiterone.io
-
 # https://github.com/badmojr/1Hosts/issues/1378
 app.oepay.octopus-cards.com
 subsidy-app.ptfss.hk
 www.octopuscards.com
 www.octopus.com.hk
-
 # https://github.com/badmojr/1Hosts/issues/1348
 goodnews-magazin.de
-
 # https://github.com/badmojr/1Hosts/issues/1337
 phind.com
 www.phind.com
-
 # https://github.com/badmojr/1Hosts/issues/1336
-glooko.com
 glooko.com
 api.glooko.com
 us.api.glooko.com
-
 # https://github.com/badmojr/1Hosts/issues/1334
 maps.ls.hereapi.com
 base.maps.ls.hereapi.com
@@ -3942,55 +2955,39 @@ aerial.maps.ls.hereapi.com
 3.aerial.maps.ls.hereapi.com
 2.aerial.maps.ls.hereapi.com
 4.aerial.maps.ls.hereapi.com
-
 # https://github.com/badmojr/1Hosts/issues/1318
 file20.gofile.io
-
-
 # https://github.com/badmojr/1Hosts/issues/1317
 www.ltimindtree.com
-
 # https://github.com/badmojr/1Hosts/issues/1312
 q2.qlogo.cn
-
 # https://github.com/badmojr/1Hosts/issues/1310
 ihreapotheken.de
-
 # https://github.com/badmojr/1Hosts/issues/1308
 www.gesetze-im-internet.edge.juris.de
-
 # https://github.com/badmojr/1Hosts/issues/1306
 # https://github.com/badmojr/1Hosts/discussions/1248
 partner.secublue.com
 skpm.secublue.com
-
 # https://github.com/badmojr/1Hosts/issues/1287
 zbiornik.com
-
 # https://github.com/badmojr/1Hosts/issues/1266
 qulishi.com
 m.qulishi.com
 www.qulishi.com
-
 # https://github.com/badmojr/1Hosts/issues/1172
 aliyunwaf2.com
-
 # https://github.com/badmojr/1Hosts/issues/1169
  my.cbox.ws
-
 # https://github.com/badmojr/1Hosts/issues/1161
 adpanchok.co.kr
-
 # https://github.com/badmojr/1Hosts/issues/1270
 ip-tracker.org
 www.ip-tracker.org
-
 # https://github.com/badmojr/1Hosts/issues/1229
 neverbounce.com
-
 # https://github.com/badmojr/1Hosts/issues/1227
 jnn-pa.googleapis.com
-
 # https://github.com/badmojr/1Hosts/issues/1224
 sennheiser-hearing.com
 graphassets.com
@@ -4016,74 +3013,54 @@ runzero.com
 twingate.com
 samsungconsent.com
 sigscicloudwaf.com
-
 # https://github.com/badmojr/1Hosts/issues/1223
 xrea.com
-
 # https://github.com/badmojr/1Hosts/issues/1222
 salt.tikicdn.com
-
 # https://github.com/badmojr/1Hosts/issues/1219
 laban.vn
 dict.laban.vn
 dl.dict.laban.vn
 app.laban.vn
-
 # https://github.com/badmojr/1Hosts/issues/1206
 dreamsearch.or.kr
 on-go.kr
 ozigo.kr
-
 # https://github.com/badmojr/1Hosts/issues/1203
 yummyanime.tv
 dmpsoft.s17.xrea.com
-
 # https://github.com/badmojr/1Hosts/issues/1197
 api.frosty-night.buzz 
-
 # https://github.com/badmojr/1Hosts/issues/1190
 insights.samsung.com
-
 # https://github.com/badmojr/1Hosts/issues/1187
 www.13tabs.com
-
 # https://github.com/badmojr/1Hosts/issues/1173
 apiairasia.com
 airasia.com
-
 # https://github.com/badmojr/1Hosts/issues/1163
 74.ru
-
 # https://github.com/badmojr/1Hosts/issues/1162
 3-559.blog.jp
-
 # https://github.com/badmojr/1Hosts/issues/1144
 msfwifi.3g.qq.com
 configsvr.msf.3g.qq.com
-
 # https://github.com/badmojr/1Hosts/issues/1143
 yhgfb-static.com
-
 # https://github.com/badmojr/1Hosts/issues/1032
 contabostorage.com
 contabo.com
-
 # https://github.com/badmojr/1Hosts/issues/938
 cbox.ws
-
 # https://github.com/badmojr/1Hosts/issues/1275
 deepstatemap.live
-
 # https://github.com/badmojr/1Hosts/issues/1264
 pop3.xtra.xo.nz
 send.xtra.xo.nz
-
 # https://github.com/badmojr/1Hosts/issues/1257
-skiff.com
 app.skiff.com
 api.skiff.com
 relay-proxy.skiff.com
-
 # https://github.com/badmojr/1Hosts/issues/1228
 securepoint.de
 my.securepoint.de
@@ -4093,293 +3070,202 @@ cloudbackup.securepoint.de
 v11.cloudbackup.securepoint.de
 blacklist.update.securepoint.de
 update.securepoint.de
-
 # https://github.com/badmojr/1Hosts/issues/1226
 mavencoalition.io
 theareanagroup.net
-
 # https://github.com/badmojr/1Hosts/issues/1221
 pumble.com
-
 # https://github.com/badmojr/1Hosts/issues/1220
 taibbi.substack.com
 Racket.news
 target.substack-custom-domains.com
-
 # https://github.com/badmojr/1Hosts/issues/1217
 thedonutwhole.com
-
 # https://github.com/badmojr/1Hosts/issues/1216
 tdarr.io
-
 # https://github.com/badmojr/1Hosts/issues/1215
 serverlist.piaservers.net
-
 # https://github.com/badmojr/1Hosts/issues/1214
 ppa.launchpadcontent.net
 private-ppa.launchpadcontent.net
-
 # https://github.com/badmojr/1Hosts/issues/1209
 oasisfeed.com
-
 # https://github.com/badmojr/1Hosts/issues/1208
 aliexpress-media.com
-
 # https://github.com/badmojr/1Hosts/issues/1207
 doxbin.com
-
 # https://github.com/badmojr/1Hosts/issues/1205
 level.co
-
 # https://github.com/badmojr/1Hosts/issues/1204
 biblica.com
-
 # https://github.com/badmojr/1Hosts/issues/1202
 lifechef.com
-
 # https://github.com/badmojr/1Hosts/issues/1201
 lguplus.com
-
 # https://github.com/badmojr/1Hosts/issues/1196
 ejie.me
-
 # https://github.com/badmojr/1Hosts/issues/1194
 # https://github.com/badmojr/1Hosts/issues/1179
 kick.com
-
 # https://github.com/badmojr/1Hosts/issues/1193
 leetcode.cn
-
 # https://github.com/badmojr/1Hosts/issues/1192
 skeb.jp
-
 # https://github.com/badmojr/1Hosts/issues/1191
 unddit.com
-
 # https://github.com/badmojr/1Hosts/issues/1189
 dublincore.org
-
 # https://github.com/badmojr/1Hosts/issues/1188
 purl.org
-
 # https://github.com/badmojr/1Hosts/issues/1186
 notion.site
-
 # https://github.com/badmojr/1Hosts/issues/1185
 prodssl.protectedtransactions.com
-
 # https://github.com/badmojr/1Hosts/issues/1184
 xxxquake.com
-
 # https://github.com/badmojr/1Hosts/issues/1183
 fuckmovies.biz
-
 # https://github.com/badmojr/1Hosts/issues/1182
 map.vesselfinder.net
-
 # https://github.com/badmojr/1Hosts/issues/1177
 nic.buzz
-
 # https://github.com/badmojr/1Hosts/issues/1176
 gotanynudes.com
-
 # https://github.com/badmojr/1Hosts/issues/1175
 alexandria.org
 search.marginalia.nu
-
 # https://github.com/badmojr/1Hosts/issues/1171
 bingewatch.to
-
 # https://github.com/badmojr/1Hosts/issues/1164
 uphotel.agency
-
 # https://github.com/badmojr/1Hosts/issues/1160
 waveform.com
-
 # https://github.com/badmojr/1Hosts/issues/1157
 reliaquest.com
-
 # https://github.com/badmojr/1Hosts/issues/1154
 hf.space
-
 # https://github.com/badmojr/1Hosts/issues/1153
 writefull.com
-
 # https://github.com/badmojr/1Hosts/issues/1152
 gpt3demo.com
 dataconomy.com
-
 # https://github.com/badmojr/1Hosts/issues/1150
 vitalik.ca
-
 # https://github.com/badmojr/1Hosts/issues/1135
 # https://github.com/badmojr/1Hosts/issues/1118
 app.gitbook.com
-
 # https://github.com/badmojr/1Hosts/issues/1134
 senato.it
-
 # https://github.com/badmojr/1Hosts/issues/1133
 markosweb.com
-
 # https://github.com/badmojr/1Hosts/issues/1132
 vscodium.com
-
 # https://github.com/badmojr/1Hosts/issues/1127
 www.bqprime.com
-
 # https://github.com/badmojr/1Hosts/issues/1126
 thecreativeindependent.com
-
 # https://github.com/badmojr/1Hosts/issues/1111
 ryanscomputers.com
-
 # https://github.com/badmojr/1Hosts/issues/1110
 home.social
-
 # https://github.com/badmojr/1Hosts/issues/1091
 prompt.cash
 btc.prompt.cash
-
 # https://github.com/badmojr/1Hosts/issues/1082
 www.unilad.com
-
 # https://github.com/badmojr/1Hosts/issues/1081
 rapid-cloud.co
-
 # https://github.com/badmojr/1Hosts/issues/1080
 rblx.trade
-
 # https://github.com/badmojr/1Hosts/issues/1079
 online.nmc-uk.org
-
 # https://github.com/badmojr/1Hosts/issues/1078
 transequality.org
-
 # https://github.com/badmojr/1Hosts/issues/1074
 mrgay.com
-
 # https://github.com/badmojr/1Hosts/issues/1073
 Lidl.cz
-
 # https://github.com/badmojr/1Hosts/issues/1072
 game.fate-go.us
-
 # https://github.com/badmojr/1Hosts/issues/1059
 apkdone.download
-
 # https://github.com/badmojr/1Hosts/issues/1058
 lidlplus.com
-
 # https://github.com/badmojr/1Hosts/issues/1057
 neural.love
-
 # https://github.com/badmojr/1Hosts/issues/1054
 freedif.org
-
 # https://github.com/badmojr/1Hosts/issues/1040
 letmejerk.net
-
 # https://github.com/badmojr/1Hosts/issues/1039
 libgen.rocks
-
 # https://github.com/badmojr/1Hosts/issues/1038
 jpg2png.com
-
 # https://github.com/badmojr/1Hosts/issues/1037
 tunemymusic.com
-
 # https://github.com/badmojr/1Hosts/issues/1036
 becdn.net
-
 # https://github.com/badmojr/1Hosts/issues/1033
 cobratate.com
-
 # https://github.com/badmojr/1Hosts/issues/1031
 radio.virginradio.co.uk
 stream.tibus.mobi
-
 # https://github.com/badmojr/1Hosts/issues/1010
 bldimg.com
-
 # https://github.com/badmojr/1Hosts/issues/1009
 polygraph.net
-
 # https://github.com/badmojr/1Hosts/issues/1008
 dzen.ru
-
 # https://github.com/badmojr/1Hosts/issues/1000
 gabia.com
 www.gabia.com
-
 # https://github.com/badmojr/1Hosts/issues/997
 sexhd.fun
 streampiay.fun
-
 # https://github.com/badmojr/1Hosts/issues/996
 courier.com
-
 # https://github.com/badmojr/1Hosts/issues/995
 mail.kurumsaleposta.com
 kurumsaleposta.com
-
 # https://github.com/badmojr/1Hosts/issues/994
 vvipcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/993
 fortnite.com
-
 # https://github.com/badmojr/1Hosts/issues/991
 setra.com
-
 # https://github.com/badmojr/1Hosts/issues/989
 Agoda.com
-
 # https://github.com/badmojr/1Hosts/issues/988
 ytmp3.nu
 ceoc.cx
-
 # https://github.com/badmojr/1Hosts/issues/987
 xhday.com
-
 # https://github.com/badmojr/1Hosts/issues/986
 hellocdn1.net
 yatv.net
-
 # https://github.com/badmojr/1Hosts/issues/985
 omicdn.com
 auto.omicdn.com
 omi.sg
-
 # https://github.com/badmojr/1Hosts/issues/984
 hamas.ps
-
 # https://github.com/badmojr/1Hosts/issues/983
 a.apkpure.com
-
 # https://github.com/badmojr/1Hosts/issues/980
 sni.star.24ur.com.c.footprint.net
-
-
 # https://github.com/badmojr/1Hosts/issues/968
 feetfinder.com
-
 # https://github.com/badmojr/1Hosts/issues/967
 typingpal.com
-
 # https://github.com/badmojr/1Hosts/issues/965
 hachyderm.io
-
 # https://github.com/badmojr/1Hosts/issues/963
 beeper.com
 matrix.beeper.com
-
 # https://github.com/badmojr/1Hosts/issues/962
 syspectr.com
-
 # https://github.com/badmojr/1Hosts/issues/959
 inteltechniques.com
-
 # https://github.com/badmojr/1Hosts/issues/958
 98e.fun
 apkmody.fun
@@ -4403,111 +3289,77 @@ uploding.fun
 videosxxx.fun
 vigoo.fun
 wondertrip.fun
-
 # https://github.com/badmojr/1Hosts/issues/957
 klik.fun
-
 # https://github.com/badmojr/1Hosts/issues/956
 watchseries.wiki
-
 # https://github.com/badmojr/1Hosts/issues/955
 testwise.com
 www.testwise.com
-
 # https://github.com/badmojr/1Hosts/issues/951
 morsecode.world
-
 # https://github.com/badmojr/1Hosts/issues/949
 skylinetv.live
-
 # https://github.com/badmojr/1Hosts/issues/948
 tenping.kr
-
 # https://github.com/badmojr/1Hosts/issues/947
 postshare.co.kr
-
 # https://github.com/badmojr/1Hosts/issues/945
 datanodes.to
-
 # https://github.com/badmojr/1Hosts/issues/944
 photonengine.io
 ns.photonengine.io
-
 # https://github.com/badmojr/1Hosts/issues/943
 stumbleguys.com
 api.stumbleguys.com
-
 # https://github.com/badmojr/1Hosts/issues/942
 usestoryteller.com
-
 # https://github.com/badmojr/1Hosts/issues/941
 i.imgci.com
-
 # https://github.com/badmojr/1Hosts/issues/940
 stats.espncricinfo.com
-
 # https://github.com/badmojr/1Hosts/issues/939
 gameeapp.com
 api.service.gameeapp.com
-
 # https://github.com/badmojr/1Hosts/issues/937
 extraimage.xyz
-
 # https://github.com/badmojr/1Hosts/issues/936
 rpiserver-ng.rb24.com
-
 # https://github.com/badmojr/1Hosts/issues/935
 apt.rb24.com
-
 # https://github.com/badmojr/1Hosts/issues/934
 cdn.writeas.net
 blog.thenewoil.org
-
 # https://github.com/badmojr/1Hosts/issues/931
 hotpornfile.org
-
 # https://github.com/badmojr/1Hosts/issues/917
 wss.commentsengine.com 
-
-
-
-
-
 # https://github.com/badmojr/1Hosts/issues/930
 zivver.com
 downloads.zivver.com
 img.zivver.com
-
 # https://github.com/badmojr/1Hosts/issues/926
 verifythis.com
-
 # https://github.com/badmojr/1Hosts/issues/924
 iamport.kr
-
 # https://github.com/badmojr/1Hosts/issues/923
 fdv2-t-msedge.net
 wlrarshab.azureedge.net
 weakstream.org
-
 # https://github.com/badmojr/1Hosts/issues/922
 openhd.lol
 givemenbastreams.com
-
 # https://github.com/badmojr/1Hosts/issues/921
 olacast.live
-
 # https://github.com/badmojr/1Hosts/issues/920
 sportscentral.io
 reddit.rnbastreams.com
-
 # https://github.com/badmojr/1Hosts/issues/919
 oxen.io
-
 # https://github.com/badmojr/1Hosts/issues/914
 nightcafe.studio
 creator.nightcafe.studio
 images.nightcafe.studio
-
 # https://github.com/badmojr/1Hosts/issues/911
 karrotmarket.com
 lgucdn.com
@@ -4516,75 +3368,56 @@ api.kr.karrotmarket.com
 feed.kr.karrotmarket.com
 nearby.kr.karrotmarket.com
 rocket-chat-pub.kr.karrotmarket.com
-
 # https://github.com/badmojr/1Hosts/issues/910
 scryfall.io
 cards.scryfall.io
 svgs.scryfall.io
-
 # https://github.com/badmojr/1Hosts/issues/909
 rigidindustries.com
 www.rigidindustries.com
 viewpoint.rigidindustries.com
-
 # https://github.com/badmojr/1Hosts/issues/905
 intercom-mail.com
-
 # https://github.com/badmojr/1Hosts/issues/904
 ac24horas.com
-
 # https://github.com/badmojr/1Hosts/issues/896
 ilrc.org
 www.ilrc.org
-
 # https://github.com/badmojr/1Hosts/issues/895
 nolo.com
 www.nolo.com
-
 # https://github.com/badmojr/1Hosts/issues/893
 ishalife.com
 isha-sadhguru-org-19ae.fast.getn7.io
 ishalogin-sadhguru-org-a2b316f6089eae8142ab.fast.getn7.io
-
 # https://github.com/badmojr/1Hosts/issues/888
 presearch.com
 presearch.io
-
 # https://github.com/badmojr/1Hosts/issues/886
 lidarr.audio
-
 # https://github.com/badmojr/1Hosts/issues/879
 email-link.adtidy.org
-
 # https://github.com/badmojr/1Hosts/issues/859
 tantanapp.com
-
 # https://github.com/badmojr/1Hosts/issues/856
 ct.sendgrid.net
-
 # https://github.com/badmojr/1Hosts/issues/854
 gate.sc
-
 # https://github.com/badmojr/1Hosts/issues/841
 hh-imgs.cyou
 mult-imgs.cyou
-
 # https://github.com/badmojr/1Hosts/issues/832
 links.getblueshift.com
 links.da.slickdeals.net
-
 # https://github.com/badmojr/1Hosts/issues/885
 ipe-pmt.prod.sabre.com
-
 # https://github.com/badmojr/1Hosts/issues/884
 frontusercontent.com
 front.com
-
 # https://github.com/badmojr/1Hosts/issues/865
 ts01-gyr-maverick.cloudsink.net
 cloudsink.net
 www.crowdstrike.com
-
 # https://github.com/badmojr/1Hosts/issues/819
 mastodon.lol
 mastodon.green
@@ -4604,66 +3437,49 @@ botsin.space
 qoto.org
 infosec.exchange
 chaos.social
-
 # https://github.com/badmojr/1Hosts/issues/880
 isha.sadhguru.org
 mlwbd.com
-
 # https://github.com/badmojr/1Hosts/issues/873
 fm.cnbc.com
-
 # https://github.com/badmojr/1Hosts/issues/871
 theporngrid.com
 leaknudes.com
-
 # https://github.com/badmojr/1Hosts/issues/864
 abnb.me
-
 # https://github.com/badmojr/1Hosts/issues/861
 eisysinc.qtlcdn.com
 www.dlsite.com
-
 # https://github.com/badmojr/1Hosts/issues/843
 # https://github.com/badmojr/1Hosts/issues/840
 mymaster-uk.cyou
 anpustream.com
-
 # https://github.com/badmojr/1Hosts/issues/783
 sso.passport.yandex.ru
 mx.yandex.ru
-
 # https://github.com/badmojr/1Hosts/issues/876
 kaartje2go.nl
 kaartje2go.be
-
 # https://github.com/badmojr/1Hosts/issues/869
 api.c99.nl
-
 # https://github.com/badmojr/1Hosts/issues/868
 www.arqbackup.com
-
 # https://github.com/badmojr/1Hosts/issues/863
 cornhub.website
-
 # https://github.com/badmojr/1Hosts/issues/862
 globalprivacycontrol.org
-
 # https://github.com/badmojr/1Hosts/issues/860
 ecosia.de
-
 # https://github.com/badmojr/1Hosts/issues/858
 stat.ethz.ch
-
 # https://github.com/badmojr/1Hosts/issues/845
 console-telemetry.oci.oraclecloud.com
 console-telemetry.us-phoenix-1.oci.oraclecloud.com
 telemetry.us-ashburn-1.oraclecloud.com
 telemetry.us-phoenix-1.oraclecloud.com
 telemetry.uk-london-1.oraclecloud.com
-
 # https://github.com/badmojr/1Hosts/issues/837
 himg.nl
-
 # https://github.com/badmojr/1Hosts/issues/836
 warp.dev
 kodeco.com
@@ -4671,790 +3487,568 @@ flutterflow.io
 flutterawesome.com
 neoplants.com
 sdkman.io
-
 # https://github.com/badmojr/1Hosts/issues/828
 essentialelementsinteractive.com
-
 # https://github.com/badmojr/1Hosts/issues/812
 iframely.net
-
 # https://github.com/badmojr/1Hosts/issues/775
 goku.to
-
 # https://github.com/badmojr/1Hosts/issues/782
 akamai-images-content.com
-
 # https://github.com/badmojr/1Hosts/issues/820
 nitter.it
-
 # https://github.com/badmojr/1Hosts/issues/821
 instances.social
-
 # https://github.com/badmojr/1Hosts/issues/827
 axiadids.net
 cloud.axiadids.net
 moog.cloud.axiadids.net
 crl.moog.cloud.axiadids.net
-
 # https://github.com/badmojr/1Hosts/issues/833
 clearnet.pw
-
 # https://github.com/badmojr/1Hosts/issues/834
 piped.video
 piped.mha.fi
-
 # https://github.com/badmojr/1Hosts/issues/839
 opautoclicker.com
-
 # https://github.com/badmojr/1Hosts/issues/846
 jorropo.net
-
 # https://github.com/badmojr/1Hosts/issues/847
 logsink.devices.nest.com
-
-
 # https://github.com/badmojr/1Hosts/issues/850
 newsinshorts.com
 parse.newsinshorts.com
-
 # https://github.com/badmojr/1Hosts/issues/762
 ads-fa-darwin.hulustream.com
-
 # https://github.com/badmojr/1Hosts/issues/766
 yep.com
-
 # https://github.com/badmojr/1Hosts/issues/768
 www.ultimedia.com
-
 # https://github.com/badmojr/1Hosts/issues/769
 blupoint.io
-
 # https://github.com/badmojr/1Hosts/issues/772
 offers.sheerid.com
-
 # https://github.com/badmojr/1Hosts/issues/773
 proofwiki.org
-
 # https://github.com/badmojr/1Hosts/issues/774
 repology.org
-
 # https://github.com/badmojr/1Hosts/issues/776
 vidiocdn.com
-
 # https://github.com/badmojr/1Hosts/issues/779
 updownradar.com
-
 # https://github.com/badmojr/1Hosts/issues/781
 oup2-idp.sams-sigma.com
 oup.silverchair-cdn.com
-
 # https://github.com/badmojr/1Hosts/issues/784
 ero-labs.online
-
 # https://github.com/badmojr/1Hosts/issues/788
 il.ax
-
 # https://github.com/badmojr/1Hosts/issues/789
 mega4upload.com
-
 # https://github.com/badmojr/1Hosts/issues/790
 kajabi-storefronts-production.kajabi-cdn.com
 kajabi-cdn.com
-
 # https://github.com/badmojr/1Hosts/issues/791
 nutaku.net
-
 # https://github.com/badmojr/1Hosts/issues/793
 wikiofthrones.com
-
 # https://github.com/badmojr/1Hosts/issues/795
 plooshiesaresocute.wtf
-
 # https://github.com/badmojr/1Hosts/issues/797
 view.genial.ly
-
 # https://github.com/badmojr/1Hosts/issues/800
 static.fastpic.org
 static.fastpic.ru
-
 # https://github.com/badmojr/1Hosts/issues/803
 blueskyweb.xyz
-
 # https://github.com/badmojr/1Hosts/issues/808
 w3spaces.com
-
 # https://github.com/badmojr/1Hosts/issues/810
 upoint.id
-
 # https://github.com/badmojr/1Hosts/issues/811
 cohost.org
 cohostcdn.org
-
 # https://github.com/badmojr/1Hosts/issues/813
 retroachievements.org
-
 # https://github.com/badmojr/1Hosts/issues/814
 avis-verifies.com
-
 # https://github.com/badmojr/1Hosts/issues/822
 13673-wildcard.np.community.playstation.net.edgekey88.net
-
 # https://github.com/badmojr/1Hosts/issues/825
 gaggle.fun
-
 # https://github.com/badmojr/1Hosts/issues/826
 canarymail.io
-
 # https://github.com/badmojr/1Hosts/issues/829
 mathinsight.org
-
 # https://github.com/badmojr/1Hosts/issues/830
 norden.social
-
 # https://github.com/badmojr/1Hosts/issues/744
 ancient-symbols.com
-
 # https://github.com/badmojr/1Hosts/issues/745
 kitkagames.com
-
 # https://github.com/badmojr/1Hosts/issues/746
 searchg2.crownpeak.net
-
 # https://github.com/badmojr/1Hosts/issues/747
 openjdk.org
-
 # https://github.com/badmojr/1Hosts/issues/748
 view.ceros.com
 media-s3-us-east-1.ceros.com
 assets-s3-us-east-1.ceros.com
-
 # https://github.com/badmojr/1Hosts/issues/749
 majesticseo.com
-
 # https://github.com/badmojr/1Hosts/issues/756
 www.strafe.com
 strafe.com
-
 # https://github.com/badmojr/1Hosts/issues/761
 www.kyivindependent.com
-
 # used by the search engine Neeva
 c.neevacdn.net
 s.neeva.co
-
 # https://github.com/badmojr/1Hosts/issues/702
 yacy.net
 searchlab.eu
-
 # https://github.com/badmojr/1Hosts/issues/724
 inferkit.com
 api.inferkit.com
 app.inferkit.com
-
 # https://github.com/badmojr/1Hosts/issues/726
 goosemod.com
 store.goosemod.com
 updates.goosemod.com
-
 # https://github.com/badmojr/1Hosts/issues/727
 china-gadgets.de
 www.china-gadgets.de
-
 # https://github.com/badmojr/1Hosts/issues/729
 byteacctimg.com
 p3-passport.byteacctimg.com
-
 # https://github.com/badmojr/1Hosts/issues/730
 foxaholic.com
 www.foxaholic.com
 18.foxaholic.com
-
 # https://github.com/badmojr/1Hosts/issues/733
 tubeload.co
 megapornfreehd.com
-
 # https://github.com/badmojr/1Hosts/issues/706
 myteletalk.tiger-park.com
-
 # https://github.com/badmojr/1Hosts/issues/691
 www.mcafee.com
-
 # https://github.com/badmojr/1Hosts/issues/704
 zerossl.com
-
 # https://github.com/badmojr/1Hosts/issues/707
 craiyon.com
-
 # https://github.com/badmojr/1Hosts/issues/709
 codeblocks.org
 forum.codeblocks.org
-
 # https://github.com/badmojr/1Hosts/issues/721
 stats.gc.apple.com
 stats.gc-apple.com.akadns.net
-
 # https://github.com/badmojr/1Hosts/issues/681
 browser.kagi.com
-
 # https://github.com/badmojr/1Hosts/issues/682
 elkjop-prod.fact-finder.de
 www.elkjop.no
-
 # https://github.com/badmojr/1Hosts/issues/683
 www.iina.io
 iina.io
-
 # https://github.com/badmojr/1Hosts/issues/684
 www.biltema.no
 find.biltema.com
 cs4.wpc.teliacdn.net
-
 # https://github.com/badmojr/1Hosts/issues/686
 public.overcast-cdn.com
 overcast.fm
-
 # https://github.com/badmojr/1Hosts/issues/688
 basenotes.com
-
 # https://github.com/badmojr/1Hosts/issues/689
 media.power-cdn.net
-
 # https://github.com/badmojr/1Hosts/issues/690
 www.softraid.com
-
 # https://github.com/badmojr/1Hosts/issues/692
 you.com
 resumebuild.com
 synthesia.io
-
 # https://github.com/badmojr/1Hosts/issues/693
 rentry.org
-
 # https://github.com/badmojr/1Hosts/issues/694
 dtioykqj1u8de.cloudfront.net
-
 # https://github.com/badmojr/1Hosts/issues/695
 # https://github.com/badmojr/1Hosts/issues/698
 5movierulz.tc
 tamilblasters.casa
 1tamilmv.cyou
-
 # https://github.com/badmojr/1Hosts/issues/696
 e15ef44f-be9d-4e9c-aa48-8bd0f749911b.is-doh.help.every1dns.net
-
 # https://github.com/badmojr/1Hosts/issues/701
 mgs-gw.paas.mynt.xyz
-
 # https://github.com/ClickHouse/ClickHouse
 www.clickhouse.com
-
 # https://github.com/badmojr/1Hosts/issues/680
 www.enhance.com 
-
 # https://github.com/badmojr/1Hosts/issues/675
 sykehuspartner.no
-
 # https://github.com/badmojr/1Hosts/issues/676
 api.prod.ciam.tech-03.net
 api.prod.minbank.tech-03.net
 api.ciam.dnb.no
 mobilbank.api.dnb.no
 dnb.celebrus.tech-03.net
-
 # https://github.com/badmojr/1Hosts/issues/677
 www.awxcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/669
 images.netdirector.co.uk
 netdirector.co.uk
-
 # https://github.com/badmojr/1Hosts/issues/667
 myip.wtf
 wtfismyip.com
-
 # https://github.com/badmojr/1Hosts/issues/666
 unblockit.bet
-
 # https://github.com/badmojr/1Hosts/issues/672
 cdn.kicks.se
 www.kicks.no
-
 # https://github.com/badmojr/1Hosts/issues/670
 forskning.no
-
 # https://github.com/badmojr/1Hosts/issues/673
 www.posten.no
-
 # https://github.com/badmojr/1Hosts/issues/674
 halfbakedharvest.dns1.nerdpress.net
 www.halfbakedharvest.com
-
 # https://github.com/badmojr/1Hosts/issues/671
 www.nhn.no
 frontend-fnsp.hn.nhn.no
 api-fnsp-backend.hn.nhn.no
-
 # https://github.com/badmojr/1Hosts/issues/365
 # https://github.com/badmojr/1Hosts/issues/643
-eulatracking-public-service-prod06.ol.epicgames.com
-
 # https://github.com/badmojr/1Hosts/issues/652
 es.akinator.mobi
 es.akinator.com
 g.ezoic.net
 es.akinator.com.cdn.ezoic.net
-
 # https://github.com/badmojr/1Hosts/issues/651
 glimmer.hearstapps.com
-
 # https://github.com/badmojr/1Hosts/issues/664
 get.x-link.pl
-
 # https://github.com/badmojr/1Hosts/issues/628
 grindr.mobi
-
 # https://github.com/badmojr/1Hosts/issues/631
 sniffies.com
-
 # https://github.com/badmojr/1Hosts/issues/638
 go.theregister.com
-
 # https://github.com/badmojr/1Hosts/issues/642
 dualstack.apiproxy-http1-1887903201.eu-west-1.elb.amazonaws.com
 ios.prod.http1.netflix.com
-
 # https://github.com/badmojr/1Hosts/issues/647
 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 scdn1f005.wpc.ad629.nucdn.net
 indusindbank-visa102-cipher2-mum.gw.zetapay.in
 Nothing.tech
-
 # https://github.com/badmojr/1Hosts/issues/650
 gfe.nvidia.com
 activation.gfe.nvidia.com
 api.gfe.nvidia.com
 services.gfe.nvidia.com
-
 # https://github.com/badmojr/1Hosts/issues/624
 eat.de
-
 # https://github.com/badmojr/1Hosts/issues/625
 www.nn.de
-
 # https://github.com/badmojr/1Hosts/issues/626
 meetingpoint-brandenburg.de
-
 # https://github.com/badmojr/1Hosts/issues/627
 verbraucherzentrale.de
-
 # https://github.com/badmojr/1Hosts/issues/629
 thelineofbestfit.com
-
 # https://github.com/badmojr/1Hosts/issues/633
 vizcloud.site
-
 # https://github.com/badmojr/1Hosts/issues/634
 static.1tv.ru
-
 # https://github.com/badmojr/1Hosts/issues/635
 ds.tivision.ru
 icons.tivision.ru
 st.tivision.ru
-
 # https://github.com/badmojr/1Hosts/issues/636
 globalfirepower.com
-
 # https://github.com/badmojr/1Hosts/issues/637
 api.app-bang-dream-gbp.com
-
 # https://github.com/badmojr/1Hosts/issues/639
 pdst.fm
-
 # https://github.com/badmojr/1Hosts/issues/641
 impots.gouv.fr
-
 # https://github.com/badmojr/1Hosts/issues/645
 tokcounter.com
-
 # https://github.com/badmojr/1Hosts/issues/646
 elektrongames.com
-
 # https://github.com/badmojr/1Hosts/issues/648
 babytrackers.com
 prodapp.babytrackers.com
-
 # https://github.com/badmojr/1Hosts/issues/649
 kgc-kr-1.awesomepiece.com
-
 # https://github.com/badmojr/1Hosts/issues/653
 ak-conf.arknights.global
-
 # https://github.com/badmojr/1Hosts/issues/655
 cdnconfig.aihelp.net
 yostar.aihelp.net
-
 # https://github.com/badmojr/1Hosts/issues/656
 eu-game.alchemystars.jp
-
 # https://github.com/badmojr/1Hosts/issues/657
 hdtoday.tv
-
 # https://github.com/badmojr/1Hosts/issues/658
 bond-touch.com
-
 # https://github.com/badmojr/1Hosts/issues/660
 www.pcguide.com
-
 # https://github.com/badmojr/1Hosts/issues/661
 alvarotrigo.com
 browserhow.com
-
 # https://github.com/badmojr/1Hosts/issues/620
 tools4noobs.com
-
 # https://github.com/badmojr/1Hosts/issues/619
 wpk7i646lx.a.trbcdn.net
 content.24ttl.stream
-
 # https://github.com/badmojr/1Hosts/issues/618
 librespeed.org
-
 # https://github.com/badmojr/1Hosts/issues/617
 thereligionofpeace.com
-
 # https://github.com/badmojr/1Hosts/issues/616
 copy.ai
-
 # https://github.com/badmojr/1Hosts/issues/610
 geotargetly.com
-
 # https://github.com/badmojr/1Hosts/issues/585
 akamai-san39.exacttarget.com.edgekey.net
 image.email.microsoftemail.com
 image.email.auspost.com.au
 image.mail.onedrive.com
-
 # https://github.com/badmojr/1Hosts/issues/614
 imcdn.manporn.xxx
 cds.h8d7y3k5.hwcdn.net
-
 # https://github.com/badmojr/1Hosts/issues/606
  www.chip.com.tr
-
 # https://github.com/badmojr/1Hosts/issues/607
 schleswig-holstein.de
-
 # https://github.com/badmojr/1Hosts/issues/609
 aranguren.org 
-
 # https://github.com/badmojr/1Hosts/issues/613
 www.ntower.de
-
 # https://github.com/badmojr/1Hosts/issues/612
 replicate.com
-
 # https://github.com/badmojr/1Hosts/issues/611
 static.arturia.net
 medias.arturia.net
-
 # https://github.com/badmojr/1Hosts/issues/615
 prod-rel-ffc-ccm.oobesaas.adobe.com
-
 # https://github.com/badmojr/1Hosts/issues/602
 imgur.io
-
 # https://github.com/badmojr/1Hosts/issues/601
 bestgore.fun
-
 # https://github.com/badmojr/1Hosts/issues/603
 firestone-main.holydaygames.org
-
 # https://github.com/badmojr/1Hosts/issues/598
 fogos.pt
  
 # https://github.com/badmojr/1Hosts/issues/599
 api.protectstar.com
-
 # https://github.com/badmojr/1Hosts/issues/600
 mail-api.proton.me
-
 # https://github.com/badmojr/1Hosts/issues/594
 mobilenet.cz
 hlidacipes.org
-
 # https://github.com/badmojr/1Hosts/issues/592
 img.mreadercdn.com
-
 # previews, subs: @ https://www.redbull.com/int-en/films/valley-uprising
 cs.liiift.io
-
 # Chat widget: @ https://support.spend.bidali.com
 beaconapi.helpscout.net
 d3hb14vkzrxvla.cloudfront.net
 beacon-v2.helpscout.net
-
 # 
 feeds.metaebene.me
 www.steuerklassen.com 
-
 # https://github.com/badmojr/1Hosts/issues/588
 #www.totalav.com
-
 # https://github.com/badmojr/1Hosts/issues/587
 player.tabooporns.com
-
 # https://github.com/badmojr/1Hosts/issues/586
 flatex.de
 flatex.at
-
 # https://github.com/badmojr/1Hosts/issues/589
 steuer-web.de
-
 # https://github.com/badmojr/1Hosts/issues/584
 ftp.iij.ad.jp
-
 # https://github.com/badmojr/1Hosts/issues/580
 myflixer.to
-
 # https://github.com/badmojr/1Hosts/issues/581
 clientstream.launchdarkly.com
 clientstream-ga.launchdarkly.com
-
 # https://github.com/badmojr/1Hosts/issues/574
 cdn.asaha.com
-
 # https://github.com/badmojr/1Hosts/issues/575
 www.bmj.de
-
 # https://github.com/badmojr/1Hosts/issues/577
 www.topicbox.com
-
 # https://github.com/badmojr/1Hosts/issues/578
 snack.expo.dev
 docs.expo.dev
 exp.host
-
 # https://github.com/badmojr/1Hosts/issues/579
 sfconservancy.org
-
 # comments
 comments.br24.de
-
 # https://github.com/badmojr/1Hosts/issues/572
 www.destatis.de
-
 # CAPTCHA: weChat
 fengkongcloud.com
-
 # NetEase Cloud Music
 music.126.net
 netease.im
-
 # streaming
 q14.mrqls.to
 e-6.mzzcloud.life
 www-rkz58128.ssl0d.com
 content-videovard-delivery-s79.vidvard.link
-
 # https://github.com/badmojr/1Hosts/issues/567
 cdn.solvvy.com
 api.solvvy.com
-
 # https://github.com/badmojr/1Hosts/issues/569
 xneon.com
-
 # https://github.com/badmojr/1Hosts/issues/570
 optmzly.fe.indazn.com
-
 # https://github.com/badmojr/1Hosts/issues/571
 tokopedia.link
-
 # https://github.com/badmojr/1Hosts/issues/533
 c.paypal.com
-
 # https://github.com/badmojr/1Hosts/issues/564
 news-events.apple.com
 news-events.news.apple-dns.net
-
 # https://github.com/badmojr/1Hosts/issues/563
 api.cortana.ai
 api-cortana-ai.b-0005.b-msedge.net
-
 # https://github.com/badmojr/1Hosts/issues/558
 game.clashroyaleapp.com
-
 # https://github.com/badmojr/1Hosts/issues/559
 whatismyip.akamai.com
 whatismyip.akamai.com.edgesuite.net
-
 # https://github.com/badmojr/1Hosts/issues/561
 nic.ad.jp
 whois.nic.ad.jp
 rpki-repository.nic.ad.jp
-
 # Used by a banking app for login.
 www.seal-one.com
 gw1.seal-one.com
 gw2.seal-one.com
 gw3.seal-one.com
-
 # avatar images: WeChat.
 midas.gtimg.cn
 midas.gtimg.cn.cdn.ettdnsv.com
 midas.gtimg.cn.cloud.tc.qq.com
-
 # Breaks Bilibili login.
 passport.biligame.com
-
 # Mods
 bakkesmod.com
-
 # Tools: combat spam calls.
 www.werruft.info
 telefonnummer.net
-
 # https://github.com/badmojr/1Hosts/issues/557
 www.techsmith.com
-
 # Radio station with podcasts
 stitcher2.acast.com
 detektor.fm
-
 # @ https://www.extfans.com
 # Chrome store mirror in China.
 static-public.infinitytab.com
 www.extfans.com
 extension.extfans.com
-
 # @ https://www.ravelry.com/
 images4-g.ravelrycache.com
 style-cdn.ravelrycache.com
-
 # web.de
 cdn.webde.de
-
 # https://github.com/badmojr/1Hosts/issues/553
 api.revenuecat.com
-
 # Podcasts
 media.zencast.fm
 mp3s.nashownotes.com 
 api.ardaudiothek.de
 www.deutschlandfunknova.de
-
 # Software
 httptoolkit.tech
-
 # Prevent PlayBack on HBO Max
 cmaf.cf.us.hbomaxcdn.com
 cmaf.fly.us.hbomaxcdn.com
 cmaf.akm.us.hbomaxcdn.com
 cmaf.lv3.us.hbomaxcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/549
 www.thesciverse.com
-
 # Backend for an Application called Mediathekview.
 kodirepo.mediathekview.de
 liste.mediathekview.de
-
 # Repository for some Kodi Media Plugins.
 k.slyguy.xyz 
-
 # Android app that lets you control your tv.
 yatse.tv
-
 # news
 www.riffreporter.de
-
 # Podcast about electic vehicles
 www.goingelectric.de
-
 # hosting user supplied addons for World of Warcraft. 
 hub.wowup.io
 api.mmoui.com
-
 # Radio stream
 dispatcher.rndfnk.com
-
 # @ www.freestylelibre.de
 api.services.abbott
-
 # Glucose monitor apps.
 # e.g https://play.google.com/store/apps/details?id=org.nativescript.LibreLinkUp
 pro.libreview.io
 libreview.io
 freestyleserver.com
-
 #  Lots of articles are hosted on it.
 # e.g https://mp.weixin.qq.com/s?__biz=MzkxMjI3MTA1Mg==&mid=2247519710&idx=1&sn=8d3f80d11a51ccd53bf34e1c8058b93a
 mp.weixin.qq.com
 mpv6.weixin.qq.com
-
 # https://github.com/badmojr/1Hosts/issues/548
 smp-device-content.apple.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-device-content.apple.com.edgekey.net
 e9959.dsce9.akamaiedge.net
-
 # https://github.com/badmojr/1Hosts/issues/545
 amp-api-edge.apps.apple.com
 geo.instagram.com
-
 # https://github.com/badmojr/1Hosts/issues/542
 verification-va.byteoversea.com
 verification-va.byteoversea.com.edgesuite.net
-
 # fix video playback @ https://video.repubblica.it/
 oasjs.kataweb.it
 scripts.kataweb.it
 cdn.iubenda.com
 www.iubenda.com
 cdn.iubenda.com.dsa.edgekey.net
-
 # images @ https://tinhte.vn
 viettel4.vimobi.com
-
 # QQ: some images fail to load.
 cdn.ark.qq.com
-
 # Breaks QSuper.
 # https://play.google.com/store/apps/details?id=au.gov.qld.qsuper.member
 d1wp6m56sqw74a.cloudfront.net
-
 #
 ecomgraduates.com
-
 # https://github.com/badmojr/1Hosts/issues/540
 ieji.de
-
 # https://github.com/badmojr/1Hosts/issues/537
 meet.goto.com
-
 # https://github.com/badmojr/1Hosts/issues/531
 adobe-aem.map.fastly.net
-
 # https://github.com/badmojr/1Hosts/issues/529
 matrix.fairydust.space
 chat.fairydust.space
-
 # https://github.com/badmojr/1Hosts/issues/527
 api.stats.fm
 cdn.stats.fm
-
 # user says: I can't play embedded videos. 
 suzihaza.com
-
 # https://github.com/badmojr/1Hosts/issues/525
 invidious.namazso.eu
-
 # https://github.com/badmojr/1Hosts/issues/524
 beatbump.ml
-
 # https://github.com/badmojr/1Hosts/issues/519
 www.kantar.com
-
 # https://github.com/badmojr/1Hosts/issues/507
 publisher.liveperson.net
 lpcdn.lpsnmedia.net
@@ -5464,248 +4058,175 @@ static-assets.fs.liveperson.com
 va.idp.liveperson.net
 va.v.liveperson.net
 va.msg.liveperson.net
-
 # https://github.com/badmojr/1Hosts/issues/518
 invidious.osi.kr
 invidious.poast.org
-
 # https://github.com/badmojr/1Hosts/issues/517
 bibliogram.ethibox.fr
-
 # https://github.com/badmojr/1Hosts/issues/516
 nitter.poast.org
 nitter.moomoo.me
-
 # https://github.com/badmojr/1Hosts/issues/512
 bibliogram.1d4.us
-
 # https://github.com/badmojr/1Hosts/issues/511
 fosstodon.org
-
 # https://github.com/badmojr/1Hosts/issues/491
 static.rocketreach.co
-
 # https://github.com/badmojr/1Hosts/issues/508
 r.nf
-
 # https://github.com/badmojr/1Hosts/issues/501
 d1tcqh4bio8cty.cloudfront.net
-
 # https://github.com/badmojr/1Hosts/issues/497
 sj18.mktossl.com
 info.microsoft.com
-
 # https://github.com/badmojr/1Hosts/issues/495
 api.backscatterer.org
-
 # https://github.com/badmojr/1Hosts/issues/493
 statics-marketingsites-neu-ms-com.akamaized.net
-
 # https://github.com/badmojr/1Hosts/issues/488
 lemmy.ml
-
 # https://github.com/badmojr/1Hosts/issues/484
 statmodeling.stat.columbia.edu
-
 # https://github.com/badmojr/1Hosts/issues/480
 insiderpaper.com
-
 # https://github.com/badmojr/1Hosts/issues/481
 cdn.nivoli.com
-
 # https://github.com/badmojr/1Hosts/issues/472
 scdn28557.wpc.ad629.nucdn.net
-
 # https://github.com/badmojr/1Hosts/issues/471
 lightning.od-cdn.com
 img1.od-cdn.com
 ic.od-cdn.com
-
 # https://github.com/badmojr/1Hosts/issues/470
 www.hackthebox.com
-
 # misc
 cdn.apkflash.com
 bibliogram.art
 git.sr.ht
-
 # https://github.com/badmojr/1Hosts/issues/455
 vendorlist.dmcdn.net
-
 # https://github.com/badmojr/1Hosts/issues/468
 production-ultimate-assets.ratecity.com.au
-
 # https://github.com/badmojr/1Hosts/issues/467
 fedex.ca
-
 # https://github.com/badmojr/1Hosts/issues/445
 mqtt.2030.ltsapis.goog
-
 # https://github.com/badmojr/1Hosts/issues/446
 silvergold.media
-
 # https://github.com/badmojr/1Hosts/issues/447
 accounts.krafton.com
 www.krafton.com
-
 # https://github.com/badmojr/1Hosts/issues/448
 www.elevenforum.com
-
 # https://github.com/badmojr/1Hosts/issues/449
 img-va.myshopline.com
-
 # https://github.com/badmojr/1Hosts/issues/450
 www.kicktraq.com
-
 # https://github.com/badmojr/1Hosts/issues/452
 img.netwrix.com
-
 # https://github.com/badmojr/1Hosts/issues/456
 proxy.clickup.codox.io
-
 # https://github.com/badmojr/1Hosts/issues/457
 www.rataalada.com
-
 # https://github.com/badmojr/1Hosts/issues/458
 kodify.net
-
 # https://github.com/badmojr/1Hosts/issues/459
 www.todoistcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/465
 bc-ipn2.paymentus.net
-
 # https://github.com/badmojr/1Hosts/issues/451
 app.statuscake.com
-
 # https://github.com/badmojr/1Hosts/issues/461
 www.ip-api.com
-
 # https://github.com/badmojr/1Hosts/issues/444
 push.api.bbci.co.uk
 ds69t8vdllf6w.cloudfront.net
-
 # https://github.com/badmojr/1Hosts/issues/438
 www.steamdeck.com
-
 # https://github.com/badmojr/1Hosts/issues/440
 www.321gold.com
-
 # https://github.com/badmojr/1Hosts/issues/441
 www.macvendorlookup.com
-
 # https://github.com/badmojr/1Hosts/issues/443
 www.trackmyshipment.co
-
 # https://github.com/badmojr/1Hosts/issues/442
  us.hismileteeth.com
  uk.hismileteeth.com
-
 # Epic's Rocket League
 api.rlpp.psynet.gg
 config.psynet.gg
 ws.rlpp.psynet.gg
 rl-cdn.psyonix.com
-
 # https://github.com/badmojr/1Hosts/issues/417
 brainstation.io
 www.nobledesktop.com
-
 # https://github.com/badmojr/1Hosts/issues/418
 expat.systeme.io
-
 # https://github.com/badmojr/1Hosts/issues/419
 gateway.wma.bedegaming.com
-
 # https://github.com/badmojr/1Hosts/issues/420
 www.soundboard.com
-
 # car manufacturer
 shop.vinfastauto.com
-
 # https://github.com/badmojr/1Hosts/issues/422
 www.r-kioski.fi.hosted-by.frantic.com
 cdn.frc.io
 www.r-kioski.fi
-
 # https://github.com/badmojr/1Hosts/issues/423
 sni1gl.wpc.thetacdn.net
 endpoint1-s03prdeuscompsvc.prd.bmc.cdn.office.net
-
 # https://github.com/badmojr/1Hosts/issues/424
 1500000774.vod2.myqcloud.com
-
 # https://github.com/badmojr/1Hosts/issues/425
 getirx-client-api-gateway.getirapi.com
-
 # https://github.com/badmojr/1Hosts/issues/426
 webwhiteboard.com
-
 # https://github.com/badmojr/1Hosts/issues/427
 api.youcanbook.me
-
 # https://github.com/badmojr/1Hosts/issues/428
 expel.io
-
 # https://github.com/badmojr/1Hosts/issues/429
 r.stripe.com
-
 # https://github.com/badmojr/1Hosts/issues/430
 www.trace3.com
-
 # https://github.com/badmojr/1Hosts/issues/431
 www.boxknight.com
-
 # https://github.com/badmojr/1Hosts/issues/432
 inktuitive.com
-
 # https://github.com/badmojr/1Hosts/issues/433
 # Unable to collect diagnostics in case the end user is trying to open/report a bug using in-app functionality.
 powerlift-frontdesk.acompli.net
-
 # https://github.com/badmojr/1Hosts/issues/434
 jumpshare.com
 jmp.sh
-
 # https://github.com/badmojr/1Hosts/issues/436
 www.fbpurity.com
-
 # @ https://cosmicscans.xyz/
 images.novel-fast.club
 aquamanga.com
-
 # @ https://odesli.co/
 api.odesli.co
-
 # https://github.com/badmojr/1Hosts/issues/409
 dual.part-0007.t-0009.fbs1-t-msedge.net
 login.sophos.com
-
 # https://github.com/badmojr/1Hosts/issues/410
 services.mathworks.com
 udc-service.mathworks.com
-
 # https://github.com/badmojr/1Hosts/issues/411
 remind.me
-
 # https://github.com/badmojr/1Hosts/issues/412
 api.pinterest.com
-
 # @ https://weblio.jp/
 weblio.hs.llnwd.net
-
 # @ https://apkcombo.com/
 imgrs.apkcombo.com
 cdn.down-apk.com
-
 # Cricket line guru app
 criclive-nw-ad4-403bf.asia-southeast1.firebasedatabase.app
 europe-west1.firebasedatabase.app
 crickapi.com
-
 # @ https://github.com/kkkyg/CFwarp/blob/main/CFwarp.sh
 api.ip.sb
-
 # dl/stream
 baator.stream.voidboost.cc
 static.voidboost.com
@@ -5722,313 +4243,236 @@ api.svh-api.ch
 ninjastream.to
 fs1.svh-cloud.ch
 protonvideo.to
-
 # @ https://timesofindia.indiatimes.com/
 geoapi.indiatimes.com
 jsso.indiatimes.com
-
 # @ https://e.coding.net/register
 captcha.gtimg.com
 captcha.gtimg.com.cloud.tc.qq.com
 captcha.gtimg.com.sched.ssdv6.tdnsv6.com
 assets.codehub.cn
 e.coding.net
-
 # https://github.com/badmojr/1Hosts/issues/395
 raspberrytips.com
 raspberrytips.fr
-
 # https://github.com/badmojr/1Hosts/issues/396
 us.api-ingenico.com
-
 # https://github.com/badmojr/1Hosts/issues/397
 songbird.cardinalcommerce.com
-
 # @ https://statically.io/
 cloudflare.staticallydns.com
 cdn.statically.io
-
 # dl/streaming
 static.xemovie.com
 s3.xemovie.com
 file.mk.co.kr
 mk.wacc.skcdn.com
 asianloadcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/393
 assetsgaranti.com
 assetsgarantibbva.com
 www.garantibbva.com.tr
-
 # WeLiveSecurity
 www.welivesecurity.com
 scdn1cbec.wpc.d6795.sigmacdn.net
-
 # F-Droid repo
 fdroid.frostnerd.com
-
 # Monk Software
 www.monksoftware.it
 xmpp-prod.monksoftware.it
-
 # @ https://nordpass.com/homepage/
 s1.npass.app
 www.nordpass.com
-
 # @ https://mlwbd.world/
 mlwbd.bar
 mlwbd.world
 en.songslyric.site
 techus.website
-
 # DivestOS Mobile
 divestos.org
-
 # @ https://www.resso.com/in/
 p16.resso.me
 lf16-fe.resso.me
 sf16-sg-tos.ressocdn.com
 www.resso.com
-
 # https://github.com/badmojr/1Hosts/issues/369
 data.sensor.community
 api.sensor.community
 maps.sensor.community
-
 # https://github.com/badmojr/1Hosts/issues/372
 tiny.one
-
 # https://github.com/badmojr/1Hosts/issues/376
 credo11112.pcapredict.com
 bosch11113.pcapredict.com
-
 # https://github.com/badmojr/1Hosts/issues/379
 spotify.link
-
 # https://github.com/badmojr/1Hosts/issues/380
 aws.com
 aws.amazon.com
-
 # https://github.com/badmojr/1Hosts/issues/384
 ipecho.net
-
 # https://github.com/badmojr/1Hosts/issues/387
 neilo.webuntis.com
 www.untis.at
-
 # https://github.com/badmojr/1Hosts/issues/388
 cmd.com 
-
 # https://github.com/badmojr/1Hosts/issues/389
 support.readaloud.app
-
 # https://github.com/badmojr/1Hosts/issues/390
 c.disquscdn.com
 d231vab146qzfb.cloudfront.net
-
 # Mi
 i01.appmifile.com
 i01.appmifile.com.baishan-cloud.net.
 www.po.co
 www.po.co.ksyna.net
 www.po.co.mgslb.com
-
 # @ https://packages.debian.org/source/stable/pymilter
 debian.map.fastlydns.net
 deb.debian.org
-
 # @ https://in.mail.yahoo.com
 ds-geoycpi-uno-lite.gycpi.b.yahoodns.net
 in.mail.yahoo.com
-
-# dl/stream
 hdhub4u.cfd
 cdn-33.2phimhay.net
 spantechie.com
 new.gdtot.eu
 howblogs.xyz
 mega4up.org
-
 # https://github.com/badmojr/1Hosts/issues/364
 www.statutoryholidays.com
-
 # Edge
 www.microsoftedge.com
-
 # @ https://www.androidpolice.com/
 static1.anpoimages.com
 www.androidpolice.com
-
 # https://github.com/badmojr/1Hosts/issues/352
 1gbits.com
-
 # https://github.com/badmojr/1Hosts/issues/353
 www.9to5linux.com
-
 # https://github.com/badmojr/1Hosts/issues/355
 www.mozorg.moz.works
 www.mozilla.org
-
 # https://github.com/badmojr/1Hosts/issues/356
 ncsi.4-c-0003.c-msedge.net
 www.msftconnecttest.com
-
 # https://github.com/badmojr/1Hosts/issues/357
 licensing.mp.microsoft.com
 neu.frontdoor.licensing.commerce.microsoft.com
-
 # https://github.com/badmojr/1Hosts/issues/361
 dynamodb.us-east-1.amazonaws.com
-
 # https://github.com/badmojr/1Hosts/issues/363
 log4jmemes.com
 api.log4jmemes.com
-
 # deeplinking, eg. bitly
 # @: https://invol.co/REDACTED
-www.tokopedia.com
 invol.co
-
 # @ https://www.eweka.nl/en
 www.eweka.nl
 cms-static.eweka.nl
-
 # @ https://www.theweek.co.uk/
 www.theweek.co.uk
 theweek.cdn.blaize.io
 mediacloud.theweek.co.uk
-
 # https://github.com/benbusby/whoogle-search
 whoogle.fossho.st
-
 # @ https://www.terabox.com/
 www.terabox.com
 data.terabox.com
 s0.teraboxcdn.com
-
 # email
 mail.cock.li
-
 # techjury
 techjury.net
-
 # torrents
 www.subtorrents.in
 www.divxtotal.nu
 www.subtorrents.li
-
 # @ https://www.giznext.com/news/
 www.giznext.com
 newsimg.giznext.com
-
 # italian news
 it.mediamass.net
-
 # Nicehash
 status.nicehash.com
 static.nicehash.com
 api2.nicehash.com
 www.nicehash.com
-
 # tech blog
 jvns.ca
-
 # @ https://www.subito.it/
 images.sbito.it
 assets.subito.it
-
 # https://www.lunasec.io/
 www.lunasec.io
 uploads-ssl.webflow.com
-
 # https://github.com/badmojr/1Hosts/issues/332
 coderedirect.com
-
 # https://github.com/badmojr/1Hosts/issues/333
 secure.terranovasite.com
 terranovasecurity.com
-
 # https://github.com/badmojr/1Hosts/issues/340
 disclose.tv
 dailyexpose.uk
-
 # https://github.com/badmojr/1Hosts/issues/343
 www.doshopify.com
-
 # https://github.com/badmojr/1Hosts/issues/344
 profile.shiftapis.com 
 websocket.shiftapis.com
-
 # https://github.com/badmojr/1Hosts/issues/346
 dyedurham.com
-
 # https://github.com/badmojr/1Hosts/issues/347
 widget.nfusionsolutions.com
-
 # https://github.com/badmojr/1Hosts/issues/342
 www.fastmail.com
 www.fastmailusercontent.comm
 www.fastmail.help
-
 # https://github.com/badmojr/1Hosts/issues/338
 www.hosting.de
 www.audioenglish.org
 feneas.org
-
 # https://github.com/badmojr/1Hosts/issues/334
 zradio.org
 pgorelease-assets.nianticstatic.com
 filtrete.com
-
 # https://github.com/badmojr/1Hosts/issues/349
 edge.avangate.net
 gs1.wac.edgecastcdn.net
 shop.dirac.se
 fxspkyo.x.incapdns.net
 www.dirac.com
-
 # @ https://mangareader.to/
 img.mreadercdn.ru
 c-1.mreadercdn.ru
 www.mangareader.to
-
 # 9anime
 9anime.id
 9anime.se
 9anime.to
 9anime.vc
 9anime.me
-
 # @ https://c787898.com/embed.php?id=live2
 djcbqdsbihjidcgf.wzcdn804.net
 plytv.swarm.video
 c787898.com
-
 # used for tracking your shipped pack @ foodspring.it
 widget.sendwise.sevensenders.com
 www.foodspring.it
-
 # Spjain offers gmba
 group27.sites.hscoscdn20.net 
 www.spjain.org
-
 # CalyxOS: Releases/downloads
 release.calyxinstitute.org
 calyxos.org
-
 # needed @ https://www.thenorthface.com/
 static.thenorthface.eu
 images.thenorthface.com
-
 # @ https://www.genyt.net/
 video.genyt.net
 video.genyt.xyz
 www.genyt.net
-
 # @ https://kimoitv.com
 src.foxscore.live
-
-# 
 tradebrains.in
 sponsor.ajay.app
 dnsforge.de
@@ -6044,14 +4488,12 @@ blog.adoptium.net
 www.rijksmuseum.nl
 spectrum.ieee.org
 hdfcbk.io
-
 # @ http://pdf.wondershare.com
 images.wondershare.com
 crm-static.wondershare.cc
 neveragain.allstatics.com
 pdf.wondershare.com
 a1168.g.akamai.net
-
 # @ http://100fyy.net/acg/2783/
 v123.nwclsyyx.com
 d.gqyy8.com
@@ -6059,15 +4501,12 @@ v.gqyy8.com
 gqyy8.com
 ws.stream.kg.qq.com
 v3.bdxiguavod.com
-
 # @ http://www.cqgy.xyz/
 p6.toutiaoimg.com
 vod11.bdzybf.com
 lmbsy.qq.com.bsgslb.com
 lmbsy.qq.com
 h2.w1ww.xyz
-
-# streaming
 media.opencdn.co
 app.opencdn.co
 tubesb.com
@@ -6093,24 +4532,19 @@ upstream.io
 videovard.to
 freeplayervideo.com
 c-2.thedaywestream.ru
-
 # @ https://mangadex.tv/
 cm.blazefast.co
-
 # @ https://mangadex.org/
 uploads.mangadex.org.focuscdn.net
 uploads.mangadex.org
 api.mangadex.org
 dxlb.mangadex.org
 bddhaec337xvm.xnvda7fch4zhr.mangadex.network
-
 # Metahub
 www.metahub.space
 images.metahub.space
-
 # torrent tracker
 t.nyaatracker.com
-
 # @ https://www.milanotoday.it/
 citynews-agrifoodtoday.stgy.ovh
 cdn.city-news.ovh
@@ -6118,68 +4552,52 @@ citynews-today.stgy.ovh
 citynews.stgy.ovh
 citynews-milanotoday.video.stgy.ovh
 www.milanotoday.it
-
 # XMPP Servers
 status.conversations.im
-
 # @ https://www.facile.it/
 media.cdn.facile.it
 www.facile.it
-
 # Timberland
 static.timberland.eu
 static.timberland.com
 image.timberland.co.kr
-
 # @ https://www.airtel.in/help
 kong-active.bsbportal.com
 digi-api.airtel.in
-
 # Jira Mobile
 api-private.atlassian.com
 global.stargate.cse.ss-inf.net
-
 # https://dice.fm/: buy tickets
 link.dice.fm
 custom.bnc.lt
-
 # Cardinal Cruise: used for payments
 includes.ccdc02.com
-
 # https://www.msn.com/en-xl/
 www-msn-com.a-0003.a-msedge.net
 icePrime.a-0003.dc-msedge.net
 a-0003.dc-msedge.net
 www.msn.com
-
 # @ https://www.bestcheck.de/
 im.bestcheck.de
 im-cms.bestcheck.de
 www.bestcheck.de
-
 # TIM website, Italian main carrier operator.
 api.tim.it
 lb-2.eu-south-1.aws.waas-online.net
-
 # legit italian website; suggestions and tips for new parents
 www.pianetamamma.it
 www.nostrofiglio.it
-
 # Cydia
 cydia.saurik.com.cdngc.net
 cydia.saurik.com
-
 # https://github.com/badmojr/1Hosts/issues/325
 www.myfamilymobile.com
-
 # https://github.com/badmojr/1Hosts/issues/326
 js.iplsc.com
 ia.hit.interia.pl
-
 # https://github.com/badmojr/1Hosts/issues/327
 www.hisense.com
 global.hisense.com
-
 # https://github.com/badmojr/1Hosts/issues/328
 pulsembed.eu
 player-api.dreamlab.pl
@@ -6188,19 +4606,14 @@ experience.tinypass.com
 c2.piano.io
 media.onet.pl
 authorisation.grupaonet.pl
-
 # https://github.com/badmojr/1Hosts/issues/329
 player.h-cdn.com
 cdn23720755.blazingcdn.net
 ipla.hit.stat24.com
 redefine.hit.stat24.com
-
 # affects videos: @ https://www.zdnet.com/video/
 at.adtech.redventures.io
-
-#
 wiki.pokemoncentral.it
-
 # https://github.com/badmojr/1Hosts/issues/324
 cdn.abcotvs.com
 assets-cdn.abcotvs.net
@@ -6209,11 +4622,9 @@ dcf.espn.com
 twdc-dtci.edge.nc0.co
 edge-geo.nc0.co
 api.abcotvs.com
-
 # @ https://en.savefrom.net
 worker.sf-tools.com
 sfstatic.net
-
 # @ https://www.bilibili.tv/en
 p.bstarstatic.com
 pic.bstarstatic.com
@@ -6221,17 +4632,13 @@ a.w.bilicdn1.com
 api.bilibili.tv
 upos-bstar1-mirrorakam.akamaized.net
 www.bilibili.tv
-
 # @ https://www.formula1.com
 core-www.watchliveformula1.com
 api.watchliveformula1.com
 api.formula1.com
 www.formula1.com
-
-# streaming
 2.gdetvnet.club
 f06-60d-1010g0.streamalloha.live
-
 # @ https://podstars.de
 io.podigee.net
 researchvr.podigee.io
@@ -6240,20 +4647,16 @@ cdn.podigee.com
 images.podigee-cdn.net
 player.podigee-cdn.net
 www.podstars.de
-
 # needed @ https://www.dnspod.cn/products/public.dns
 main.qcloudimg.com
 cloudcache.tencent-cloud.com
 cloudcache.tencentcs.cn
 cloudcache.tencentcs.cn.cdn.qcloudcdn.cn
-
 # https://github.com/badmojr/1Hosts/issues/321
 proxy.mythic-beasts.com
 www.piwheels.org
-
 # used by SofaScore app.
 api.sofascore.app
-
 # repos: Jailbreak.
 apt.alfhaily.me
 repo.co.kr
@@ -6261,192 +4664,134 @@ apt.fouadraheb.com
 apt.thebigboss.org
 repo.dynastic.co
 repo.chariz.com
-
-#
 www.torinotoday.it
 www.bw24.de
 www.kimoitv.com
 smartbroker.de
 www.ecenglish.com
-
 # Tidal
 listen.tidalhifi.com
 listen.tidal.com
-
 # used by Deezer.
 cs439.wpc.4d34.edgecastcdn.net
 cs618.wac.edgecastcdn.net
 e-cdns-proxy-4.dzcdn.net
 e-cdns-proxy-c.dzcdn.net
 e-cdns-images.dzcdn.net
-
 # https://github.com/badmojr/1Hosts/issues/319
 cdn.bestreviews.com
-
 # https://github.com/badmojr/1Hosts/issues/320
 qualtrics.com.edgekey.net
-
-# streaming
 m80.uqload.org
 m120.uqload.org
 gogoanime.wiki
 fplayer.info
 ajax.gogo-load.com
-
 # used by AdGuard VPN.
 api.perfectlyprivatedomain.org
 ping.m9009-gb-lhr-02-9pbl0v95.perfectlyprivatedomain.org
 ping.m9009-us-mia-02-zl2j8g5r.perfectlyprivatedomain.org
-
 # needed @ https://community.cleanbrowsing.org
 cdn-grp01.cdn-noc.net
 community.cleanbrowsing.org
-
 # needed for xBrowserSync to work.
 # https://f-droid.org/packages/com.xBrowserSync.android
 api.xbrowsersync.org
-
 # needed @ https://mangasee123.com/
 cover.nep.li
 scans-ongoing-1.lastation.us
 scans-hot.leanbox.us
 official-ongoing-1.ivalice.us
-
 # needed @ https://www.camfrog.com
 static3.camfrogcdn.com
 static2.camfrogcdn.com
 static.camfrogcdn.com
 www.camfrog.com
-
-# torrents
 www.mejortorrentes.net
-
 # needed @ https://www.doveconviene.it/
 www.doveconviene.it
 s2s.doveconviene.it
 s2s.shopfullyb2b.com
 drivetostore.doveconviene.it
 it-it-media-publications.shopfully.cloud
-
-# streaming
-asianembed.io
 asianembed.io
 www.thenetnaija.co
-
-# 
 www.english-bangla.com
-
 # needed @ www.thelancet.com/
 id.elsevier.com
 id.elsevier-ae.com
 els-jbs-prod-cdn.jbs.elsevierhealth.com
 www.thelancet.com
-
 # needed @ https://www.foodspring.it/
 main.shop-next.prod-ec1.foodspring.com
-www.foodspring.it
-
 # needed @ https://mangabuddy.com/
 static.youmadcdn.xyz
 stickers.madentertainment.xyz
-
 # needed @ https://novelbuddy.com/
 www.novelbuddy.com
 static.novelbuddy.com
-
 # commenting platform
 cdn.hyvor.com
 auth.hyvor.com
 talk.hyvor.com
-
 # needed @ https://www.33french-stream.com
 33seriestreaming.com
 www.33french-stream.com
 udhmgnsyvvxhaf1ygiax.larecontent.com
 33player.com
-
 # used by worldometers.info to display stats.
 www.realtimestatistics.net
 www.worldometers.info
-
 # mirroors for  LOS ROM.
 lineageos.tetaneutral.net
 mirror.cyberbits.eu
-
 # GitHub Wiki SEE
 github-wiki-see.page
-
-# 
 aospextended.com
-
-# 
 www.ibroadcast.com
-
 # needed @ https://tracker.gg
 imgsvc.trackercdn.com
-
 # used for login:  VNC account.
 auth-a.services.vnc.com
 auth-b.services.vnc.com
 auth-c.services.vnc.com
-
 # needed @ https://animixplay.to/
 cachecow.eu
 sbplay1.com
 loadfast1.com
 api.gogocdn.club
 v.vvid.cc
-
 # used by DropGalaxy
 techyneed.com
-
 # used for downloads @ nexusmods.com
 file.nexus-cdn.com
-
-#
 brantsteele.com
-
-#
 www.collaboraoffice.com
-
 # needed @ https://mangapark.net/
 styles.amarkcdn.com
 xfs-013.mpcdn.net
-
-#
 www.carrefour.it
-
 # https://github.com/badmojr/1Hosts/issues/305
 connectivity.service.signalr.net
-
 # https://github.com/badmojr/1Hosts/issues/311
 www.xero.com
-
 # https://github.com/badmojr/1Hosts/issues/309
 www.woozooo.com
-
 # https://github.com/badmojr/1Hosts/issues/307
 #media.architecturaldigest.com
-
 # https://github.com/badmojr/1Hosts/issues/303
 adverts.ie
-
 # used by letterboxd: thumbails, static files
 # @ https://letterboxd.com/
 api.letterboxd.com
 a.ltrbxd.com
 s.ltrbxd.com
-
 # affects chatbox
 bootstrap.api.drift.com
-
-# 
 symantec-enterprise-blogs.security.com
-
 # https://github.com/badmojr/1Hosts/issues/298
 mobile-messenger.intercom.com
 www.intercom.com
-
 # https://github.com/badmojr/1Hosts/issues/300
 push-rtmp-f5-gcp01.ttlivecdn.com
 push-rtmp-f5-gcp01.ttlivecdn.com.c.worldfcdn.com
@@ -6457,72 +4802,51 @@ p16-sign.tiktokcdn-us.com
 s16.hypstarcdn.com
 sf16.byteicdn.com
 a2047.r.akamai.net
-
 # https://github.com/badmojr/1Hosts/issues/288
 www.2ip.ru
-
 # https://github.com/badmojr/1Hosts/issues/293
 production.tile-api.com
-
 # https://github.com/badmojr/1Hosts/issues/291
 www.hardwaretimes.com
-
 # https://github.com/badmojr/1Hosts/issues/290
 media.communities.win
-
 # https://github.com/badmojr/1Hosts/issues/287
 www.12ft.io
-
 # https://github.com/badmojr/1Hosts/issues/285
 www.myfirewalla.com
-
 # https://github.com/badmojr/1Hosts/issues/284
 hopin-chat-dublin.stream-io-api.com
 prod.live.hopin.to
 api.hopin.com
 cdn.hopin.com
 www.hopin.com
-
 # https://dlied6.qq.com/invc/xfspeed/qqpcmgr/download/QQPCDownload****.exe
 dlied6.qq.com.yyb.sched.dcloudstc.com
 dlied6.qq.com
-
 # @ https://www.tim.it/
 api.tim.it.28978.fortiwebcloud.net
-api.tim.it
-
 # https://github.com/badmojr/1Hosts/issues/283
 www.php.net
 www-php-net.ax4z.com
-
 # https://github.com/badmojr/1Hosts/issues/281
 api.geocode.earth
-
 # https://github.com/badmojr/1Hosts/issues/282
 healthchecks.io
 hc-ping.com
-
 # https://github.com/badmojr/1Hosts/issues/274
 g.live.com
 g.msn.com
-
 # https://github.com/badmojr/1Hosts/issues/276
 apps.media-lab.ai
 js.media-lab.ai
-
 # https://github.com/badmojr/1Hosts/issues/277
 voiceapi.samsung-dict.com
-
-
 # https://github.com/jsdelivr/data.jsdelivr.com
 data.jsdelivr.com"
-
 # req. @ gogoanimes.org
 ww1.gogoanimes.org
 gogoplay1.com
 gogocdn.net
-
-
 # req. @ pc.qq.com
 sparta.qb.mig.tencent-cloud.net
 x2.tcdn.qq.com
@@ -6531,66 +4855,51 @@ pc3.gtimg.com
 pc2.gtimg.com
 pc1.gtimg.com
 pc.qq.com
-
 # req. @ quotidianomotori.com
 www.quotidianomotori.com.gazzanetwork.it
 www.quotidianomotori.com
 static2-qnmotori.gazzettaobjects.it
 components2.rcsobjects.it
 images2-qnmotori.gazzettaobjects.it
-
 # req. @ animalia.bio
 animalia.bio
 animalia.us-east-1.linodeobjects.com
-
 # e.g: https://api.faviconkit.com/rethinkdns.com/356
 api.faviconkit.com
-
 req. @ jiosaavn.com
 snoidcdnems01.cdnsrv.jio.com
 ac.cf.saavncdn.com
 static.saavn.com
 www.jiosaavn.com
-
 req. @ raspberrypi.com
 forums.raspberrypi.com
 www.raspberrypi.com
 assets.raspberrypi.com
-
 req. @ www.bloomberg.com
 assets.bwbx.io.shared.bloomberga.com
 assets.bwbx.io
-
 # Breaks layout @ https://www.jio.com/
 jep-asset.akamaized.net
-
 # https://github.com/ShadowWhisperer/BlockLists/issues/15
 geo1.presslabs.net
 www.presslabs.com
-
 # https://github.com/badmojr/1Hosts/issues/275
 www.cyberpowersystems.com
-
 # https://github.com/badmojr/1Hosts/issues/273
 niantic.helpshift.com
-
 # https://github.com/badmojr/1Hosts/issues/272
 fbs.prod.spn.a1q7.net
 ntd-asus-2014b-en.fbs20.trendmicro.com
-
 # https://github.com/badmojr/1Hosts/issues/271
 cache11.stubhubstatic.com
 www.stubhub.ca
 media.stubhubstatic.com
-
 # https://github.com/badmojr/1Hosts/issues/269
 alive.github.com
-
 # https://github.com/badmojr/1Hosts/issues/268
 www.anibis.ch
 asmblock.anibis.ch
 api.anibis.ch
-
 # https://github.com/badmojr/1Hosts/issues/267
 xjp.wagbridge-lazada.alibaba-inc.com
 xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com
@@ -6603,79 +4912,61 @@ my.lazada.sg
 cart.lazada.sg
 member.lazada.sg
 www.lazada.sg
-
 # J-/K-pop streaming radio
 cdn.listen.moe
-
 # fix layout @: https://www.gazzetta.it/
 components2.gazzettaobjects.it
 prd-images2-gazzanet.gazzettaobjects.it
-
 # torrenting
 www.oxtorrent.cx
 www.mejortorrentes.com
 torrentproject2.com
 www.oxtorrent.nz
-www.subtorrents.in
 atomixhq.com
 s.rutor.info
 zimages.ws
-
 # Telecom
 www.iliad.it
 corporate.iliad.it
-
 # Streaming
 user-content.findpng1.xyz
 user-content.hizliresim1.xyz
 psarips.top
 inv.riverside.rocks
 vid.puffyan.us
-
 # CNAME for auth.shazam.com
 kong-global.shz-amp-prod.shazamcloud.com
 uth.shazam.com
-
 # https://github.com/badmojr/1Hosts/issues/264
 r.bing.com
-
 # State of Survival
 # https://github.com/badmojr/1Hosts/issues/265
 funplusgames.helpshift.com
 ss-global.kingsgroupgames.com
-
 # CNAME
 www.antichitabelsito.it
 onlinux-fr.setupdns.net
-
 # used by League of Legends.
 # https://domain.glass/search/?q=pvp.net
 tdm.prod01.row.cros.wr.pvp.net
-
 # GitHub: used by Codespaces
 github.vscode-unpkg.net
 db917ee9-ba3a-4b82-b89c-dcbcd052b8c0.vscode-webview.net
 ms-vscode.vscode-unpkg.net
-
 # Doodstream: file hosting
 dood.ws
-
 # https://github.com/badmojr/1Hosts/issues/180
 dealabs.digidip.net
-
 # used by Oppo.
 # https://domain.glass/cdnx2.com
 cdnx2.com
-
 # used by Aurora Store: https://gitlab.com/AuroraOSS/AuroraStore
 goolag.store
-
 # https://github.com/badmojr/1Hosts/issues/261
 api.invidious.io
 yt.artemislena.eu
 ytb.trom.tf
 yewtu.be
-
 # Causes Alexa devices to stop working.
 a2z.com
 avs-alexa-1-na.amazon.com
@@ -6698,8 +4989,6 @@ avs-alexa-6-eu.amazon.com
 avs-alexa-6-na.amazon.com
 avs-alexa-7-eu.amazon.com
 avs-alexa-7-na.amazon.com
-
-# misc
 writerimranc.ca
 wric.ca
 www.lacucinaitaliana.it
@@ -6714,49 +5003,35 @@ lsa.umich.edu
 nsf.gov
 www.sciencedaily.com
 www.science.org
-
 # https://github.com/badmojr/1Hosts/issues/3556
 outfoxxed.me
 git.outfoxxed.me
-
 # https://github.com/badmojr/1Hosts/issues/3555
 hotmart.host
-
 # https://github.com/badmojr/1Hosts/issues/3554
 partnerpage.io
-
 # https://github.com/badmojr/1Hosts/issues/3553
 mr-z01.tm-azurefd.net
-
 # https://github.com/badmojr/1Hosts/issues/3552
 fastly.mirror.pkgbuild.com
-
 # https://github.com/badmojr/1Hosts/issues/3551
 hop.pledge.to
-
 # https://github.com/badmojr/1Hosts/issues/3550
 nuevarevista.net
-
 # https://github.com/badmojr/1Hosts/issues/3549
 chatbot.akbank.com
-
 # https://github.com/badmojr/1Hosts/issues/3548
 st2.adguardcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/3547
 blueoptima.com
 opensource.blueoptima.com
-
 # https://github.com/badmojr/1Hosts/issues/3545
 www.gonoise.com
-
 # https://github.com/badmojr/1Hosts/issues/3544
 the-decoder.com
 the-decoder.de
-
 # https://github.com/badmojr/1Hosts/issues/3543
 data.syncthing.net
-
 # https://github.com/badmojr/1Hosts/issues/3542
 aa.edu
 aau.edu
@@ -7404,7 +5679,6 @@ wyotech.edu
 yei.edu
 yum.osc.edu
 zaytuna.edu
-
 # https://github.com/badmojr/1Hosts/issues/3541
 1024tera.com
 api.terabox.club
@@ -7412,7 +5686,6 @@ s5.teraboxcdn.com
 teraboxapp.com
 terabox.app
 terabox.club
-teraboxapp.com
 teraboxcdn.app
 teraboxfree.com
 teraboxlink.com
@@ -7422,116 +5695,82 @@ tibibox.com
 www.terabox.app
 www.teraboxcdn.app
 www.teraboxshare.com
-
 # https://github.com/badmojr/1Hosts/issues/3539
 oitube.com
-
 # https://github.com/badmojr/1Hosts/issues/3538
 play-asia.com
-
 # https://github.com/badmojr/1Hosts/issues/3537
 app.calconic.com
-
 # https://github.com/badmojr/1Hosts/issues/3535
 abinitio.com
-
 # https://github.com/badmojr/1Hosts/issues/3534
 betterstackcdn.com
 cdnjs.betterstackcdn.com
 uptime.betterstackcdn.com
-
 # https://github.com/badmojr/1Hosts/issues/3533
 banxa.com
-
 # https://github.com/badmojr/1Hosts/issues/3532
 xtream.cloud
-
 # https://github.com/badmojr/1Hosts/issues/3531
 musiccreator.ai
-
 # https://github.com/badmojr/1Hosts/issues/3530
 prompts.chat
-
 # https://github.com/badmojr/1Hosts/issues/3529
 api.twitter.com
 api.x.com
-
 # https://github.com/badmojr/1Hosts/issues/3528
 idshost.fr
-
 # https://github.com/badmojr/1Hosts/issues/3527
 techenclave.com
-
 # https://github.com/badmojr/1Hosts/issues/3526
 tab.digital
 nl.tab.digital
 thegood.cloud
-
 # https://github.com/badmojr/1Hosts/issues/3525
 metered.ca
 global.relay.metered.ca
 openrelay.metered.ca
 relay.metered.ca
 stun.relay.metered.ca
-
 # https://github.com/badmojr/1Hosts/issues/3524
 videosdk.live
-
 # https://github.com/badmojr/1Hosts/issues/3523
 fosiaudio.com
-
 # https://github.com/badmojr/1Hosts/issues/3522
 fluxer.app
-
 # https://github.com/badmojr/1Hosts/issues/3521
 api.sarvam.ai
-
 # https://github.com/badmojr/1Hosts/issues/3520
 district.in
-
 # https://github.com/badmojr/1Hosts/issues/3519
 kagiproxy.com
 web-archive-org.kagiproxy.com
-
 # https://github.com/badmojr/1Hosts/issues/3518
 new.alahlionline.com
-
 # https://github.com/badmojr/1Hosts/issues/3517
 endra.ai
-
 # https://github.com/badmojr/1Hosts/issues/3516
 tmovie.tv
-
 # https://github.com/badmojr/1Hosts/issues/3515
 eden.so
-
 # https://github.com/badmojr/1Hosts/issues/3514
 login.sarvam.ai
-
 # https://github.com/badmojr/1Hosts/issues/3513
 kkinstagram.com
-
 # https://github.com/badmojr/1Hosts/issues/3512
 infotbm.com
-
 # https://github.com/badmojr/1Hosts/issues/3511
 cdn.jiostore.online
-
 # https://github.com/badmojr/1Hosts/issues/3510
 9mod.cloud
 cdn.9mod.cloud
 9mod.space
 cloud.9mod.space
-
 # https://github.com/badmojr/1Hosts/issues/3509
 res-1.public.onecdn.static.microsoft
-
 # https://github.com/badmojr/1Hosts/issues/3508
 bayernportal.de
-
 # https://github.com/badmojr/1Hosts/issues/3507
 1shows.nl
-
 # https://github.com/badmojr/1Hosts/issues/3506
 steipete.me
-
