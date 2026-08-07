@@ -1,0 +1,15 @@
+# Format
+/Lite/*.txt linguist-language=adblock linguist-detectable
+/Xtra/*.txt linguist-language=fundamental linguist-detectable
+/Lite/*.wildcards linguist-language=fundamental linguist-detectable
+/Xtra/*.wildcards linguist-language=hosts linguist-detectable
+/Lite/*.win linguist-language=fundamental linguist-detectable
+/Xtra/*.win linguist-language=js linguist-detectable
+/Lite/*.rules linguist-language=regex linguist-detectable
+/Xtra/*.rules linguist-language=fundamental linguist-detectable
+/Lite/*.conf linguist-language=fundamental linguist-detectable
+/Xtra/*.conf linguist-language=fundamental linguist-detectable
+/*.txt linguist-language=fundamental linguist-detectable
+
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
