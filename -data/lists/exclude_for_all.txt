@@ -56,7 +56,6 @@ uaepass.ae
 zx2c4.com
 # https://github.com/badmojr/1Hosts/issues/4360
 jdx.dev
-# https://github.com/luckmagnet/1Hosts/issues/5
 allen-live.in
 # https://github.com/badmojr/1Hosts/issues/4347
 vdm.ovh
@@ -99,7 +98,6 @@ akisnet.ch
 tb-cdn.st
 # https://github.com/badmojr/1Hosts/issues/4240
 kyber.gg
-# https://github.com/luckmagnet/1Hosts/issues/12
 iglonline.net
 mailbody-ui.de
 # https://github.com/badmojr/1Hosts/issues/4159
@@ -128,7 +126,6 @@ www.privacyguides.org
 studio.sandisk.com-v1.edgekey.net
 # https://github.com/luckmagnet/1Hosts/issues/10
 assets.adobedtm.com
-# https://github.com/luckmagnet/1Hosts/issues/1
 examgoal.net
 # https://github.com/badmojr/1Hosts/issues/3938
 a.gslb.aaplimg.com
@@ -141,7 +138,6 @@ fedidevs.com
 notateslaapp.com
 # https://github.com/badmojr/1Hosts/issues/3833
 play-apps-features.googleusercontent.com
-# https://github.com/luckmagnet/1Hosts/issues/6
 infinitylearn.com
 allen.in
 # https://github.com/badmojr/1Hosts/issues/3803
