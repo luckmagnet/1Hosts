@@ -90,7 +90,7 @@
 <br>
 
 
-<h3 align="center"><id="Xtra">🔴 <strong><ins>1Hosts (Xtra)</ins> <sup>Beta</sup></strong></h3>
+<h3 align="center"><id="Xtra">🔴 <strong><ins>1Hosts (Xtra)</ins> <sup>Alpha</sup></strong></h3>
     <i>Aggressive version - maximum blocking against emerging privacy threats. May (occasionally) disrupt legit sites or services.
 </i>
 <br><br>
