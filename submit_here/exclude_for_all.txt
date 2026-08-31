@@ -1,0 +1,20 @@
+# https://github.com/badmojr/1Hosts/issues/4535
+ws.nperf.com
+
+# https://github.com/badmojr/1Hosts/issues/4531
+claws-mail.org
+
+# https://github.com/badmojr/1Hosts/issues/4530
+chainguard.dev
+
+# https://github.com/badmojr/1Hosts/issues/4528
+perryschools.org
+
+# https://github.com/badmojr/1Hosts/issues/4527
+atproto.com
+
+# https://github.com/badmojr/1Hosts/issues/4526
+r-tt.com
+
+# https://github.com/badmojr/1Hosts/issues/4523
+altcha.org
