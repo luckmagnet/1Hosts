@@ -28,6 +28,18 @@ apelections.org
 # https://github.com/badmojr/1Hosts/issues/4550
 homestoop.com
 
+# https://github.com/badmojr/1Hosts/issues/4547
+simeononsecurity.com
+
+# https://github.com/badmojr/1Hosts/issues/4544
+vape.gg
+
+# https://github.com/badmojr/1Hosts/issues/4543
+searxng.org
+
+# https://github.com/badmojr/1Hosts/issues/4542
+esolangs.org
+
 # https://github.com/badmojr/1Hosts/issues/3594
 badges.equicord.org
 usrbg.is-hardly.online
