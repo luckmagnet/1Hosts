@@ -13,6 +13,24 @@ goldfishsmiles.com
 # https://github.com/badmojr/1Hosts/issues/4603
 submarinecablemap.com
 
+# https://github.com/badmojr/1Hosts/issues/4602
+changers.com
+
+# https://github.com/badmojr/1Hosts/issues/4601
+dropsitenews.com
+
+# https://github.com/badmojr/1Hosts/issues/4597
+qwencloud.com
+
+# https://github.com/badmojr/1Hosts/issues/4594
+myusagepayments.com
+
+# https://github.com/badmojr/1Hosts/issues/4586
+fossunited.org
+
+# https://github.com/badmojr/1Hosts/issues/4584
+comaps.app
+
 # https://github.com/badmojr/1Hosts/issues/3522
 # https://github.com/badmojr/1Hosts/issues/4576
 fluxerstatus.com
