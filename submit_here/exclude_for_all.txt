@@ -31,6 +31,7 @@ in.nextlgsdp.com
 it.nextlgsdp.com
 ja7.nextlgsdp.com
 jp.nextlgsdp.com
+ke.nextlgsdp.com
 lt.nextlgsdp.com
 me.nextlgsdp.com
 mx.nextlgsdp.com
@@ -43,8 +44,10 @@ pl.nextlgsdp.com
 pt.nextlgsdp.com
 ro.nextlgsdp.com
 ru.nextlgsdp.com
+sa.nextlgsdp.com
 se.nextlgsdp.com
 si.nextlgsdp.com
+sk.nextlgsdp.com
 sv.nextlgsdp.com
 th.nextlgsdp.com
 tr.nextlgsdp.com
@@ -52,9 +55,6 @@ us.nextlgsdp.com
 us7.nextlgsdp.com
 vn.nextlgsdp.com
 za.nextlgsdp.com
-ke.nextlgsdp.com
-sa.nextlgsdp.com
-sk.nextlgsdp.com
 
 # https://github.com/luckmagnet/1Hosts/issues/20
 lucide.dev
