@@ -1,3 +1,22 @@
+# https://github.com/luckmagnet/1Hosts/issues/21
+ismalicious.com
+
+# https://github.com/badmojr/1Hosts/issues/4611
+rtfd.io
+
+# https://github.com/badmojr/1Hosts/issues/4610
+warze.org
+
+# https://github.com/badmojr/1Hosts/issues/4608
+goldfishsmiles.com
+
+# https://github.com/badmojr/1Hosts/issues/4603
+submarinecablemap.com
+
+# https://github.com/badmojr/1Hosts/issues/3522
+# https://github.com/badmojr/1Hosts/issues/4576
+fluxerstatus.com
+
 # https://github.com/luckmagnet/1Hosts/issues/20
 lucide.dev
 
