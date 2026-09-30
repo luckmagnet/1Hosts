@@ -25,6 +25,9 @@ qwencloud.com
 # https://github.com/badmojr/1Hosts/issues/4594
 myusagepayments.com
 
+# https://github.com/badmojr/1Hosts/issues/4591
+muxy.io
+
 # https://github.com/badmojr/1Hosts/issues/4586
 fossunited.org
 
