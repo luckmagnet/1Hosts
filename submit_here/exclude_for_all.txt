@@ -1,0 +1,15 @@
+# https://github.com/luckmagnet/1Hosts/issues/20
+lucide.dev
+
+# https://github.com/luckmagnet/1Hosts/issues/19
+webawesome.com
+
+# https://github.com/luckmagnet/1Hosts/issues/18
+play.hosting
+
+# https://github.com/luckmagnet/1Hosts/issues/17
+klipy.co
+klipy.com
+
+# https://github.com/luckmagnet/1Hosts/issues/16
+plc.directory
