@@ -1,4 +1,4 @@
-##  1Hosts Fork
+##  1Hosts Fork<sup>Alpha</sup></strong></h3>
 
 ***Safeguard your device(s) against pesky ads, trackers, and malware.***<br>
 
