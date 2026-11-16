@@ -1,6 +1,17 @@
+# https://github.com/badmojr/1Hosts/issues/4618
+deflock.org
+
+# https://github.com/badmojr/1Hosts/issues/4614
+waydro.id
+# https://github.com/badmojr/1Hosts/issues/4613
+humanrights.ca
+# https://github.com/badmojr/1Hosts/issues/4607
+voidly.ai
+https://github.com/badmojr/1Hosts/issues/4160
+ui-portal.com
+mam.dev
 # https://github.com/luckmagnet/1Hosts/issues/21
 ismalicious.com
-
 # https://github.com/badmojr/1Hosts/issues/4611
 rtfd.io
 # https://github.com/badmojr/1Hosts/issues/4610
